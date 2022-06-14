@@ -35,6 +35,10 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MYTV",TVIKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 tvg-ID="CNA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/515.png" group-title="MYTV",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="MYTV;News",CNA (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="Super sports" tvg-country="MY" tvg-language="Malay" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="MYTV",Super sports ( F1 )
 https://353c4b4758fa.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.132118298736.channel.H6ABKGTt18Zq.m3u8
 #EXTINF:-1 tvg-id="Super sports 1" tvg-country="MY" tvg-language="Malay" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="MYTV",Super sports 1 (WSBK)
@@ -512,7 +516,7 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="INT" tvg-language="English;Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General",KBS World (720p)
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MaahTV.my" tvg-country="MY" tvg-language="English" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="Undefined",Maah TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MaahTV.my" tvg-country="MY" tvg-language="English" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="MYTV",Maah TV (720p) [Not 24/7]
 http://51.210.199.33/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Culture",Metro Globe Network (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
@@ -528,8 +532,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:-1 tvg-ID="CNA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/515.png" group-title="Singapore",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png" group-title="Indonesian",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uKoQXLkeHZ0/hqdefault.jpg" group-title="Indonesian", TRANS 7
@@ -3297,8 +3299,6 @@ https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
 #EXTINF:-1 tvg-id="Canal3PinamarHD.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KN8yuPh.png" group-title="Undefined",CN3 Pinamar (720p) [Not 24/7]
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="News",CNA (1080p)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNA.dz" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4s1NlRf.jpg" group-title="Religious",CNA (Chaîne Nord Africaine) (360p) [Not 24/7]
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC (1080p)
