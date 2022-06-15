@@ -12337,6 +12337,22 @@ https://mediaprima.rastream.com/mediaprima-molekfm
 
 
 
+#EXTINF:-1 group-title="Test" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://www.niemanlab.org/images/AJE-orange-logo-fb.jpg",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="Test" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://up.metropol247.co.uk/112011/1322261148_379242983.jpg",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="Test" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-bloomberg-tv-1366-300x225.jpg",Bloomberg TV Asia Live Event
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="Test" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://i.pinimg.com/564x/87/a6/f7/87a6f7a17a1e9a95e4b28c3822568b48.jpg",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="Test" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://staticcorpo.euronews.com/wp-content/uploads/logo-footer.svg",Euronews English
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 group-title="Test" ch-number="" tvg-id="" tvg-chno="" tvg-logo="",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Test" ch-number="" tvg-id="" tvg-chno="" tvg-logo="",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Test" ch-number="" tvg-id="" tvg-chno="" tvg-logo="",World Fashion Channel
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 
 
