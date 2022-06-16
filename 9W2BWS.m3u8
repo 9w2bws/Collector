@@ -524,7 +524,6 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="test;Korean", ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MaahTV.my" tvg-country="MY" tvg-language="English" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="MYTV",Maah TV (720p) [Not 24/7]
 http://51.210.199.33/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Culture",Metro Globe Network (1080p) [Not 24/7]
@@ -11495,25 +11494,25 @@ http://51.210.199.9/hls/stream.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",VPOD-TV 59.3 Chicago IL (WAOE) (1080p)
 https://81988.global.ssl.fastly.net/6054f2db9a679c037cbbb2b2/live_7749cbc088e711eb99623595db260c33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="Undefined",VRT Radio 1
+#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="VRT",VRT Radio 1
 https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="Undefined",VRT Radio 1
+#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="VRT",VRT Radio 1
 https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd
-#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="Undefined",VRT Radio 2
+#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="VRT",VRT Radio 2
 https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="Undefined",VRT Radio 2
+#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="VRT",VRT Radio 2
 https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd
-#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="Undefined",VRT Radio Klara
+#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="VRT",VRT Radio Klara
 https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="Undefined",VRT Radio Klara
+#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="VRT",VRT Radio Klara
 https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.mpd
-#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="Undefined",VRT Radio MNM Music and More
+#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="VRT",VRT Radio MNM Music and More
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="Undefined",VRT Radio MNM Music and More
+#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="VRT",VRT Radio MNM Music and More
 https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd
-#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="Undefined",VRT Radio StuBru
+#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="VRT",VRT Radio StuBru
 https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="Undefined",VRT Radio StuBru
+#EXTINF:-1 tvg-id="" tvg-country="BE" tvg-language="" tvg-logo="" group-title="VRT",VRT Radio StuBru
 https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd
 #EXTINF:-1 tvg-id="VSiN.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VSiN_400x400.png?raw=true" group-title="Undefined",VSiN (720p)
 https://stream.rcncdn.com/live/vsinproxy.m3u8
@@ -11640,9 +11639,9 @@ https://v-pi.theus6tv.tk/hls/2.2/playlist.m3u8
 https://v-pi.theus6tv.tk/hls/2.5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="" tvg-logo="" group-title="Undefined",WDR Koeln (720p)
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Weather Channel (ウェザーニュース) (BS | WNI) (720p)
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Weather",Weather Channel (ウェザーニュース) (BS | WNI) (720p)
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",Weather Nation Chicago (720p)
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Weather",Weather Nation Chicago (720p)
 https://siloh.pluto.tv/lilo/production/WeatherNation/Chicago/master.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Weather",Weather News (720p)
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
@@ -12117,7 +12116,7 @@ https://mediaprima.rastream.com/mediaprima-molekfm
 
 
 
-#EXTINF:-1 group-title="Test" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://up.metropol247.co.uk/112011/1322261148_379242983.jpg",BBC World News
+#EXTINF:-1 group-title="News" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://up.metropol247.co.uk/112011/1322261148_379242983.jpg",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="Test" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-bloomberg-tv-1366-300x225.jpg",Bloomberg TV Asia Live Event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
@@ -12131,12 +12130,6 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 
-
-
-
-
-
-#test
 
 
 
