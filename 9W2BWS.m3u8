@@ -589,7 +589,7 @@ http://30frasiiii.hopto.me:80/0000/0000/238462?checkedby:iptvcat.com
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGcdW-DpYWX1QDfhy1lTUDs/ts?checkedby:iptvcat.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies;HBO",HBO
+#EXTINF:-1 tvg-id="HBO.un" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies;HBO",HBO
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -603,7 +603,7 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies;HBO",HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-#EXTINF:-1 tvg-id="HBO.un" tvg-country="UN" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies;HBO",HBO Asia
+#EXTINF:-1 tvg-id="HBO" tvg-country="UN" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies;HBO",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="HBO-PREMIUM.un" tvg-country="UN" tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png" group-title="Movies;HBO",HBO PREMIUM
 https://s.vdo.ai/vhs/1.m3u8?checkedby:iptvcat.com
