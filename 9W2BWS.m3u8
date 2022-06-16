@@ -591,7 +591,7 @@ http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGcdW-DpYWX1QDfhy1lTUDs/ts?
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="HBO.ID" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies;HBO",HBO
+#EXTINF:-1 tvg-id="HBOHD" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies;HBO",HBO
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #EXTINF:-1 tvg-id="HBOHD" tvg-country="US" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies;HBO",HBO HD
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2947?checkedby:iptvcat.com
