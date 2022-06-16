@@ -688,7 +688,7 @@ http://oqab.life:8080/live/858182/858182/93.m3u8|http://oqab.life:8080/get.php?u
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-ID="KIX" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="MYTV", KIX HD
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-#EXTINF:-1 tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="Discovery",Prime
+#EXTINF:-1 tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="Discovery;Prime",Prime
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Discovery",Discovery Channel",Discovery Channel
 http://xcui.vitvabc.xyz:8880/287994016390/287994016390/16705
@@ -940,8 +940,6 @@ https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
 https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="SBM.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/3374ed8c-8b84-4703-8449-7142e3bd838e.png" group-title="mOVIES",SBS World Movies
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="Shop",Prime
-https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
 #EXTINF:-1 tvg-ID="NIT.AU" tvg-logo="https://static.epg.best/au/NITV.au.png" group-title="Music",NITV
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesian",SCTV
@@ -8432,9 +8430,9 @@ https://v2.siar.us/primatv/livestream/chunks.m3u8
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokenhash=hOdIznDoakApEuQ8FaFI3yrJuBMZHqCB7B3cWTmRWsc=
 #EXTINF:-1 tvg-id="Primavera15.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GIbFg8B.png" group-title="Undefined",Primavera 15 Radiotelevisión (Moquegua) (720p) [Not 24/7]
 https://tv.portalexpress.es:3270/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="PrimeCanadaTV.ca" tvg-country="CA" tvg-language="Panjabi" tvg-logo="https://i.imgur.com/xMABkOU.png" group-title="Entertainment",Prime Canada TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PrimeCanadaTV.ca" tvg-country="CA" tvg-language="Panjabi" tvg-logo="https://i.imgur.com/xMABkOU.png" group-title="Entertainment;Prime",Prime Canada TV (720p) [Not 24/7]
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="Undefined",Prime Time Drama
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="Prime",Prime Time Drama
 https://simultv.s.llnwi.net/o064/PrimeTimeDrama/interlink.m3u8
 #EXTINF:-1 tvg-id="Primocanale.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/ltoMTJV.png" group-title="Undefined",Primocanale (1080p) [Not 24/7]
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
