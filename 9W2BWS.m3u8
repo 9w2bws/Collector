@@ -12140,3 +12140,51 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Fashion Channel" ch-number="" tvg-id="" tvg-chno="" tvg-logo="",World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+
+
+
+
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO TEST",HBO
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242047?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="HBO TEST",HBO 2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242048?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="HBO TEST",HBO HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/203146?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="HBO TEST",HBO2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275435?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="HBO TEST",HBO3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275436?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="HBO TEST",HBO 2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144621?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="HBO TEST",HBO 3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275362?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="HBO TEST",HBO HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275360?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="HBO TEST",VIP HBO 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/377108?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="HBO TEST",VIP HBO 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/377107?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="HBO TEST",VIP HBO 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/377106?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="HBO TEST",HBO 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7398?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="HBO TEST",HBO 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/170438?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="HBO TEST",HBO HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7397?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="HBO TEST",HBO Asia
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png" group-title="HBO TEST",HBO PREMIUM
+https://s.vdo.ai/vhs/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="HBO TEST",HBO 2
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2942?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="HBO TEST",HBO COMEDY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2943?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="HBO TEST",HBO FAMILY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2945?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="HBO TEST",HBO HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2947?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="HBO TEST",HBO SIGNATURE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2946?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="HBO TEST",HBO ZONE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2948?checkedby:iptvcat.com
