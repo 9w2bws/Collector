@@ -1336,13 +1336,13 @@ http://5e396e0211d7a.streamlock.net:1935/afbtv/live/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/mim21889/live
 #EXTINF:-1 tvg-id="AFNTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/JkcCM5H.png" group-title="Entertainment",AFN TV (720p) [Not 24/7]
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 tvg-id="Africa7.sn" tvg-country="SN" tvg-language="French;Wolof" tvg-logo="https://i.imgur.com/ncOuLg6.jpg" group-title="Undefined",Africa 7 (480p)
+#EXTINF:-1 tvg-id="Africa7.sn" tvg-country="SN" tvg-language="French;Wolof" tvg-logo="https://i.imgur.com/ncOuLg6.jpg" group-title="Africa",Africa 7 (480p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7xq2dw
-#EXTINF:-1 tvg-id="AfricaTV1.ng" tvg-country="NG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/soDiTxg.jpeg" group-title="Undefined",Africa TV 1
+#EXTINF:-1 tvg-id="AfricaTV1.ng" tvg-country="NG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/soDiTxg.jpeg" group-title="Africa",Africa TV 1
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1 tvg-id="AfricaTV2.ng" tvg-country="NG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVwwXan.jpeg" group-title="Undefined",Africa TV 2
+#EXTINF:-1 tvg-id="AfricaTV2.ng" tvg-country="NG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVwwXan.jpeg" group-title="Africa",Africa TV 2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="AfricaTV3.ng" tvg-country="NG" tvg-language="English" tvg-logo="https://i.imgur.com/dzIFvwM.png" group-title="Undefined",Africa TV3 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AfricaTV3.ng" tvg-country="NG" tvg-language="English" tvg-logo="https://i.imgur.com/dzIFvwM.png" group-title="Africa",Africa TV3 (720p) [Not 24/7]
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-country="CG" tvg-language="English;French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Africanews_logo.svg/512px-Africanews_logo.svg.png" group-title="News",AfricaNews English (720p)
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
@@ -1391,12 +1391,6 @@ https://q-s-l4n3sh4d0w.onrender.com/iptv-query?provider=dacast&streaming-ip=http
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="AkaalTV.uk" tvg-country="UK" tvg-language="English;Panjabi" tvg-logo="https://i.imgur.com/62IpVDn.png" group-title="Religious",Akaal TV (396p) [Geo-blocked]
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 tvg-id="Akaku53.us" tvg-country="US-HI" tvg-language="English" tvg-logo="https://i.imgur.com/MQET539.jpg" group-title="Hawaii",Akaku 53 (Hawaii) (1080p)
-https://akaku.vod.castus.tv/live/ch1.m3u8
-#EXTINF:-1 tvg-id="Akaku54.us" tvg-country="US-HI" tvg-language="English" tvg-logo="https://i.imgur.com/MQET539.jpg" group-title="Hawaii",Akaku 54 (Hawaii) (1080p)
-https://akaku.vod.castus.tv/live/ch2.m3u8
-#EXTINF:-1 tvg-id="Akaku55.us" tvg-country="US-HI" tvg-language="English" tvg-logo="https://i.imgur.com/MQET539.jpg" group-title="Hawaii",Akaku 55 (Hawaii) (1080p)
-https://akaku.vod.castus.tv/live/ch3.m3u8
 #EXTINF:-1 tvg-id="AKCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Outdoor",AKC TV (1080p)
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Outdoor",AKC TV Meet the Breeds (1080p)
