@@ -41,9 +41,7 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="702" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="MYTV;Sports",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:-1 tvg-ID="CNA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/515.png" group-title="MYTV",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="MYTV;News",CNA (1080p)
+#EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="MYTV;News;CNA",CNA (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="Super sports" tvg-country="MY" tvg-language="Malay" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="MYTV",Super sports ( F1 )
 https://353c4b4758fa.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.132118298736.channel.H6ABKGTt18Zq.m3u8
@@ -3274,7 +3272,7 @@ https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
 #EXTINF:-1 tvg-id="Canal3PinamarHD.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KN8yuPh.png" group-title="Undefined",CN3 Pinamar (720p) [Not 24/7]
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA.dz" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4s1NlRf.jpg" group-title="Religious",CNA (Chaîne Nord Africaine) (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="CNA.dz" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4s1NlRf.jpg" group-title="Religious;CNA",CNA (Chaîne Nord Africaine) (360p) [Not 24/7]
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC (1080p)
 https://16live00.akamaized.net/CNBC/index.m3u8
