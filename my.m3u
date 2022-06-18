@@ -252,7 +252,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="Sports",beIN Sports Xtra (1080p)
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="SuperSports",beIN Sports Xtra (1080p)
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Sports",fubo Sports Network (720p)
@@ -315,7 +315,7 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 #EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pQ0QGGl.jpg" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="Sports",beIN Sports Xtra (1080p)
+#EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="SuperSports",beIN Sports Xtra (1080p)
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 
 #EXTINF:-1 tvg-id="BekSportsEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sports",Bek Sports East (720p)
@@ -598,7 +598,7 @@ https://siloh.pluto.tv/lilo/production/Qello/ES/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVQwestTVJazzBeyond.us" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Qwest TV Jazz & Beyond (720p)
 https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVSPORTBeINSportsXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="Sports;Pluto TV;BeIN",Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PlutoTVSPORTBeINSportsXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="SuperSports",Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
 
 #EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Sports (720p)
@@ -930,7 +930,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc
 #EXTINF:-1 tvg-id="PlutoTVQwestTVJazzBeyond.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto Qwest TV Jazz & Beyond (720p)
 https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="Pluto TV;BeIN",Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="SuperSports",Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
 
 #EXTINF:-1 tvg-id="PlutoTVSportsUK.us" tvg-country="UK" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto Sports (England) (720p)
@@ -978,13 +978,13 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SuperSports",beIN Sports 1
 http://93.152.174.144:400/play/btsport1/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
+#EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SuperSports",beIN Sports 2
 http://93.152.174.144:400/play/btsport2/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
+#EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SuperSports",beIN Sports 3
 http://93.152.174.144:400/play/btsport3/index.m3u8
 
 #EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="Sports",Fox Sports News
@@ -1431,17 +1431,17 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: chanal - Sport
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/143
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: NIeb Sports 1
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports 1
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/144
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: NIeb Sports 2
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports 2
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/145
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: NIeb Sports 3
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports 3
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: L Equipe
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/147
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: Automoto
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/148
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: EUROSPORT 1
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: EUROSPORT 1
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/151
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: GOLF+
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1934
@@ -1451,19 +1451,19 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1937
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1938
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 5
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1940
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: NIeb Sports Max 4
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 4
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3599
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: NIeb Sports Max 6
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 6
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4368
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: NIeb Sports Max 7
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 7
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4369
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: NIeb Sports Max 8
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 8
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4370
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: NIeb Sports Max 9
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 9
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4371
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: NIeb Sports Max 5
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 5
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/6083
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: NIeb Sports Max 10
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 10
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/6088
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 7
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/20883
@@ -1471,34 +1471,18 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/20883
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/20884
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 9
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/20885
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 12
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/20887
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 11
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/20888
+
+
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 13
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/20890
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 10
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/192025
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR NIeb Sports 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/273320
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR NIeb Sports 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/273327
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR NIeb Sports 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/273332
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR Science & Vie TV
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/273417
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR chanal - Sport
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/273501
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR TRACE Sport Stars
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/273511
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 4
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/279752
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR french SPORT 4
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/279844
+
+
+
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 3
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/279991
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 6
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/280296
+
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: MULTISPORT 1
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290572
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: MULTISPORT 2
@@ -1527,10 +1511,8 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295147
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295171
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: chanal - FORMULE 1
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295260
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR chanal - Sport 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295889
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR chanal - Sport 5
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295890
+
+
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,BE: Voo Sport World 1
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/245
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,BE: Voo Sport World 2
@@ -1669,15 +1651,15 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290046
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290047
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,UK skies Sports Action
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295881
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,MY: Astro SuperSport 1
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: Astro SuperSport 1
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146068
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,MY: FOX SPORTS 2
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: FOX SPORTS 2
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157488
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,MY: Astro SuperSport 2
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: Astro SuperSport 2
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157556
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,MY: Astro SuperSport 3
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: Astro SuperSport 3
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157557
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,MY: Astro SuperSport 4
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: Astro SuperSport 4
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157558
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,MY: NIeb Sports
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157561
