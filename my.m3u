@@ -293,9 +293,7 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 https://tc-live1.sanook.com/live/22302_ch9.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0AiJcrC.png" tvg-country="TH" tvg-url="" group-title="Thailand",Thairath TV 32
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
-#EXTINF:-1 tvg-id="ThaiPBSOpt4.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Thai_PBS_logo.png/220px-Thai_PBS_logo.png" group-title="Thailand",Thai PBS (Opt-4) (480p)
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="TH" tvg-language="" tvg-logo="" group-title="Thailand",Thai PBS (Opt-4) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ThaiPBSOpt4.th" group-title="Thailand",Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MONO29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Thailand",MONO29 Th
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8|Referer=https://note.vg/raw/ch-66755-6
