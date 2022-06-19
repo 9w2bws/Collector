@@ -163,16 +163,121 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: Astro SuperSport 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146068
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: FOX SPORTS 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157488
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: Astro SuperSport 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157556
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: Astro SuperSport 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157557
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: Astro SuperSport 4
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157558
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: beIN Sports
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157561
 
+#EXTINF:-1 tvg-id="canalmotor.tv" tvg-name="Canal Motor" tvg-country="IT" tvg-language="English" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/motorvision-628x353.gif?resize=300%2C169" group-title="SuperSports",Motorvision TV
+http://108.136.37.52/m3u8/plex_Motorvision_TV.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="SuperSports",Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
+#EXTINF:-1 tvg-id="702" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="SuperSports",Unifi Sports 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-
-
-
-
-
-
+#beIN NIeb
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,FR beIN Sports 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/144
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,FR beIN Sports 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/145
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,FR beIN Sports 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,FR: beIN Sports Max 4
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3599
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,FR: beIN Sports Max 6
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4368
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,FR: beIN Sports Max 7
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4369
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,FR: beIN Sports Max 8
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4370
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,FR: beIN Sports Max 9
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4371
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,FR: beIN Sports Max 5
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/6083
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,FR: beIN Sports Max 10
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/6088
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,TR: beIN Sports 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1735
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,TR: beIN Sports 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1737
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,TR: beIN Sports 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1739
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,TR: beIN Sports Haber
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/7448
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,TR: beIN Sports 4
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/7450
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,TR: beIN Sports Max 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8224
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/100
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/101
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/102
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports 4
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/103
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports 5
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/104
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports 6
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/105
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports 7
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/106
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports Premium 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/109
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports English 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/110
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports English 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/111
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/386
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/395
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports 4
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/399
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports News
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1266
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports basketball
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/15962
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports English 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/267769
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/273319
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports Premium 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/280145
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports Premium 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/280249
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/280725
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA: beIN Sports Xtra 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/283294
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports Premium 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290195
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports Premium 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290196
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports Premium 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290197
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports English 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290225
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports 5
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/291085
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports English 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/291086
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports 6
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/291087
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports 7
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/291088
+#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="beIN" ,QA beIN Sports English 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295872
 
 
 
@@ -228,11 +333,7 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="MYTV;Sports",Unifi Sports 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-id="702" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="MYTV;Sports",Unifi Sports 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-id="Super sports" tvg-country="MY" tvg-language="Malay" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="MYTV",Super sports ( F1 )
 https://353c4b4758fa.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.132118298736.channel.H6ABKGTt18Zq.m3u8
@@ -899,8 +1000,7 @@ https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
 #EXTINF:-1 tvg-id="canalmotor.tv" tvg-name="Canal Motor" tvg-country="IT" tvg-language="English" tvg-logo="https://i.imgur.com/9z3mzDJ.jpg" group-title="Sports",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8|https://yamcode.com/embed/nasi-campur-iptv-200-channels
 
-#EXTINF:-1 tvg-id="canalmotor.tv" tvg-name="Canal Motor" tvg-country="IT" tvg-language="English" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/motorvision-628x353.gif?resize=300%2C169" group-title="Sports",Motorvision TV
-http://108.136.37.52/m3u8/plex_Motorvision_TV.m3u8
+
 
 #EXTINF:-1 tvg-id="...." tvg-logo="https://image.pngaaa.com/934/4360934-small.png" group-title="Sports",Impact Wrestling
 http://108.136.37.52/m3u8/plex_Impact_Wrestling.m3u8
@@ -1325,12 +1425,7 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: chanal - Sport
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/143
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/144
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/145
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146
+
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: L Equipe
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/147
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: Automoto
@@ -1345,20 +1440,7 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1937
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1938
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 5
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1940
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 4
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3599
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 6
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4368
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 7
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4369
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 8
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4370
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 9
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4371
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 5
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/6083
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,FR: NIeb Sports Max 10
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/6088
+
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 7
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/20883
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,FR: french SPORT 8
@@ -1545,18 +1627,7 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290046
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290047
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,UK skies Sports Action
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295881
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: Astro SuperSport 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146068
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: FOX SPORTS 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157488
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: Astro SuperSport 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157556
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: Astro SuperSport 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157557
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SuperSports" ,MY: Astro SuperSport 4
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157558
-#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,MY: NIeb Sports
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157561
+
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,PL: chanal - Sport 2
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/343
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,: ELEVEN SPORTS 1
@@ -1727,12 +1798,7 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295572
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295573
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,DE: Auto Motor Sport
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/296227
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,TR: NIeb Sports 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1735
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,TR: NIeb Sports 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1737
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,TR: NIeb Sports 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1739
+
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,TR: Tivibu Spor
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1746
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,TR: Tivibu Spor 2
@@ -1747,12 +1813,7 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1753
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1755
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,TR: EUROSPORT 2
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1756
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,TR: NIeb Sports Haber
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/7448
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,TR: NIeb Sports 4
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/7450
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,TR: NIeb Sports Max 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8224
+
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,EX-YU: Arena Sport 2
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3462
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,EX-YU: Arena Sport 5
@@ -1793,82 +1854,27 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11642
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11643
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,ZA: SuperSport Tennis
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/15200
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/100
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/101
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/102
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports 4
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/103
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports 5
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/104
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports 6
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/105
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports 7
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/106
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports Premium 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/109
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports English 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/110
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports English 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/111
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/386
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/395
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports 4
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/399
+
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: Qatar TV
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1227
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: Jeem TV
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1251
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports News
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1266
+
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: AlKass 2
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11899
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: AlKass 4
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11900
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: AlKass 5
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11901
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports basketball
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/15962
+
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: AlKass 1
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/26389
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: AlKass 3
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/265157
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports English 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/267769
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/273319
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports Premium 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/280145
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports Premium 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/280249
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/280725
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: NIeb Sports Xtra 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/283294
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports Premium 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290195
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports Premium 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290196
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports Premium 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290197
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports English 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290225
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports 5
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/291085
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports English 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/291086
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports 6
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/291087
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports 7
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/291088
+
 #EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA: Outdoor
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295064
-#EXTINF:-1, ch-number="" tvg-id="" tvg-chno="" tvg-logo="", group-title="SportTV" ,QA NIeb Sports English 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/295872
+
 
 
 #test
@@ -1897,9 +1903,8 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://i2.wp.com/artofchannelbranding.com/wp-content/uploads/2016/01/mediacorp-channel-u-logo.png" group-title="Singapore",Mediacorp U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
       
-
-
-
+#EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="Singapore",CNA (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1908,7 +1913,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="Animation",Animax 1
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="Kids",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1916,11 +1921,6 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://static.epg.best/th/Lifetime.th.png" group-title="Singapore",Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="Animation",Animax 2
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Infotainment",History 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1978,19 +1978,15 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 #EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/zee_bioskop.png" group-title="Movies",Zee Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="Animation",Animax 3
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Family",History 3
+#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Infotainment",History 3
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Family",Nat Geo Wild 2
+#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Infotainment",Nat Geo Wild 2
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2025,17 +2021,12 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="Animation",Animax 4
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Family",History 4
+#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Infotainment",History 4
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Family",Nat Geo Wild 3
+#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Infotainment",Nat Geo Wild 3
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
