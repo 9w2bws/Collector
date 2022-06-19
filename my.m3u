@@ -18,7 +18,11 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Refer
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-ID="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="MYTV",OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|https://github.com/samleong123
-#EXTINF:-1 tvg-id="Hello.my" tvg-country="MY" tvg-language="English" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MYTV",Hello [Geo-blocked]
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Hello.my" tvg-country="MY" tvg-language="English" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MYTV",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 #EXTINF:-1 group-title="MYTV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
@@ -44,16 +48,13 @@ https://live-ak.vimeocdn.com/exp=1654459613~acl=%2F4e566ddd-e90f-497e-af24-f005f
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 tvg-ID="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sports",RTM Sports
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://github.com/samleong123
-
-#EXTINF:-1 tvg-id="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png" group-title="Sports",RTM Sports HD
+#EXTINF:-1 tvg-ID="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sports",RTM Sports HD
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://github.com/samleong123
 
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://images.prismic.io/atmosphere-marketing/5815c8d2-cc70-47b1-9b62-e38d3ab66300_logo-redbulltv.png" group-title="REDBULL TV",Red Bull TV 2 (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="Berita",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #Kids
@@ -105,7 +106,7 @@ https://s.vdo.ai/vhs/1.m3u8?checkedby:iptvcat.com
 #CinemaWorld
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="." tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="Movies",CinemaWorld
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="Movies",CinemaWorld
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #Cinemax Asia
@@ -125,10 +126,20 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HITS" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movies",Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movies",Hits
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
 #Hits Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="HITSMovies" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies",Hits Movies
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies",Hits Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #Trill
@@ -240,33 +251,19 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://gi
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png" group-title="MYTV",RTM Sports HD
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://github.com/samleong123
 
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English;German" tvg-logo="https://images.prismic.io/atmosphere-marketing/5815c8d2-cc70-47b1-9b62-e38d3ab66300_logo-redbulltv.png" group-title="REDBULL TV",Red Bull TV 1 (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://images.prismic.io/atmosphere-marketing/5815c8d2-cc70-47b1-9b62-e38d3ab66300_logo-redbulltv.png" group-title="REDBULL TV",Red Bull TV 2 (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.jpg" group-title="Sports",Star Chinese Movies South East Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="SuperSports",beIN Sports Xtra (1080p)
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Sports",fubo Sports Network (720p)
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="AllEliteWrestling.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5YO1phG.png" group-title="Sports;Pluto TV",Pluto TV All Elite Wrestling (240p)
+#EXTINF:-1 tvg-id="AllEliteWrestling.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5YO1phG.png" group-title="Sports",All Elite Wrestling (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Bellator MMA (720p)
+#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Sports",Bellator MMA (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVBoxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Boxing (684p)
+#EXTINF:-1 tvg-id="PlutoTVBoxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Sports",Boxing (684p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="CombateWorld.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Combate World (720p)
+#EXTINF:-1 tvg-id="CombateWorld.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Sports",Combate World (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
@@ -277,9 +274,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 
 #EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="Sports",Abu Dhabi Sports 3 (1080p)
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AbuDhabiSports4.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png" group-title="Sports",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
-https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="Sports",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
@@ -304,9 +298,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UnkDhbr.png" group-title="Sports",AntenaSport (720p) [Not 24/7]
 https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" group-title="Sports",Arryadia (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 
 #EXTINF:-1 tvg-id="ATG.se" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="Sports",ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
@@ -380,15 +371,6 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EDGESport.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjhf/EdgeSport_400x400.png" group-title="Sports",EDGESport (1080p)
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ERTSports.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Sports",ERT Sports (1080p) [Geo-blocked]
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-
-#EXTINF:-1 tvg-id="ERTSports2.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="Sports",ERT Sports 2 (1080p) [Geo-blocked]
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
-
-#EXTINF:-1 tvg-id="ERTSports3.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="Sports",ERT Sports 3 (1080p) [Geo-blocked]
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
-
 #EXTINF:-1 tvg-id="Esport3.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="Sports",Esport3 (1080p) [Not 24/7]
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 
@@ -444,9 +426,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="InsightTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Insight.svg/revision/latest/scale-to-width-down/250?cb=20210527145642" group-title="Sports",Insight TV (1080p)
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-
-#EXTINF:-1 tvg-id="IraqiaSport.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zL78RX9.png" group-title="Sports",Iraqia Sport (1080p) [Geo-blocked]
-https://au7live.tooliserver.com/live/149075_0.m3u8?session=
 
 #EXTINF:-1 tvg-id="JSports1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Sports",J Sports 1 (720p) [Not 24/7]
 http://50.7.74.29:8880/hls/j00042/index.m3u8
@@ -516,9 +495,6 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OneGolf.pk" tvg-country="PK" tvg-language="English" tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="Sports",One Golf (720p)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
-#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" group-title="Sports",ORF Sport+ (540p) [Geo-blocked]
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE;UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
@@ -531,92 +507,86 @@ http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="Sports",Players TV (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Action Sports (720p)
+#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Sports",Action Sports (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db867744f229f0009266784&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=759&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVAllEliteWrestling.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV All Elite Wrestling (240p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVAutoMotorSport.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Auto Motor Sport (720p)
+#EXTINF:-1 tvg-id="PlutoTVAutoMotorSport.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Sports",Auto Motor Sport (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVBellatorMMA.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Bellator MMA (720p)
+#EXTINF:-1 tvg-id="PlutoTVBellatorMMA.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Sports",Bellator MMA (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVBoxing.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Boxing (720p)
+#EXTINF:-1 tvg-id="PlutoTVBoxing.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Sports",Boxing (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="CBSSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV CBS Sports HQ (1080p)
+#EXTINF:-1 tvg-id="CBSSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Sports",CBS Sports HQ (1080p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-id="PlutoTVCombateWorld.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Combate World (720p)
+#EXTINF:-1 tvg-id="PlutoTVCombateWorld.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Sports",Combate World (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVDeportes.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Deportes (480p)
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Sports",Deportes (480p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVESR24/7.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ca1e0ee50be2571e393ad33/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV ESR 24/7 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PlutoTVESR24/7.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ca1e0ee50be2571e393ad33/colorLogoPNG.png" group-title="Sports",ESR 24/7 (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="PlutoTVFight.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Fight (720p)
+#EXTINF:-1 tvg-id="PlutoTVFight.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Sports",Fight (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bda9fd87eb3a2717cce0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVFOXSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV FOX Sports (720p)
+#EXTINF:-1 tvg-id="PlutoTVFOXSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports",FOX Sports (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVFutbolParaFans.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Fútbol Para Fans (720p)
+#EXTINF:-1 tvg-id="PlutoTVFutbolParaFans.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png" group-title="Sports",Fútbol Para Fans (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVGloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Glory Kickboxing (720p)
+#EXTINF:-1 tvg-id="PlutoTVGloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports",Glory Kickboxing (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9be1be738977e2c312134&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f6e88030-d7c8-47c8-8fed-7e24dd0a038a&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVIMPACTWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV IMPACT Wrestling (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PlutoTVIMPACTWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports",IMPACT Wrestling (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59b722526996084038c01e1b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=734&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVMLB.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV MLB (720p)
+#EXTINF:-1 tvg-id="PlutoTVMLB.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Sports",MLB (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="PlutoTVMLS.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV MLS (720p)
+#EXTINF:-1 tvg-id="PlutoTVMLS.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="Sports",MLS (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceLat=45.4994&deviceLon=-73.5703&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=76.0.3809.132&serverSideAds=true&sid=d1634607-2892-447a-b316-17a106f905fb&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVNFLChannel.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV NFL Channel (720p)
+#EXTINF:-1 tvg-id="PlutoTVNFLChannel.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Sports",NFL Channel (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVPGATOUR.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV PGA TOUR (720p)
+#EXTINF:-1 tvg-id="PlutoTVPGATOUR.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Sports",PGA TOUR (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVPlutoActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports;Pluto TV",Pluto TV Pluto Action Sports (720p)
+#EXTINF:-1 tvg-id="PlutoTVPlutoActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",Pluto Action Sports (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVProWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Pro Wrestling (720p)
+#EXTINF:-1 tvg-id="PlutoTVProWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="Sports",Pro Wrestling (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="PlutoTVQelloConcerts.us" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Qello Concerts (720p)
+#EXTINF:-1 tvg-id="PlutoTVQelloConcerts.us" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png" group-title="Sports",Qello Concerts (720p)
 https://siloh.pluto.tv/lilo/production/Qello/ES/master.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVQwestTVJazzBeyond.us" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Qwest TV Jazz & Beyond (720p)
+#EXTINF:-1 tvg-id="PlutoTVQwestTVJazzBeyond.us" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="Sports",Qwest TV Jazz & Beyond (720p)
 https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVSPORTBeINSportsXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="SuperSports",Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Sports (720p)
+#EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="Sports",Sports (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
 
-#EXTINF:-1 tvg-id="PlutoTVSportsEngland.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Sports (England) (720p)
+#EXTINF:-1 tvg-id="PlutoTVSportsEngland.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="Sports",Sports (England) (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVVs.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Vs. (720p)
+#EXTINF:-1 tvg-id="PlutoTVVs.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png" group-title="Sports",Vs. (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/603fde9026ecbf0007752c2c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-id="PlutoTVYoga.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/60803e541a829e0008e91641/solidLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Yoga (720p)
+#EXTINF:-1 tvg-id="PlutoTVYoga.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/60803e541a829e0008e91641/solidLogoPNG.png" group-title="Sports",Yoga (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd
 
 #EXTINF:-1 tvg-id="PokerTV.fr" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/l5fZQ3V.png" group-title="Sports",Poker TV (720p) [Not 24/7]
 http://51.210.199.17/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="" group-title="Sports",Real Madrid TV (404p) [Geo-blocked]
-https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 #EXTINF:-1 tvg-id="RingofHonorWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" group-title="Sports",Ring of Honor Wrestling (720p)
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
@@ -661,9 +631,6 @@ https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" group-title="Sports",Snowy Mountains Television (1080p) [Geo-blocked]
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-
 #EXTINF:-1 tvg-id="Sport1.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wBJI5Jw.png" group-title="Ukrainian;Sports",Sport 1 (576p) [Not 24/7]
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
 
@@ -692,17 +659,11 @@ https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Sportal.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Sports",Sportal.bg [Geo-blocked]
-https://e113-ts.cdn.bg/sportal/fls/sportal_fullhd/chunklist.m3u8?at=c92098d9ab33bf471967c6b6195361e3
-
 #EXTINF:-1 tvg-id="SportsChannel.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="" group-title="Sports",Sports Channel (720p) [Not 24/7]
 http://93.152.174.144:4000/play/s5plus/index.m3u8
 
 #EXTINF:-1 tvg-id="SportsTonight.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="Sports",Sports Tonight (576p)
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Sports",Sports TV (360p) [Geo-blocked]
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
 #EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" group-title="Sports",Sports TV Plus (1080p)
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
@@ -737,9 +698,6 @@ https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 #EXTINF:-1 tvg-id="STIRRStadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",STIRR Stadium (720p)
 http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="STIRRTennisChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/0O5uwlXTVx_j5bG-D6CKE0pXASiTj5CQ2maDRTKJUseFmaj3RNEnKbRCFUuxjFHO03s" group-title="Sports",STIRR Tennis Channel (720p) [Geo-blocked]
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-
 #EXTINF:-1 tvg-id="STIRRWhistleSportsTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="Sports",STIRR Whistle Sports (1080p)
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
 
@@ -755,12 +713,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannelUK.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="Sports",Tennis Channel (UK) (720p)
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TennisChannelPlus1.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/0O5uwlXTVx_j5bG-D6CKE0pXASiTj5CQ2maDRTKJUseFmaj3RNEnKbRCFUuxjFHO03s" group-title="Sports",Tennis Channel+ 1 (720p) [Geo-blocked]
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
-
-#EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/0O5uwlXTVx_j5bG-D6CKE0pXASiTj5CQ2maDRTKJUseFmaj3RNEnKbRCFUuxjFHO03s" group-title="Sports",Tennis Channel+ 2 (720p) [Geo-blocked]
-https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
-
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/tsn-ca.png" group-title="Sports",The Sports Network (TSN5) (720p)
 http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8
 
@@ -775,9 +727,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports5Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 5 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-country="ES" tvg-language="English;Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/co_trace-sports-stars_m.png" group-title="Sports",Trace Sport Stars (1080p) [Geo-blocked]
-http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TraceSportStarsAustralia.fr" tvg-country="FR" tvg-language="French" tvg-logo="" group-title="Sports",Trace Sport Stars (Australia) (1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -866,9 +815,6 @@ https://unbeaten-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KCKSLD8.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="Sports",Untamed Sports TV (KCKS-LD8) (480p) [Not 24/7]
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
 
-#EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/0O5uwlXTVx_j5bG-D6CKE0pXASiTj5CQ2maDRTKJUseFmaj3RNEnKbRCFUuxjFHO03s" group-title="Sports",US SPORT Tennis Plus 1 (720p) [Geo-blocked]
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="Sports",World of Freesports (720p)
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 
@@ -890,22 +836,22 @@ https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVDeportes.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Deportes (720p)
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Sports",Deportes (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVExtremeFrance.us" tvg-country="FR" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG-1608309868765.png" group-title="Sports;Pluto TV",Pluto TV Extrême (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PlutoTVExtremeFrance.us" tvg-country="FR" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG-1608309868765.png" group-title="Sports",Extrême (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="Fight.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Fight (720p)
+#EXTINF:-1 tvg-id="Fight.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Sports",Fight (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bda9fd87eb3a2717cce0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="FoxSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV FOX Sports (720p)
+#EXTINF:-1 tvg-id="FoxSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports",FOX Sports (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVFutbolParaFans.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Fútbol Para Fans (720p)
+#EXTINF:-1 tvg-id="PlutoTVFutbolParaFans.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png" group-title="Sports",Fútbol Para Fans (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVGloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto TV Glory Kickboxing (720p)
+#EXTINF:-1 tvg-id="PlutoTVGloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports",Glory Kickboxing (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9be1be738977e2c312134&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f6e88030-d7c8-47c8-8fed-7e24dd0a038a&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="MLB.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto MLB (720p)
@@ -938,7 +884,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d5
 #EXTINF:-1 tvg-id="PlutoTVSurfGermany.us" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5d1ce51dbaca4afdb7abfe5f/colorLogoPNG.png" group-title="Sports;Pluto TV",Pluto Surf (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVUnbeatenEsports.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5dc2a961bac1f70009ca7524/colorLogoPNG.png" group-title="Sports;Entertainment;Pluto TV",Pluto TV Unbeaten Esports (720p)
+#EXTINF:-1 tvg-id="PlutoTVUnbeatenEsports.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5dc2a961bac1f70009ca7524/colorLogoPNG.png" group-title="Sports;Entertainment",Unbeaten Esports (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Sports",STIRR Whistle Sports (1080p)
@@ -997,9 +943,6 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 
 #EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-country="AE" tvg-language="Arabic;English" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-3-ae.png" group-title="Sports",Abu Dhabi Sports 3 (1080p)
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AbuDhabiSports4.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic;English" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png" group-title="Sports",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
-https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/512px-ACC_Network_ESPN_logo.svg.png" group-title="Sports",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
@@ -1088,15 +1031,6 @@ https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Sports",EDGEsport (US) (720p)
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ERTSports2.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="Sports",ERT Sports 2 (1080p) [Geo-blocked]
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
-
-#EXTINF:-1 tvg-id="ERTSports3.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="Sports",ERT Sports 3 (1080p) [Geo-blocked]
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
-
-#EXTINF:-1 tvg-id="ERTSports.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/512px-ERTSPORTS_logo_2020.svg.png" group-title="Sports",ERT Sports (1080p) [Geo-blocked]
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Sports",ERT World (720p)
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 
@@ -1158,9 +1092,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IraqiaSport.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zL78RX9.png" group-title="Sports",Iraqia Sport (1080p) [Geo-blocked]
-https://au7live.tooliserver.com/live/149075_0.m3u8?session=
-
 #EXTINF:-1 tvg-id="KBPSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QleHNMl.png" group-title="Sports",KBP Sports (720p) [Not 24/7]
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
@@ -1209,9 +1140,6 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OneGolf.pk" tvg-country="PK" tvg-language="English" tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="Sports",One Golf (720p)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
-#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/512px-ORF_Sport%2B.svg.png" group-title="Sports",ORF Sport+ (540p) [Geo-blocked]
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE;UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
@@ -1223,12 +1151,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="PTVSports.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports (1080p)
 http://103.81.104.118/hls/stream11.m3u8
-
-#EXTINF:-1 tvg-id="Racingcom.au" tvg-country="AU" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/512px-RACING.COM_logo_2016.svg.png" group-title="Sports",Racing.com [Geo-blocked]
-https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
-
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/ARMAN_Khanoyan.png" group-title="Sports",Real Madrid TV (404p) [Geo-blocked]
-https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 #EXTINF:-1 tvg-id="RTSHSport.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/J6NKXyJ.png" group-title="Sports",RTSH Sport (720p) [Not 24/7]
 https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
@@ -1267,25 +1189,10 @@ https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SportalTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SportalTV-logo.png/512px-SportalTV-logo.png" group-title="Sports",Sportal.bg [Geo-blocked]
-https://e113-ts.cdn.bg/sportal/fls/sportal_fullhd/chunklist.m3u8?at=c92098d9ab33bf471967c6b6195361e3
-
-#EXTINF:-1 tvg-id="Sportitalia24.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia 24 (720p) [Geo-blocked]
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia (720p) [Geo-blocked]
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportitaliaMotori.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Motori (720p) [Geo-blocked]
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Solocalcio (720p) [Geo-blocked]
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SportsTonight.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="Sports",Sports Tonight (576p) [Not 24/7]
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Sports",Sports TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Sports",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
 #EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" group-title="Sports",Sports TV Plus (1080p)
@@ -1314,15 +1221,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="TDMSportsMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Sports",TDM Sports Macau (720p)
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/512px-Tennis_Channel_logo.svg.png" group-title="Sports",Tennis Channel (720p) [Geo-blocked]
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-
-#EXTINF:-1 tvg-id="TennisChannelPlus1.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/512px-Tennis_Channel_logo.svg.png" group-title="Sports",Tennis Channel+ 1 (720p) [Geo-blocked]
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
-
-#EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/512px-Tennis_Channel_logo.svg.png" group-title="Sports",Tennis Channel+ 2 (720p) [Geo-blocked]
-https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sports",TNT Sports 2 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
@@ -1413,9 +1311,6 @@ https://unbeaten-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UnbeatenCombat.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTU1MDBf/UnbeatenCombat_450x450.png" group-title="Sports",Unbeaten Combat (720p)
 https://d179m5eq83yziw.cloudfront.net/live3/unbeaten_tv/bitrate1-clear.isml/manifest.m3u8
-
-#EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/0O5uwlXTVx_j5bG-D6CKE0pXASiTj5CQ2maDRTKJUseFmaj3RNEnKbRCFUuxjFHO03s" group-title="Sports",US SPORT Tennis Plus 1 (720p) [Geo-blocked]
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="Sports",World of Freesports (720p)
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
@@ -2002,10 +1897,7 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://i2.wp.com/artofchannelbranding.com/wp-content/uploads/2016/01/mediacorp-channel-u-logo.png" group-title="Singapore",Mediacorp U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
       
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="Ciw.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="Movies",CinemaWorld
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
 
 
 
@@ -2076,19 +1968,9 @@ https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="Berita",CNN International
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="Movies",CinemaWorld
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movies",Hits
-https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies",Hits Movies
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2140,12 +2022,6 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TV1.ID" tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png" group-title="Indonesia",TV One
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="Berita",BBC World News
-https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
