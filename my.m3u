@@ -3244,8 +3244,6 @@ https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Movies;Rakuten",Rakuten TV Films Drames
 https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Movies;Rakuten",Rakuten TV Films Français
-https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Movies;Rakuten",Rakuten TV Films Thriller
 https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -3270,9 +3268,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5eb810e299600076
 
 #EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" group-title="Classic",TVS Nostalgia Movies (480p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="EG" tvg-language="" tvg-logo="" group-title="Movies",Apple Cinema (576p)
-http://213.162.202.5:4000/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-id="ClassicCinema.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="Classic",Classic Cinema (240p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
