@@ -3072,20 +3072,25 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f0
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
 #EXTINF:-1 tvg-name="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/jyiFzG4.png" group-title="Movies",TV Thrillers
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
+
 #EXTINF:-1 tvg-name="Pluto TV Horror" tvg-logo="https://i.imgur.com/An93hAh.png" group-title="Movies",TV Horror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
+#EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Movies",TV Horror (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=569546031a619b8f07ce6e25&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=75&terminate=false&userId=
+
+
 #EXTINF:-1 tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/JLgn5jC.png" group-title="Movies",TV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
+#EXTINF:-1 tvg-id="PlutoTVTerror.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="Movies",TV Terror (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/0AxTJ4Z.png" group-title="Movies;Persiana",Persiana Family (720p)
 http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaFamilyPlus.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/nw929UE.png" group-title="Movies;Persiana",Persiana Family Plus (720p) [Not 24/7]
-http://51.210.199.13/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaIranian.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/wShkJVO.png" group-title="Movies;Persiana",Persiana Iranian (720p) [Not 24/7]
 http://51.210.199.22/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="PersianaKorea.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/voDf5jI.png" group-title="Movies;Persiana",Persiana Korea (720p)
+#EXTINF:-1 tvg-id="PersianaKorea.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/voDf5jI.png" group-title="Korean",Persiana Korea (720p)
 http://51.210.199.14/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaPlus.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/r5q3S7a.png" group-title="Movies;Persiana",Persiana Plus (1080p)
@@ -3164,8 +3169,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d344
 #EXTINF:-1 tvg-id="FlicksofFury.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="Movies",TV Flicks of Fury (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Movies",TV Horror (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=569546031a619b8f07ce6e25&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=75&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Movies",TV MOVIE CHANNEL (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&serverSideAds=true&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=
@@ -3204,8 +3207,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b9
 #EXTINF:-1 tvg-id="PlutoTVTelemundoTelenovelas.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="Movies",TV Telemundo Telenovelas (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="PlutoTVTerror.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="Movies",TV Terror (240p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="TVLandDrama.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png" group-title="Movies",TV TV Land Drama (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=
