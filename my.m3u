@@ -3384,13 +3384,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 
 #EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png", group-title="beIN Sports" ,MY: beIN Sports
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157561
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="beIN Sports1",beIN Sports Xtra (1080p)
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="beIN Sports",beIN Sports Xtra (1080p)
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
-#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="beIN Sports1",beIN Sports 1
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="beIN Sports",beIN Sports 1
 http://93.152.174.144:400/play/btsport1/index.m3u8
-#EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="beIN Sports1",beIN Sports 2
+#EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="beIN Sports",beIN Sports 2
 http://93.152.174.144:400/play/btsport2/index.m3u8
-#EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="beIN Sports1",beIN Sports 3
+#EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="beIN Sports",beIN Sports 3
 http://93.152.174.144:400/play/btsport3/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="beIN Sports1",beIN Sports Xtra (1080p)
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
@@ -3412,7 +3412,7 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/102
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/104
 #EXTINF:-1 group-title="beIN Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch646_170_122",beIN Sports 6
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/105
-#EXTINF:-1 group-title="beIN Sports" tvg-logo="https://i.imgur.com/FP0Nhnx.png",,BeIN Sports Xtra
+#EXTINF:-1 group-title="beIN Sports" tvg-logo="https://i.imgur.com/FP0Nhnx.png",BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
 
 
