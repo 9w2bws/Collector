@@ -240,8 +240,7 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 #EXTINF:-1 tvg-ID="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MYTV",RTM Sports HD
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://github.com/samleong123
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="SuperSports",beIN Sports Xtra (1080p)
-https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+
 
 #EXTINF:-1 tvg-id="AllEliteWrestling.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5YO1phG.png" group-title="Sports",All Elite Wrestling (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -290,9 +289,6 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 
 #EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pQ0QGGl.jpg" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="SuperSports",beIN Sports Xtra (1080p)
-https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 
 #EXTINF:-1 tvg-id="BekSportsEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sports",Bek Sports East (720p)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
@@ -761,15 +757,6 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SuperSports",beIN Sports 1
-http://93.152.174.144:400/play/btsport1/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SuperSports",beIN Sports 2
-http://93.152.174.144:400/play/btsport2/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SuperSports",beIN Sports 3
-http://93.152.174.144:400/play/btsport3/index.m3u8
 
 
 
@@ -3453,177 +3440,48 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-id="Fig.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428264_ico.png" group-title="Malaysia",FIGHT SPORTS
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#Sport beIN
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="beIN Sports1",beIN Sports Xtra (1080p)
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 
-#south afrika
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Africa Magic Epic
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38521?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Africa Magic Family
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/59275?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Africa Magic Igbo
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290389?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Africa Magic Showcase
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/291193?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Africa Magic URBAN
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/193270?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Africa Magic Yoruba
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290390?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",BBC Brit
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/296269?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",BBC Earth
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/193271?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",BBC Lifestyle
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295393?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",BET
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/46621?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Boomerang
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295391?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Business Day TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290393?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",CBS Justice
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295390?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",CBS Reality
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/59273?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",CNBC
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/174645?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Cape Town TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38526?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Channel O
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/90215?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Discovery Family
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/193275?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Disney Channel
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/193277?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Disney Junior
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/295392?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Dumisa TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38520?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Gau TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/59282?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",HGTV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38543?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",History
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/193280?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Ignition
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38552?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Investigation Discovery
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/193281?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",KykNet
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/278762?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",KykNet & Kie
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/278763?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",KykNet Nou
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/90214?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",M Net
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/197788?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",M Net Movies 1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38545?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",M Net Movies 2
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/146168?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",M Net Movies 3
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38536?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",M Net Movies 4
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/278329?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",MTV Africa
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/59278?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Mindset Learn
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/146172?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Moja Love
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38542?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Mzansi Bioskop
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/90219?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Mzansi Magic Music
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38544?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Mzansi Wethu
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/90222?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",NAT GEO
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/193285?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",NAT GEO Wild
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/193286?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Newzroom Afrika
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38551?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Nick Junior
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290391?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",NickToons
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/281534?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",One Gospel
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/281532?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Parliamentary Service
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/146965?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Peoples Weather
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38550?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Redemption TV Ministry
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/166038?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SABC 1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38564?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SABC 2
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38556?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SABC News
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38566?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Spice
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/193288?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Studio Universal
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/193290?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Action
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/194354?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Blitz
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/281536?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Cricket
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11637?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Cricket
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11637?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Golf
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11641?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Golf
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11641?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Grandstand
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/194353?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Maximo 1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38572?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Motorsport
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11638?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Motorsport
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11638?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport PSL
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11643?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Premier League
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11642?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Premier League
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11642?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Rugby
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11639?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Rugby
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11639?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Tennis
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/15200?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Tennis
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/15200?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Variety 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11633?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Variety 1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11633?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Variety 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11634?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Variety 2
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11634?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Variety 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11635?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Variety 3
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11635?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Variety 4
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/11636?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",SuperSport Variety 4
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/11636?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",TLC
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290392?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",TNT
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/281527?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Travel Channel
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/146968?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Tshwane TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38570?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",Universal TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/12007?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",WildEarth
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/286729?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZA" tvg-logo="" group-title="south afrika",nickelodeon
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/38548?checkedby:iptvcat.net
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="beIN Sports1",beIN Sports 1
+http://93.152.174.144:400/play/btsport1/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="beIN Sports1",beIN Sports 2
+http://93.152.174.144:400/play/btsport2/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="beIN Sports1",beIN Sports 3
+http://93.152.174.144:400/play/btsport3/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/beINSPORTS-XTRA_logo_dark_v3.png" group-title="beIN Sports1",beIN Sports Xtra (1080p)
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+
+#EXTINF:-1,ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://i.postimg.cc/QxqTRkLT/BEIN-SPORTS.png", group-title="beIN Sports" ,beIN Sports
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157561
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest/scale-to-width-down/250?cb=20200107203607" group-title="beIN Sports",beIN Sports 1
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+
+#EXTINF:-1 group-title="beIN Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BS1.svg/revision/latest/scale-to-width-down/250?cb=20200107203607",beIN Sports 1 -BACKUP-
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/100
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title="beIN Sports",beIN Sports 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/101
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="beIN Sports" tvg-logo="https://i.postimg.cc/XJsP0t9m/BEIN-SPORTS-3.png",beIN Sports 3
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF:-1 group-title="beIN Sports" tvg-logo="https://i.postimg.cc/XJsP0t9m/BEIN-SPORTS-3.png",beIN Sports 3 -BACKUP-
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/102
+
+#EXTINF:-1 group-title="beIN Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_170_122",beIN Sports 5
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/104
+
+#EXTINF:-1 group-title="beIN Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch646_170_122",beIN Sports 6
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/105
+
+#EXTINF:-1 group-title="beIN Sports" tvg-logo="https://i.imgur.com/FP0Nhnx.png",,BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
