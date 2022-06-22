@@ -166,15 +166,6 @@ http://iradio.empirefm.org:8000/stream?type=mp3
 #EXTINF:-1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/1/95991.v4.png",Fortune FM
 http://51.79.219.199:8000/stream?type=mp3
 
-
-#EXTINF:-1 tvg-id="Super sports" tvg-country="MY" tvg-language="Malay" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="Sports",Super sports ( F1 )
-https://353c4b4758fa.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.132118298736.channel.H6ABKGTt18Zq.m3u8
-#EXTINF:-1 tvg-id="Super sports 1" tvg-country="MY" tvg-language="Malay" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="Sports",Super sports 1 (WSBK)
-https://google2-id.cdn.booyah.live/hls/212242/117213088.m3u8
-#EXTINF:-1 tvg-id="Super sports 2" tvg-country="MY" tvg-language="Malay" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="Sports",Super sports 2 (Motor GP)
-https://live-ak.vimeocdn.com/exp=1654459613~acl=%2F4e566ddd-e90f-497e-af24-f005f99007b3%2F%2A~hmac=bb97f36e7dc142a9ca00cc973d472457512e474f7929d8124843ec8bdd6f5989/4e566ddd-e90f-497e-af24-f005f99007b3/hls.m3u8
-
-
 #EXTINF:-1 tvg-ID="AstroAwani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Berita",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -197,6 +188,15 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="702" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="SuperSports",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
+
+
+#EXTINF:-1 tvg-id="Super sports" tvg-country="MY" tvg-language="Malay" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="Sports",Super sports ( F1 )
+https://353c4b4758fa.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.132118298736.channel.H6ABKGTt18Zq.m3u8
+#EXTINF:-1 tvg-id="Super sports 1" tvg-country="MY" tvg-language="Malay" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="Sports",Super sports 1 (WSBK)
+https://google2-id.cdn.booyah.live/hls/212242/117213088.m3u8
+#EXTINF:-1 tvg-id="Super sports 2" tvg-country="MY" tvg-language="Malay" tvg-logo="https://supersport-cms-prod.azureedge.net/media/wdhll3oj/super-sport-logo-3x.png" group-title="Sports",Super sports 2 (Motor GP)
+https://live-ak.vimeocdn.com/exp=1654459613~acl=%2F4e566ddd-e90f-497e-af24-f005f99007b3%2F%2A~hmac=bb97f36e7dc142a9ca00cc973d472457512e474f7929d8124843ec8bdd6f5989/4e566ddd-e90f-497e-af24-f005f99007b3/hls.m3u8
 
 
 
