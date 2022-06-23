@@ -872,45 +872,6 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1347
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1350	
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",sdyjbyb
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1351	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",dsnyjf
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1353	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",sdhtyb
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1355	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",sdfafwef
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1358	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",defea
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1359	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",sdvgd
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1362	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",sqaca
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1363	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",sdsweg
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1366	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",sdwef
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1367	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",swef
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1368	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",dsef
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1369	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",sdwef
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1374	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",gfwef
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1375	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",gfwef
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1376	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",gfwef
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1377	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",gffew
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1379	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",gfefe
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1380	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",fgjfef
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1381	
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track1",fgjfa
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1382	
-
-
-
 
 
 
