@@ -1046,7 +1046,8 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1g-id="Galaxy.id"g-logo="https://iconape.com/wp-content/files/lu/122071/png/Galaxy_Cinemas__Cineplex_.png" group-title="Movies",GALAXY
 https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
+#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png" group-title="Movies",Movie +
+http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
 #EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://camo.githubusercontent.com/f4fde52bcc27de7f96cd91d4812750017daad5df8e2e2f0700bcd58e046bede6/68747470733a2f2f692e696d6775722e636f6d2f46634e314f4b6f2e706e67" group-title="Movies",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
 #EXTINF:-1 tvg-name="FilmRise Movies" tvg-logo="https://camo.githubusercontent.com/c29a8252c811a1eade081d508f8fe718cdc89140da93ef4bcac8b851129bf6e5/68747470733a2f2f692e696d6775722e636f6d2f6a477a4d6152442e706e67" group-title="Movies",FilmRise Movies
@@ -1640,9 +1641,6 @@ http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-country="FR" tvg-language="English;French;Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/512px-Trace_Urban_logo_2010.svg.png" group-title="Music",Trace Urban (Australia) (1080p)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ToyorAlJannah.jo" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rlC0Stt.png" group-title="Music",Toyor Al-Jannah (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/toyorlive/live
-
 #EXTINF:-1 tvg-id="TMA.gp" tvg-country="GP" tvg-language="French" tvg-logo="https://i.imgur.com/fQUzBsz.png" group-title="Music",TMA (1080p)
 http://hls.tmacaraibes.com/live/index.m3u8
 
@@ -1661,10 +1659,7 @@ https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
 #EXTINF:-1 tvg-id="T2TV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/BwyQR6n.png" group-title="Music",T2 TV (720p) [Not 24/7]
 http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 
-#EXTINF:-1 tvg-id="StreetMusic4U.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DVfEmq7.png" group-title="Music",Street Music 4U (720p)
-https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StingrayAmbience.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/tHClafI.png" group-title="Music",Stingray Ambience (1080p)
+#EXTINF:-1 tvg-id="StingrayAmbience.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/tHClafI.png" group-title="Relax",Stingray Ambience (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music",Stingray Classic Rock (1080p) [Not 24/7]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
@@ -1823,8 +1818,7 @@ http://cdn.us195.jpnettv.live:1935/jptv/kansi_tv_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" group-title="Japan",MBS
 http://cdn.us195.jpnettv.live:1935/jptv/kansi_mbs_720/playlist.m3u8
-#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png" group-title="Movies",Movie +
-http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MTVJapan.jp" tvg-country="JP" tvg-language="English;Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Japan",MTV Japan
 http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png" group-title="Japan",National Geographic Japan
