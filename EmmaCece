@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",
-
+#EXTM3U8 x-tvg-url="https://weareblahs.github.io/epg/mytv.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/mytv.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml" refresh="1440" max-conn="1" refresh="24"
+*#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",Dicovery channel
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/53
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",Uk TV
@@ -17,3 +17,62 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/75
 
 
 
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",bbc news
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441395
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",blomberg
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441396
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",cnn
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441397
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",sky new
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441398
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",bbc news
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441400
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",bbc kids
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441401
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",cbeebies
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441402
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",disney channel
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441403
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",disney junior
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441404
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",disney xd marathon
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441405
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",cartoon network
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441406
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",nick
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441407
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",now 80
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441483
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",rte jr
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441487
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",sky
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441489
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",rte
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441490
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",uk
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441493
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",two
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441494
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",supersport 4
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441940
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",spotv
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441941
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",supersport 2
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441942
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",wwe
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441947
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",arena 2
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441948
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",golf
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441949
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",arena 2
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441950
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",spotv
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441951
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",bein
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441953
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",bein
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441955
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",uero
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441956
+    
