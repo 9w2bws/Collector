@@ -3349,10 +3349,55 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 
 #astro
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track2",Dicovery channel
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/53
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track2",Uk TV
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/54
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track2",Tv
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/55
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track2",history sneak peek
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/56
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track2",Crime+
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/58
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track2",tv1
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/59
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Track2",eden
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/75
 
 
 
 #Sport beIN
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="beIN",BEIN BOX OFFICE TURK
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/539
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="beIN",bein sport
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1266
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="beIN",bein movie
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1267
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="beIN",bein Movies 4 Family
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1268
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="beIN",bein movies 2 action
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1270
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="arabic" tvg-language="arabic" tvg-logo="" group-title="beIN",BEIN SPORT 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/101
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="arabic" tvg-language="arabic" tvg-logo="" group-title="beIN",BEIN SPORT 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/102
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="arabic" tvg-language="arabic" tvg-logo="" group-title="beIN",BEIN SPORT 4
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/103
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="arabic" tvg-language="arabic" tvg-logo="" group-title="beIN",BEIN SPORT 5
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/104
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="arabic" tvg-language="arabic" tvg-logo="" group-title="beIN",BEIN SPORT 6
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/105
+#EXTINF:-1 tvg-id="" tvg-country="arabic" tvg-language="arabic" tvg-logo="" group-title="beIN",BEIN SPORT 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/109
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="beIN",BEIN SPORT 1 ENG
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/110
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="beIN",BEIN SPORT 2 ENG
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/111
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="beIN",SPORT4HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/125
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="beIN",SPORT7HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/126
+
 
 #Korean
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
