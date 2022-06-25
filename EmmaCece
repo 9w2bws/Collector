@@ -1169,8 +1169,6 @@ http://iptu.org/live.m3u8?channel=9
 http://iptu.org/live.m3u8?channel=10
 #EXTINF:-1 group-title="iptuorg",tv
 http://iptu.org/live.m3u8?channel=11
-#EXTINF:0,WB Kids Latino - 🔴 Lo mejor de Tom y Jerry 🇲🇽🇦🇷🇨🇴🇵🇪 | Dibujos Animados Clásicos | WB Kids
-https://www.youtube.com/get_video_info?video_id=Ulji9eaDYcM&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
 #EXTINF:-1 group-title="iptuorg",tv
 http://iptu.org/live.m3u8?channel=13
 #EXTINF:-1 group-title="iptuorg",tv
@@ -1229,98 +1227,6 @@ http://iptu.org/live.m3u8?channel=68
 http://iptu.org/live.m3u8?channel=70
 #EXTINF:-1 group-title="iptuorg",tv
 http://iptu.org/live.m3u8?channel=73
-#EXTINF:0,DW Español - DW - en vivo (Español)
-https://www.youtube.com/get_video_info?video_id=fynBT2PZnyE&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:30,Todo Noticias - TN EN VIVO | Mirá la programación de @Todo Noticias durante las 24 horas del día
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656212780/ei/zHi3YqTOEKHL4-EPqbWC6AE/ip/2001%3Ae68%3A544e%3Ac92c%3Ad041%3Af9cf%3A83d9%3Ada8e/id/wHn1_QVoXGM.12/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC4FefqrtLxU-haIfrqoA2BlJXYQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCKV4PF9CNl6WUIX2w9tZ65QjmZDsB5Cmygn-CBYrfekCIQC9KV2Wi0t6JGBntyMWU7IesouyQjIwhQ9sIA3K1piF9w%3D%3D/file/index.m3u8
-#EXTINF:0,euronews (en español) - euronews en directo | Noticias internacionales desde un punto de vista europeo
-https://www.youtube.com/get_video_info?video_id=6DB_p2sMJTE&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,CNN en Español - Señal de CNN en Español, solo para Venezuela
-https://www.youtube.com/get_video_info?video_id=OVDJ_yRPb5g&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:34,ABC News - LIVE: Latest news headlines and live events | ABC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656212822/ei/9Xi3YticN6HR3LUP0YahkAo/ip/2001%3Ae68%3A544e%3Ac92c%3Ad041%3Af9cf%3A83d9%3Ada8e/id/w_Ma8oQLmSM.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0G_uqObSlJoJp00BocH1BGRCqc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcTA9n3w5qjumw9FzJWBRtlWJiDi3UeXkf2eg6A6wAEkCIEh3I8ab1Hc2NbXNesAwgrzH7WlSOphcjCtcSLx5pmgd/file/index.m3u8
-#EXTINF:0,get_video_info?video_id=l_NIgnb9J2g&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=l_NIgnb9J2g&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=x6UiR9Rs6dA&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=x6UiR9Rs6dA&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=4LKRIk_LvEk&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=4LKRIk_LvEk&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,CNA - CNA 24/7 LIVE | Breaking news, top stories and documentaries (UPDATE: Stream ended, new link below)
-https://www.youtube.com/get_video_info?video_id=U_XsRZXL2Ic&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,euronews - Euronews English live
-https://www.youtube.com/get_video_info?video_id=6xrJy-1_qS4&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=xPAbXwoB7l0&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=xPAbXwoB7l0&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,Manorama News - Manorama News Archive 2020 2021
-https://www.youtube.com/get_video_info?video_id=jjH6v95z3Nw&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=iL53Y28Rp84&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=iL53Y28Rp84&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=_QNJA_wFn-o&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=_QNJA_wFn-o&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=mF9QMYaaZzo&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=mF9QMYaaZzo&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,WildEarth - WildEarth - Sunrise Safari - 13 April 2020
-https://rr2---sn-uh-30alr.googlevideo.com/videoplayback?expire=1656212865&ei=IXm3Yom9D6a_3LUPmIyqmAo&ip=2001%3Ae68%3A544e%3Ac92c%3Ad041%3Af9cf%3A83d9%3Ada8e&id=o-AHSSb-YF-0zMdAuUF6LmtYFkdIB6wlo3xOX-xvcf0w7D&itag=22&source=youtube&requiressl=yes&mh=d4&mm=31%2C29&mn=sn-uh-30alr%2Csn-30a7rn76&ms=au%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=49&initcwndbps=1232500&spc=4ocVC-nHFUVysbeC1q_IZRDoTrb7CI8&vprv=1&mime=video%2Fmp4&ns=cC0L4aRkKbhkzG88iPx9tq4G&cnr=14&ratebypass=yes&dur=10995.646&lmt=1586767517279693&mt=1656190866&fvip=1&fexp=24001373%2C24007246&c=WEB&txp=7316222&n=Es60hMI9AQ356DbncYH&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAPZawOwXFf5hy_svU-CiTyJTIzHIX1beEf5aN2ZUsoTIAiEAzCCTfUfCoKO6nvagLSiD8mNLV7mAtYvemBETzKddUqI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAPNpvc0b31L6Re2xGgBN2jSP0qWeUQbT4MOQ8LrA8_LHAiBogqZMJelDVsdlTJJbNpYX-Wh58ujao3BoGo5pxwfRng%3D%3D
-#EXTINF:39921,11Alive - LIVE | Severe weather moves through Georgia
-https://rr2---sn-uh-30all.googlevideo.com/videoplayback?expire=1656212866&ei=Inm3Yp_GKoLR4-EP5eug8Ac&ip=2001%3Ae68%3A544e%3Ac92c%3Ad041%3Af9cf%3A83d9%3Ada8e&id=o-AH3_S-lLtzTuWTzWRVU5Prkaj3JbDcgFAd-z4a968q66&itag=22&source=youtube&requiressl=yes&mh=zT&mm=31%2C29&mn=sn-uh-30all%2Csn-30a7rn7l&ms=au%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=49&initcwndbps=1071250&spc=4ocVC4HutpXc3wCy9fPx7_2JtiJtBGU&vprv=1&mime=video%2Fmp4&ns=xcBYksi8RQUPgOl_kfoC108G&cnr=14&ratebypass=yes&dur=39921.696&lmt=1586787761452174&mt=1656190866&fvip=4&fexp=24001373%2C24007246&c=WEB&txp=7316222&n=4CvZmGgjMnygDDfznZQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgDuLi6k55AOJQBnnVeeGUwjTqehhrWeJd8CRkPhjjVNkCIBJsGGD8S4x2sTdWffUrkvynuXfXwUbIsELkhs_2X0sE&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgNEJxEKu7g78Mrnpo-DktOyYwz-TQ6n5edNmpjpDdV1cCIHWOUBf30ch7FbzALcA9f67MENMsBbaqFFeWV-bjHP-L
-#EXTINF:0,MILENIO - Noticias EN VIVO
-https://www.youtube.com/get_video_info?video_id=X6ubsLny_uk&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=wUhVM98efxA&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=wUhVM98efxA&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=xx_--A1y31Y&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=xx_--A1y31Y&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=bOvhCYr1NYk&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=bOvhCYr1NYk&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=pES1Zd_vyjU&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=pES1Zd_vyjU&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=C8BHiX0578M&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=C8BHiX0578M&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=8XL8Qk4qzyA&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=8XL8Qk4qzyA&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:30,Todo Noticias - TN EN VIVO | Mirá la programación de @Todo Noticias durante las 24 horas del día
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656212933/ei/ZXm3YqXQC5uag8UPzZm-0AQ/ip/2001%3Ae68%3A544e%3Ac92c%3Ad041%3Af9cf%3A83d9%3Ada8e/id/wHn1_QVoXGM.12/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0mWTRlGHAngOhfnlyJ4Q-5TAKQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIOaBbQDfeWFP0-mySXrVSZyLrFxuiRQ-FqFGJ3aLzEfAiEAofI_IweTosRBXNmWLRswx2sG8yojAXl491niVDd7H6I%3D/file/index.m3u8
-#EXTINF:0,Nickelodeon en Español - 🔴EN DIRECTO: Bob Esponja | ¡Héroes submarinos! | Nickelodeon en Español
-https://www.youtube.com/get_video_info?video_id=r5zu9c54dFM&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=_SQSL8wfrYw&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=_SQSL8wfrYw&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=fP9xSsb47JY&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=fP9xSsb47JY&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=ZY5oov1_jbo&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=ZY5oov1_jbo&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=oEJBMm9DG9M&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=oEJBMm9DG9M&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=PbP0_yYXcHU&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=PbP0_yYXcHU&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=wUhVM98efxA&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=wUhVM98efxA&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,Meganoticias - EN VIVO | Meganoticias
-https://www.youtube.com/get_video_info?video_id=2IfCU7JYJtA&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,Nmas - Noticias En Vivo Foro Tv - Transmisión 24/7
-https://www.youtube.com/get_video_info?video_id=qM8RYN1MAh8&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=qqCtTbCqc8Q&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=qqCtTbCqc8Q&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=HZo8QgtTpaY&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=HZo8QgtTpaY&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,DC Kids Latino - 🔴Directo! Teen Titans Go! en Latino 🇲🇽🇦🇷🇨🇴🇵🇪🇻🇪 | El Amor Está En El Aire | DC Kids
-https://www.youtube.com/get_video_info?video_id=RqE4HRxAb5c&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,WB Kids Latino - 🔴 Lo mejor de Tom y Jerry 🇲🇽🇦🇷🇨🇴🇵🇪 | Dibujos Animados Clásicos | WB Kids
-https://www.youtube.com/get_video_info?video_id=Ulji9eaDYcM&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=34rTJjQ3bM8&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=34rTJjQ3bM8&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=D68xL0Ni0ns&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=D68xL0Ni0ns&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,Peppa Pig Español Latino - Canal Oficial - 🔴 Peppa Pig Español Latino LIVE  | Días de juego con Peppa
-https://www.youtube.com/get_video_info?video_id=JSTgAr55-5g&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,PJ Masks Español - PJ Masks en Español Nueva Temporada 2 - Capitulos Completos - Dibujos Animados
-https://www.youtube.com/get_video_info?video_id=ltilSo8SGtM&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=R5fV6nT9gx4&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=R5fV6nT9gx4&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=R5fV6nT9gx4&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=R5fV6nT9gx4&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,get_video_info?video_id=6x4w5z9S7WQ&jsurl=https://www.youtube.com/s/player/9c24c545/player_ias.vflset/en_US/base.js
-https://www.youtube.com/get_video_info?video_id=6x4w5z9S7WQ&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
-#EXTINF:0,Sam el Bombero en Español - Sam el Bombero ⭐️ Episodios Completos 🔥 Dibujos Animados
-https://www.youtube.com/get_video_info?video_id=TPz27QxcRyA&jsurl=https%3A%2F%2Fwww.youtube.com%2Fs%2Fplayer%2F9c24c545%2Fplayer_ias.vflset%2Fen_US%2Fbase.js
 #EXTINF:-1 group-title="iptuorg",tv
 http://iptu.org/live.m3u8?channel=135
 #EXTINF:-1 group-title="iptuorg",tv
