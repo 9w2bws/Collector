@@ -217,11 +217,11 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441956
 
 
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",tv
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",cartoon kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",tv
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=134
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",tv
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",popstar!tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=137
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=138
