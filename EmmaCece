@@ -61,16 +61,16 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441490
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441493
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",RTÉ Two
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441494
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",supersport 4
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441940
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",supersport 3
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441941
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",supersport 2
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="EmmaCece",supersport 2
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441942
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",wwe
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441947
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",arena 2
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="EmmaCece",supersport 3
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441941
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="EmmaCece",supersport 4
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441940
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" tvg-logo="" group-title="EmmaCece",arena 2
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441948
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="https://www.wwe.com/f/styles/talent_champion_xl/public/wysiwyg/image/2015/07/wwe-network/20140123_Article_Network_NETWORK.jpg" tvg-logo="" group-title="EmmaCece",wwe
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441947
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",golf
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441949
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",arena 2
