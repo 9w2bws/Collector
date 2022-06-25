@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="iptuorg",tv
+#EXTINF:-1 group-title="iptuorg",cbc news
 http://iptu.org/live.m3u8?channel=0
-#EXTINF:-1 group-title="iptuorg",tv
+#EXTINF:-1 group-title="iptuorg",National news
 http://iptu.org/live.m3u8?channel=3
-#EXTINF:-1 group-title="iptuorg",tv
+#EXTINF:-1 group-title="iptuorg",news 8
 http://iptu.org/live.m3u8?channel=4
-#EXTINF:-1 group-title="iptuorg",tv
+#EXTINF:-1 group-title="iptuorg",fox 2
 http://iptu.org/live.m3u8?channel=5
-#EXTINF:-1 group-title="iptuorg",tv
+#EXTINF:-1 group-title="iptuorg",fox
 http://iptu.org/live.m3u8?channel=6
-#EXTINF:-1 group-title="iptuorg",tv
+#EXTINF:-1 group-title="iptuorg",fox 21
 http://iptu.org/live.m3u8?channel=7
-#EXTINF:-1 group-title="iptuorg",tv
+#EXTINF:-1 group-title="iptuorg",fox sport
 http://iptu.org/live.m3u8?channel=8
 #EXTINF:-1 group-title="iptuorg",tv
 http://iptu.org/live.m3u8?channel=9
