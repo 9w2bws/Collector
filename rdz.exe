@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",1
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",Cheddar
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",2
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",contv
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",3
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",oan
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=23
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",4
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",contv
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=24
-#EXTINF:60,Nimbus Playout
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",Nimbus Playout
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=30
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",5
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",Kids
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",6
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",electric now
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=32
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="getpublica",7
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
