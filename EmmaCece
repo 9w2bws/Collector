@@ -57,12 +57,13 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441487
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441489
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rte-2-126.png" group-title="EmmaCece",RTÉ 2
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441490
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="EmmaCece",arena 2
-http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441950
+
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rte-one-1241.png" group-title="EmmaCece",one
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441493
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://ia803108.us.archive.org/16/items/Rte2Hd_201805/rte%202%20hd.png" group-title="EmmaCece",RTÉ Two
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441494
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" group-title="EmmaCece",Premiersport
+http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441950
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="EmmaCece",arena 2
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441948
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="EmmaCece",supersport 2
@@ -71,12 +72,10 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441942
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441941
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="EmmaCece",supersport 4
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441940
-
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://www.wwe.com/f/styles/talent_champion_xl/public/wysiwyg/image/2015/07/wwe-network/20140123_Article_Network_NETWORK.jpg" group-title="EmmaCece",wwe
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441947
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="EmmaCece",golf
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441949
-
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",spotv
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441951
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="EmmaCece",bein Sports
