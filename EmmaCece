@@ -55,11 +55,11 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441483
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441487
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",RTÉ One
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441489
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",RTÉ 2
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rte-2-126.png" group-title="EmmaCece",RTÉ 2
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441490
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",one
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rte-one-1241.png" group-title="EmmaCece",one
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441493
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="EmmaCece",RTÉ Two
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://ia803108.us.archive.org/16/items/Rte2Hd_201805/rte%202%20hd.png" group-title="EmmaCece",RTÉ Two
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441494
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="EmmaCece",arena 2
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441948
