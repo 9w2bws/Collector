@@ -18,8 +18,6 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Refer
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-ID="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="MYTV",OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|https://github.com/samleong123
-#EXTINF:-1 group-title="MYTV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656161607/ei/57C2YqaOH-m74t4Pk8-MqAw/ip/2001%3Ae68%3A544e%3A2625%3Ab544%3A1d5b%3A3977%3Ac3de/id/rCB9gnNU1Ts.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/4ocVC0g5P9Yod8emEKf6Fgc1M80tZFQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMbVw38aE10mcPYvkRe21YZRPKvqKE-9_8kMD78y6OihAiAUf7it2BDYDz-JF6XWSx-hHhI6QEBYVhRHb34uNU9gRQ%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="MYTV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 group-title="MYTV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
