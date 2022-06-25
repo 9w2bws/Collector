@@ -225,19 +225,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=134
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=137
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=138
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",tv
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",tv kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=142
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",tv
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",tv kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=143
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=144
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",tv
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="ottera",tv eports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=145
-#EXTINF:-1 group-title="ottera",tv
+#EXTINF:-1 group-title="ottera",tv k
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=146
-#EXTINF:-1 group-title="ottera",tv
+#EXTINF:-1 group-title="ottera",tv k
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=147
-#EXTINF:-1 group-title="ottera",tv
+#EXTINF:-1 group-title="ottera",tv 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=148
 #EXTINF:-1 group-title="ottera",tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=150
