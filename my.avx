@@ -920,17 +920,13 @@ https://cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8
 http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_540/playlist.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/HUHGTzu.png" group-title="Japan",Nippon TV (540p) [Not 24/7]
 https://ntv2.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="Japan",NTV News24 (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/live
-
 #EXTINF:-1 tvg-id="QVCJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="Japan",QVC Japan (720p)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Japan",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="Japan",SUN TV
 http://cdn.us195.jpnettv.live:1935/jptv/kansi_sun_tv_540/playlist.m3u8
-#EXTINF:-1 tvg-id="TBSNews.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/hk0oZab.png" group-title="Japan",TBS News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA/live
+
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/512px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan",Tokyo MX1 (720p)
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/512px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan",Tokyo MX2 (720p)
@@ -1277,25 +1273,14 @@ https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/21oCqlc.png" group-title="Indonesian",Magna Channel (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MataMilenialIndonesiaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mata-milenial-indonesia-tv-id.png" group-title="Indonesian",Mata Milenial Indonesia TV [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/channel/UCvew2SW7fPHK0m8c4Ez44Nw/live
-#EXTINF:-1 tvg-id="MediaSunnahAceh.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/media-sunnah-aceh-id.png" group-title="Indonesian",Media Sunnah Aceh [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MediaSunnahAceh/live
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Indonesian",Metro TV (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/MetrotvnewsOfficial/live
 #EXTINF:-1 tvg-id="MGSTV.id" tvg-country="ID-JB" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/MGSTV_%282015%29.png" group-title="Indonesian",MGS TV (720p) [Not 24/7]
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 tvg-id="MQTV.id" tvg-country="ID-JB" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="Indonesian",MQTV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MTATV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mta_tv_id.png" group-title="Indonesian",mta tv [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/OfficialMTATV/live
 #EXTINF:-1 tvg-id="MuadzTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/muadz-tv-id.png" group-title="Indonesian",Muadz TV (1080p)
 http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MyFamily.id" tvg-country="ID" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png" group-title="Indonesian",My Family Channel
 http://210.210.155.35/uq2663/h/h194/index.m3u8
-
-#EXTINF:-1 tvg-id="NET.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Indonesian",NET. [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/NetInsights/live
 #EXTINF:-1 tvg-id="NuChannel.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nu-channel-id.png" group-title="Indonesian",Nu Channel (576p)
 https://bravo.kugo.id/nuchannel/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_nusantaratv.png/512px-Logo_nusantaratv.png" group-title="Indonesian",Nusantara TV (720p)
@@ -1338,8 +1323,6 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 https://v2.siar.us/saktitv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SalamTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/JfYsQGZ.png" group-title="Indonesian",Salam TV (720p)
 https://iptv.salaamtv.org/salaam/playlist.m3u8
-#EXTINF:-1 tvg-id="SalamTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/No3yJqs.png" group-title="Indonesian",Salam TV [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/c/SALAMTVLIVE/live
 #EXTINF:-1 tvg-id="SalingSapaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/ss/saling-sapa-tv-id.png" group-title="Indonesian",Saling Sapa TV (576p)
 https://bravo.kugo.id/salingsapa/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="" group-title="Indonesian",Sampit TV
