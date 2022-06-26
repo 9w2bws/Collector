@@ -538,14 +538,14 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="HITS" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Hits",Hits
+#EXTINF:-1 tvg-id="HITS" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Movies",Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 
 #Hits Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="HITSMovies" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Hits",Hits Movies
+#EXTINF:-1 tvg-id="HITSMovies" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="Movies",Hits Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #Trill
@@ -659,12 +659,6 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/
 #EXTINF:-1 tvg-name="FilmRise Movies" tvg-logo="https://camo.githubusercontent.com/c29a8252c811a1eade081d508f8fe718cdc89140da93ef4bcac8b851129bf6e5/68747470733a2f2f692e696d6775722e636f6d2f6a477a4d6152442e706e67" group-title="Movies",FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
 
-#EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Arab",MBC Drama
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Arab",MBC Drama PLUS
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",CCTV-6 Movies
-http://117.169.120.140:8080/live/cctv-6/.m3u8
 
 #EXTINF:-1 tvg-ID="SB1.AU" tvg-logo="https://static.epg.best/au/SBS.au.png" group-title="Movies",SBS One
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
@@ -781,24 +775,16 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m
 #EXTINF:-1 tvg-id="XumoFreeWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" group-title="Movies",Xumo Free Westerns (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",Kino 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146084
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",Kino 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146085
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",Kino 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146086
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://d3uq94x7ter1dy.cloudfront.net/channels/m-net/logo.png" group-title="Movies",M 2 Movies
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146168
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",Nova Primiere HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146538
 
 #EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="" group-title="Movies",Rakuten Action Movies UK (720p)
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -808,6 +794,14 @@ https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Movies",Rakuten TV Films Action
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Arab",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Arab",MBC Drama PLUS
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",CCTV-6 Movies
+http://117.169.120.140:8080/live/cctv-6/.m3u8
 
 #EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VLWDHGs.png" group-title="Classic",TVS Classic Movies (288p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
@@ -1016,16 +1010,7 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 #Newtrack
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="newtrack",Kino 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146084
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="newtrack",Kino 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146085
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="newtrack",Kino 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146086
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://d3uq94x7ter1dy.cloudfront.net/channels/m-net/logo.png" group-title="newtrack",M 2 Movies
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146168
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="newtrack",Nova Primiere HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146538
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
