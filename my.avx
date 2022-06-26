@@ -680,7 +680,7 @@ http://crackle-xumo.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Classic",FilmStreams (720p)
+#EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Film",FilmStreams (720p)
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FrightFlix.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/rgNQYAl.png" group-title="Movies",FrightFlix (720p)
@@ -795,13 +795,13 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",CCTV-6 Movies
 http://117.169.120.140:8080/live/cctv-6/.m3u8
 
-#EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VLWDHGs.png" group-title="Classic",TVS Classic Movies (288p)
+#EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VLWDHGs.png" group-title="Film",TVS Classic Movies (288p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
 
-#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" group-title="Classic",TVS Nostalgia Movies (480p)
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" group-title="Film"",TVS Nostalgia Movies (480p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
 
-#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="Classic",Classic Cinema (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="Film",Classic Cinema (240p) [Not 24/7]
 https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8
 
 #drama
