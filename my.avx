@@ -121,23 +121,10 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://camo.githubusercontent.com/f4fde52bcc27de7f96cd91d4812750017daad5df8e2e2f0700bcd58e046bede6/68747470733a2f2f692e696d6775722e636f6d2f46634e314f4b6f2e706e67" group-title="Film",FilmRise Sci-Fi
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
-#EXTINF:-1 tvg-name="FilmRise Movies" tvg-logo="https://camo.githubusercontent.com/c29a8252c811a1eade081d508f8fe718cdc89140da93ef4bcac8b851129bf6e5/68747470733a2f2f692e696d6775722e636f6d2f6a477a4d6152442e706e67" group-title="Film",FilmRise Movies
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8|https://github.com/Free-TV/IPTV/blob/master/zz_movies.md
-#EXTINF:-1 tvg-id="FilmRiseFamily.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="Film",FilmRise Family (720p)
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FilmRiseTrueCrime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/suxN191.png" group-title="Film",FilmRise True Crime (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmRiseWestern.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7cTXYNk.png" group-title="Film",FilmRise Western (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FilmHub.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQkhR58.png" group-title="Film",Film Hub (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Film",FilmStreams (720p)
+#EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Movies",FilmStreams (720p)
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
