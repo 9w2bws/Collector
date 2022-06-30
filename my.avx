@@ -326,9 +326,6 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-id="UtsavGold.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/FYym7gH.png" group-title="Movies",Utsav Gold (720p)
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="VictorValleyMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VictorValleyMovies_229x229.png?raw=true" group-title="Family",Victor Valley Movies (1080p) [Not 24/7]
-https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WatchItScream.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ylPU4Uf.jpg" group-title="Movies",Watch It Scream! (720p)
 https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
 
@@ -367,12 +364,8 @@ https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png" group-title="Arab",MBC Drama KSA (1080p)
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Arab",MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Arab",MBC Drama PLUS
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/512px-MBC_Drama_Plus_TV_Channel_Logo.png" group-title="Arab",MBC Plus Drama (1080p)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
