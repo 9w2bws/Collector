@@ -229,7 +229,7 @@ https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #Movie 24/7
-#EXTINF:-1 tvg-id="movieshd" tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movies",Movie 24/7
+#EXTINF:-1 tvg-id="movieshd" tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="Movies",
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Movies",Fox HD
