@@ -34,8 +34,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rt
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 
-#EXTINF:-1 tvg-ID="AstroAwani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Berita",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -53,23 +52,28 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 #EXTINF:-1 tvg-id="Thrill.id" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="MYTV",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MYTV",Astro Prima
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://images.prismic.io/atmosphere-marketing/5815c8d2-cc70-47b1-9b62-e38d3ab66300_logo-redbulltv.png" group-title="MYTV",Red Bull
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://digitaladvertisingmedia.com/wp-content/uploads/2019/12/S_RedBullTV00-300x225.jpg" group-title="MYTV",Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="Berita",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-ID="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MYTV",RTM Sports HD
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://github.com/samleong123
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="MYTV",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+
 #EXTINF:-1 tvg-id="702" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="MYTV",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #Astro
