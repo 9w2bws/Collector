@@ -1,101 +1,13 @@
 #EXTM3U8 x-tvg-url="https://weareblahs.github.io/epg/mytv.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/mytv.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml" refresh="1440" max-conn="1" refresh="24"
 
-#Discovery
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Discovery",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Discovery",Nat Geo Wild
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-id="Jaz.News" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/13602072_ico.png" group-title="Discovery",AL JAZEERA
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="ANI.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428152_ico.png" group-title="Discovery",ANIMAL PLANET
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="DIS.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428142_ico.png" group-title="Discovery",DISCOVERY
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428147_ico.png" group-title="Discovery",HISTORY
-https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428164_ico.png" group-title="Discovery",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/crimeinvestigation.png" group-title="Discovery",CRIME+INVESTIGATION
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9431838_ico.png" group-title="Discovery",LIFETIME
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="Discovery",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="Berita",BBC World News
+#EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="Berita",CNN International
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="News",CNN International
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-
-
-
-
-
-#EXTINF:-1 tvg-id="FilmHub.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQkhR58.png" group-title="Film",Film Hub (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Movies",FilmStreams (720p)
-https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Arab",MBC Drama
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Arab",MBC Drama PLUS
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-
-
-#drama
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png" group-title="Arab",MBC Drama KSA (1080p)
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
