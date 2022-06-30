@@ -146,20 +146,6 @@ https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #Movies
-#EXTINF:-1 group-title="HBO",+HBO3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2225
-#EXTINF:-1 group-title="HBO",HBO+
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2226
-#EXTINF:-1 group-title="HBO",+HBO 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2248
-#EXTINF:-1 group-title="HBO",+HBO
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2336
-#EXTINF:-1 group-title="HBO",hbo (E)
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3055
-#EXTINF:-1 group-title="HBO",HBO 2 (UERO)
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3056
-#EXTINF:-1 group-title="HBO",HBO 2 (GREEN)
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3217
 
 #HBO Malaysia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -235,6 +221,22 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="712" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="HBO",Warner TV Southeast Asia
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#EXTINF:-1 group-title="HBO",+HBO3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2225
+#EXTINF:-1 group-title="HBO",HBO+
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2226
+#EXTINF:-1 group-title="HBO",+HBO 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2248
+#EXTINF:-1 group-title="HBO",+HBO
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2336
+#EXTINF:-1 group-title="HBO",hbo (E)
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3055
+#EXTINF:-1 group-title="HBO",HBO 2 (UERO)
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3056
+#EXTINF:-1 group-title="HBO",HBO 2 (GREEN)
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3217
+
 
 #Movies
 #EXTINF:-1 tvg-ID="SBM.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/3374ed8c-8b84-4703-8449-7142e3bd838e.png" group-title="Movies",SBS World Movies
@@ -338,6 +340,54 @@ https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Movies",Rakuten TV Films Action
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="movies",bein movies 3 (drama uae)
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3735
+#EXTINF:-1 group-title="movies",osn movies hd box office 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3701
+#EXTINF:-1 group-title="movies",osn movies hd box office 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3702
+#EXTINF:-1 group-title="movies",PINK MOVIES
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3349
+#EXTINF:-1 group-title="movies",G plus (movies)
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3051
+#EXTINF:-1 group-title="movies",g premier (local movies)
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3052
+#EXTINF:-1 group-title="movies",STAR MOVIES
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2849
+#EXTINF:-1 group-title="movies",FOX ACTION MOVIES
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2831
+#EXTINF:-1 group-title="movies",ENG MOVIES
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2291
+#EXTINF:-1 group-title="movies",ENG MOVIES
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2274
+#EXTINF:-1 group-title="movies",movies
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2017
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="movies",bein movies hd family
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1763
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="movies",bein movies premiere
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1763
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="us" tvg-language="english" tvg-logo="" group-title="movies",axn movies HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1471
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="us" tvg-language="english" tvg-logo="" group-title="movies",fox movies
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1457
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Movies",Movies
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1293
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Movies",superhd
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1303
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Movies",actionhd
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1308
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Movies",smile
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1322
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Movies",2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1247
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="Movies",max
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1240
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="movies",sky movies
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1082
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="movies",Niga Movies
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/800
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="MOVIES",ITV 4
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/691
 
 #EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="" group-title="Arab",MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
