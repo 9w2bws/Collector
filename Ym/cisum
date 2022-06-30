@@ -1,0 +1,106 @@
+#Music 
+#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="Music",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BratTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="Drama",Brat TV (1080p)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BreezeTV.nz" tvg-country="NZ" tvg-language="English" tvg-logo="https://i.imgur.com/3dpH9XF.jpg" group-title="Music",Breeze TV (720p)
+https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
+
+#EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3ydTBy7.png" group-title="Music",Cadena Elite (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="Music",California Music Channel (720p) [Not 24/7]
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KadakHits.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Xl1eyUc.png" group-title="Music",Kadak Hits (1080p) [Not 24/7]
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kronehit.at" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/7ZtCzbI.png" group-title="Music",Kronehit (1080p)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LatinosRadio.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQBewVSiagOUY4bjuHxtwDdHQZjc85-v575vIpwxA=s200-c-k-c0x00ffffff-no-rj" group-title="Music",Latinos Radio
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Navahang.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/XzNfON4.png" group-title="Music",NAVAHANG (720p)
+http://51.210.227.130/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="NojoumTV.jo" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6ttWNu0.jpg" group-title="Music",Nojoum TV (720p)
+https://nojoumhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PamirTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://i.imgur.com/boPBCOX.png" group-title="Music",Pamir TV (1080p) [Not 24/7]
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iNZUegv.png" group-title="Music",Panorama FM (1080p)
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+
+#EXTINF:-1 tvg-id="PersianaMusic.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gu83Mpl.png" group-title="Music",Persiana Music (720p)
+http://51.210.199.24/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Music",Wanasah (1080p)
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+#EXTINF:-1 tvg-id="VevoHipHop.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Music",Vevo Hip Hop (1080p)
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1 tvg-id="VevoLatino.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music",Vevo Latino (1080p) [Not 24/7]
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
+#EXTINF:-1 tvg-id="V2BEAT.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/O341rZF.png" group-title="Music",V2BEAT (720p) [Not 24/7]
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-country="FR" tvg-language="English;French;Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/512px-Trace_Urban_logo_2010.svg.png" group-title="Music",Trace Urban (Australia) (1080p)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheRetroChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t3i1HtE.jpg" group-title="Music",The Retro Channel (1080p) [Not 24/7]
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheEdgeTV.nz" tvg-country="NZ" tvg-language="English" tvg-logo="https://i.imgur.com/ZHJVvOj.png" group-title="Music",The Edge (720p)
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+
+#EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="Music",The Box UK (576p) [Not 24/7]
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+
+#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network (1080p)
+https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
+
+#EXTINF:-1 tvg-id="T2TV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/BwyQR6n.png" group-title="Music",T2 TV (720p) [Not 24/7]
+http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/rotana-khalijiah.png" group-title="Music",Rotana Khalijia (1080p)
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/F69gAWa.png" group-title="Music",Rock TV (480p)
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="RCKTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Music",RCK TV (720p)
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioUTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://radiou.com/wp-content/uploads/2018/06/RadioUSiteFooterTransparent.png" group-title="Music",Radio U TV (720p) [Not 24/7]
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Radio_Italia_logo_%282020%29.svg/512px-Radio_Italia_logo_%282020%29.svg.png" group-title="Music",Radio Italia TV (480p)
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+
+#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="Music",Radio Chalaca (720p) [Not 24/7]
+https://megastreamm.com:3611/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Radio21TV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" group-title="Music",Radio 21 TV (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+
+#EXTINF:-1 tvg-id="Qmusic.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/P8cVMle.jpg" group-title="Music",Qmusic (720p)
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg" group-title="Music",Public Music [Not 24/7]
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+
+#EXTINF:-1 tvg-id="Portalfoxmix.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ZEBOeGe.png" group-title="Music",Portalfoxmix (908p) [Not 24/7]
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PopPataka.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/J5RzXeo.png" group-title="Music",Pop Pataka (480p) [Not 24/7]
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PMC.ae" tvg-country="MENA" tvg-language="Persian" tvg-logo="https://i.imgur.com/o8vx6FG.png" group-title="Music",PMC (1080p)
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-country="MENA" tvg-language="Persian" tvg-logo="https://i.imgur.com/o8vx6FG.png" group-title="Music",PMC Royale (720p) [Not 24/7]
+http://51.210.199.29/hls/stream.m3u8
