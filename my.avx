@@ -107,7 +107,7 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="DIS.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428142_ico.png" group-title="Discovery",DISCOVERY
+#EXTINF:-1 tvg-ID="DiscoveryChannel" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428142_ico.png" group-title="Discovery",DISCOVERY
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
