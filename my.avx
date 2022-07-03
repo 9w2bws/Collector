@@ -414,11 +414,6 @@ https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
 
 
 #Korean
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="Korean",KIX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-
 #EXTINF:-1 tvg-id="PersianaKorea.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/voDf5jI.png" group-title="Korean",Persiana Korea (720p)
 http://51.210.199.14/hls/stream.m3u8
 
