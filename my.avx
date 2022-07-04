@@ -51,6 +51,15 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://digitaladvertisingmedia.com/wp-content/uploads/2019/12/S_RedBullTV00-300x225.jpg" group-title="MYTV",Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="MYTV",AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b7f352ff63e533f3baa950d7e2497410&key=e11de6f5f84bbd2f150ffc82191880e8
+#EXTINF:-1 tvg-id="701" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="MYTV",AXN Malaysia
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #singapore
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -707,92 +716,6 @@ http://cdn.us195.jpnettv.live:1935/jptv/janimax_720/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sm.pcmag.com/t/pcmag_ap/review/r/retrocrush/retrocrush_5p4u.1024.jpg" group-title="AnimeTV",RetroCrush
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.coppa=false&ads.is_lat=1&ads.ua=0&ads.content_type=livefeed&ads.content_rating=TV14
 
-##########################NATIONAL TV##########################
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_metrotv_small.png" group-title="NASIONAL", METRO TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-
-#EXTINF:0 tvg-logo="" group-title="NASIONAL", KOMPAS TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-
-#EXTINF:0 tvg-logo="" group-title="NASIONAL", TV ONE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_beritasatu_small1.png" group-title="NASIONAL", BERITA SATU
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_transtv_small.png" group-title="NASIONAL", TRANS TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_trans7_small.png" group-title="NASIONAL", TRANS 7
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_net_small1.png" group-title="NASIONAL", NET
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-
-#EXTINF:0 tvg-logo="" group-title="NASIONAL", RCTI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-#EXTINF:0 tvg-logo="" group-title="NASIONAL", GTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#EXTINF:0 tvg-logo="" group-title="NASIONAL", MNC TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#EXTINF:0 tvg-logo="" group-title="NASIONAL", INEWS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_idx_small.png" group-title="NASIONAL", IDX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-
-#EXTINF:0 tvg-logo="" group-title="NASIONAL", MNC NEWS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-
-#EXTINF:0 tvg-logo="" group-title="NASIONAL", ANTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_daaitv_small1.png" group-title="NASIONAL", DAAI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_rtv_small.png" group-title="NASIONAL", RTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_tvri_small1.png" group-title="NASIONAL", TVRI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_jaktv_small1.png" group-title="NASIONAL", JAK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -821,7 +744,7 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News Asia Pacific
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-https://on-load.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+#https://on-load.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -875,20 +798,14 @@ https://on-load.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxMLn71/Aljazeera.png" group-title="NEWS",Al Jazeera Arabic
-http://rr2.dens.tv/s/s16/index.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Al_Jazeera_Arabic
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEWS" tvg-logo="", WION (World is One News)
-http://rr.dens.tv/h/h91/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=WION
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEWS" tvg-logo="", CCTV-4
-http://rr2.dens.tv/s/s19/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCTV-4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -905,8 +822,6 @@ https://on-load.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",CNA
-https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
-https://on-load.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="NEWS", ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
