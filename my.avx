@@ -344,7 +344,7 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2274
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1763
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="" tvg-language="" tvg-logo="" group-title="movies",bein movies premiere
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1763
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="us" tvg-language="english" tvg-logo="" group-title="movies",axn movies HD
+#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="us" tvg-language="english" tvg-logo="" group-title="MYTV",axn movies HD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1471
 #EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="us" tvg-language="english" tvg-logo="" group-title="movies",fox movies
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1457
