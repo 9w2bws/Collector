@@ -57,8 +57,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657419424/ei/Q
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/rCB9gnNU1Ts/live
 
 #EXTINF:-1 group-title="MYTV" ch-number="" tvg-id="" tvg-chno="" tvg-logo="",Youtube
-https://rr7---sn-h5mpn-30ar.googlevideo.com/videoplayback?expire=1657420824&ei=uOfJYvCBBIiA3LUP88WFqAU&ip=2001%3Ad08%3A138d%3Aa092%3A18b0%3Ae50a%3A67f4%3A3c0d&id=o-AObAJA-ovbJR6Bdpfau0Xdq_vmOfANbjQkKkA7-dyi2a&itag=22&source=youtube&requiressl=yes&mh=lK&mm=31%2C29&mn=sn-h5mpn-30ar%2Csn-30a7rn7l&ms=au%2Crdu&mv=m&mvi=7&pl=37&initcwndbps=505000&spc=lT-Khqpxk74c1Uyl9r8ntSNN6RifK7k&vprv=1&mime=video%2Fmp4&ns=YciXGm-jNAuOpEIByzCFHT4H&cnr=14&ratebypass=yes&dur=36036.255&lmt=1655789119283596&mt=1657398552&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=5511222&n=KU3tBtNhcFU2eIQ38&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANExW-a3hk_Hun-6t1NP8ZdILdL5z2jd5HyWCopVZF4MAiBs29dkfLP6MmjOBefvyKihmbzq0ftuol4Spn7xwdddsQ%3D%3D&sig=AOq0QJ8wRgIhAMGNv1AbvvTiXkLDByCnadTimogOkJT4pUAR6ZZd8AJKAiEAgUvFgy7LRjQhuUDHJ5BmjXJ%3DGtaE_RPvS4pE-k2pmiI%3DiIxiIx
-
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/lQ0fS2meTYQ/live
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
