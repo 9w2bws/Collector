@@ -57,7 +57,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657419424/ei/Q
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/rCB9gnNU1Ts/live
 
 #EXTINF:-1 group-title="MYTV" ch-number="" tvg-id="" tvg-chno="" tvg-logo="",Youtube
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/lQ0fS2meTYQ/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/lQ0fS2meTYQ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
