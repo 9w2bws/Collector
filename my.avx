@@ -1129,19 +1129,22 @@ https://on-load.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 
 #VOD Movies
-#EXTINF:-1 group-title="VOD Movies" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Mortal_Kombat_%282021_film%29.png/220px-Mortal_Kombat_%282021_film%29.png",Mortal Kombat
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Mortal_Kombat_%282021_film%29.png/220px-Mortal_Kombat_%282021_film%29.png",Mortal Kombat
 http://162.12.215.254/Data/Movies/Hollywood/2021/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB.mkv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/lQ0fS2meTYQ
 
-#EXTINF:-1 group-title="VOD Movies" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://en.wikipedia.org/wiki/Suicide_Squad_%28film%29#/media/File:Suicide_Squad_(film)_poster.png",The Suicide Squad 2021
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://en.wikipedia.org/wiki/Suicide_Squad_%28film%29#/media/File:Suicide_Squad_(film)_poster.png",The Suicide Squad 2021
 http://46.4.39.111/english-movies/The.Suicide.Squad.2021.1080p.WEB-DL.akwam.io.mp4
 http://46.4.39.111/english-movies/
 
-#EXTINF:-1 group-title="VOD Movies" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://st1.bollywoodlife.com/wp-content/uploads/2022/05/Top-Gun-Maverick-review.jpg",Top Gun Maverick 2022
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://st1.bollywoodlife.com/wp-content/uploads/2022/05/Top-Gun-Maverick-review.jpg",Top Gun Maverick 2022
 http://103.156.66.58/m4t1/movies/english/2022/Top%20Gun%20Maverick%20(2022).mkv
 http://103.156.66.58/m4t1/movies/english/2022/
 
-#EXTINF:-1 group-title="VOD Movies" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg",The Batman 2022
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg",The Batman 2022
 http://103.156.66.58/m4t1/movies/english/2022/The%20Batman%20(2022)%20720p%20HDCAM%20x264%20AAC%202.0.mkv
+
+#EXTINF:-1 group-title="VOD Movies" tvg-logo="",movies
+http://103.156.66.58/m4t1/movies/english
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
