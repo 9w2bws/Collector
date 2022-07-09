@@ -56,7 +56,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657419424/ei/QOLJYu7tEeLQz7sPiKWdgAM/ip/2001%3Ad08%3A138d%3Aa092%3A18b0%3Ae50a%3A67f4%3A3c0d/id/rCB9gnNU1Ts.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/lT-KhkBDGKu3Dgbc-7yinWw8Nn2SJlg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHAT0l0LqzOAYdLea_Z_51IQOlHDGehDEu80s5nNfHdQCIQDQgAy2n-12uUkK-YlWOLb8-3m2QlZdC0opjKAAorEpZg%3D%3D/file/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/rCB9gnNU1Ts/live
 
-#EXTINF:-1 group-title="MYTV" ch-number="" tvg-id="" tvg-chno="" tvg-logo="",Youtube
+#EXTINF:-1 group-title="MYTV" ch-number="" tvg-id="" tvg-chno="" tvg-logo="",Movies
+http://162.12.215.254/Data/Movies/Hollywood/2021/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB.mkv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/lQ0fS2meTYQ
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
