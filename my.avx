@@ -206,7 +206,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="IN WILD" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="Discovery",IN WILD
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WildEarth" tvg-logo="" group-title="Discovery",Wild Earth
+#EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://149385349.v2.pressablecdn.com/wp-content/uploads/2020/11/WE_Explorers_Impala-scaled.jpg" group-title="Discovery",Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.indiefolio.com/fit-in/1100x0/filters:format(webp):fill(transparent)/project/body/a090ac912f7f1baf7febecbcd5dc2ca2.jpg" group-title="Discovery",XPLORE
