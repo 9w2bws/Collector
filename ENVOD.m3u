@@ -40,6 +40,11 @@ http://103.222.20.150/ftpdata/Movies/Hollywood/2017/The%20Hitmans%20Bodyguard%20
 http://103.156.66.58/m4t1/movies/english/2021/The%20Hitmans%20Wifes%20Bodyguard%20(2021).mp4
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="EN: The Phantom Menace " tvg-logo="https://static.wikia.nocookie.net/starwars/images/c/cc/SWEpisodeIThePhantomMenace-MarvelHC.jpg" group-title="VOD English",EN: Star Wars Episode I The Phantom Menace
 http://167.114.174.132:9092/movies/Batch241/Star.Wars.Episode.I.-.The.Phantom.Menace.1999.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EN: The Phantom Menace " tvg-logo="https://m.media-amazon.com/images/I/61zAkpvYLqL._AC_SY879_.jpg" group-title="VOD English",EN: Star Wars Episode II-Attack Of The Clones
@@ -48,7 +53,8 @@ http://167.114.174.132:9092/movies/Batch241/Star.Wars.Episode.II.-.Attack.Of.The
 http://167.114.174.132:9092/movies/Batch241/Star.Wars.Episode.III.-.Revenge.Of.The.Sith.2005.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EN: Star Wars Episode IV - A New Hope " tvg-logo="https://static.wikia.nocookie.net/listofdeaths/images/b/b5/A_New_Hope_poster.jpg" group-title="VOD English",EN: Star Wars Episode IV - A New Hope 
 http://167.114.174.132:9092/movies/Batch241/Star.Wars.Episode.IV.-.A.New.Hope.1977.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="EN: Star Wars Episode VII The Force Awakens " tvg-logo="https://image.tmdb.org/t/p//w780//qR4a1gHGOz2pfHrNlPtCjJu7JpD.jpg" group-title="VOD English",EN: Star Wars Episode VII The Force Awakens 
+http://ir2.papionvod.ir/Media/Movies/Dubbed/Collection/Star%20Wars/Star%20Wars%20Episode%20VII%20The%20Force%20Awakens%20%282015%29%20720p.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EN: Dune 2021 " tvg-logo="https://i.pinimg.com/564x/15/65/c2/1565c2ae2c0b778fa8a7712505bec608.jpg" group-title="VOD English",EN: Dune 
