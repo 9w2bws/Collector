@@ -1,10 +1,10 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-id="" tvg-name="EN: Zack Snyders Justice League " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Zack_Snyder%27s_Justice_League.png/220px-Zack_Snyder%27s_Justice_League.png" group-title="VOD English",EN: Zack Snyders Justice League 
 http://161.97.138.167/dl/Zack.Snyders.Justice.League.2021.REPACK.720p.HDRip.1200MB.x264-GalaxyRG%5BTGx%5D/Zack.Snyders.Justice.League.2021.REPACK.720p.HDRip.1200MB.x264-GalaxyRG.mkv
 
 
+#EXTINF:-1 tvg-id="" tvg-name="EN: Doctor Strange  " tvg-logo="https://3.bp.blogspot.com/-5gMT-6uIA-g/WBZVeSzxR7I/AAAAAAAAU_k/_oLex4M1XSY1UHKAzEplpaF9JUfWP4toQCLcB/s640/doctor-strange-movie-poster.jpg" group-title="VOD English",EN: Doctor Strange
+http://162.12.215.254/Data/Movies/Hollywood/2016_2017/Doctor%20Strange%20%282016%29/Doctor.Strange.2016.1080p.Bluray.x264.AAC-_BDPLEX.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Doctor Strange in the Multiverse of Madness " tvg-logo="https://static.c.realme.com/ID/wm-thread/1543633700515053568.jpg" group-title="VOD English",EN: Doctor Strange in the Multiverse of Madness 
 http://103.156.66.58/m4t1/movies/english/2022/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%20(2022)%20(Hindi%20&%20English)%201080p%20WEBDL.mkv
 
@@ -69,7 +69,7 @@ http://167.114.174.132:9092/movies/batch223/Passengers.2016.720p.BluRay.x264-%5B
 
 
 
-
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="EN: Past Obsessions " tvg-logo="https://image.tmdb.org/t/p/original/16rp0b9ay9vejqFKdqUOd7unwjb.jpg" group-title="VOD English",EN: Past Obsessions 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212686.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Pet Pals " tvg-logo="https://image.tmdb.org/t/p/original/vE1kppVaw5mMfz9U8FhMSF7OL0p.jpg" group-title="VOD English",EN: Pet Pals 
