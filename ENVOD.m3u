@@ -10,8 +10,8 @@ http://103.156.66.58/m4t1/movies/english/2022/Doctor%20Strange%20in%20the%20Mult
 
 #EXTINF:-1 tvg-id="" tvg-name="EN: Deadpool 2016 " tvg-logo="https://static.wikia.nocookie.net/marveldatabase/images/0/00/Deadpool_%28film%29_poster_009.jpg" group-title="VOD English",EN: Deadpool 2016
 http://162.12.215.254/Data/Movies/Hollywood/2016_2017/Deadpool%20%282016%29/Deadpool_%282016%29__1080p_BluRay_BDPlex.mkv
-
-
+#EXTINF:-1 tvg-id="" tvg-name="EN: Deadpool 2018 " tvg-logo="https://lumiere-a.akamaihd.net/v1/images/deadpool2_feature-poster_584x800_69bc155b.jpeg" group-title="VOD English",EN: Deadpool 2018
+https://dl3.3rver.org/cdn2/05/film/2018/Deadpool.2/Deadpool.2.2018.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="EN: Mortal Kombat " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Mortal_Kombat_%282021_film%29.png/220px-Mortal_Kombat_%282021_film%29.png" group-title="VOD English",EN: Mortal Kombat 
 http://162.12.215.254/Data/Movies/Hollywood/2021/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB.mkv
