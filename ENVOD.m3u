@@ -8,7 +8,7 @@ http://162.12.215.254/Data/Movies/Hollywood/2016_2017/Doctor%20Strange%20%282016
 #EXTINF:-1 tvg-id="" tvg-name="EN: Doctor Strange in the Multiverse of Madness " tvg-logo="https://static.c.realme.com/ID/wm-thread/1543633700515053568.jpg" group-title="VOD English",EN: Doctor Strange in the Multiverse of Madness 
 http://103.156.66.58/m4t1/movies/english/2022/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%20(2022)%20(Hindi%20&%20English)%201080p%20WEBDL.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="EN: Eternals " tvg-logo="" group-title="VOD English",EN: Eternals
+#EXTINF:-1 tvg-id="" tvg-name="EN: Eternals " tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVjYThmNDAtOTE1NC00YjQ2LTk4NWYtNTc4Yzc4OTRhYjllXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD English",EN: Eternals
 http://103.156.66.58/m4t1/movies/english/2021/Eternals%20(2021).mp4
 
 
@@ -21,21 +21,19 @@ https://dl3.3rver.org/cdn2/05/film/2018/Deadpool.2/Deadpool.2.2018.The.Super.Dup
 #EXTINF:-1 tvg-id="" tvg-name="EN: Mortal Kombat " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Mortal_Kombat_%282021_film%29.png/220px-Mortal_Kombat_%282021_film%29.png" group-title="VOD English",EN: Mortal Kombat 
 http://162.12.215.254/Data/Movies/Hollywood/2021/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="EN: Alita Battle Angel " tvg-logo="" group-title="VOD English",EN: Alita Battle Angel
+#EXTINF:-1 tvg-id="" tvg-name="EN: Alita Battle Angel " tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_alita_battle_angel_20cs_da903cc8.jpeg" group-title="VOD English",EN: Alita Battle Angel
 http://162.12.215.254/Data/Movies/Hollywood/2019/Alita%3A%20Battle%20Angel%20%282019%29/Alita%20Battle%20Angel%20%5B2019%5D%20%5B1080p%5D%20%5BCiTYCloud%5D.mp4
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EN: The Suicide Squad 2021 " tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" group-title="VOD English",EN: The Suicide Squad 
 http://46.4.39.111/english-movies/The.Suicide.Squad.2021.1080p.WEB-DL.akwam.io.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EN: Interstellar " tvg-logo="" group-title="VOD English",EN: Interstellar
+#EXTINF:-1 tvg-id="" tvg-name="EN: Interstellar " tvg-logo="https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="VOD English",EN: Interstellar
 http://162.12.215.254/Data/Movies/Hollywood/Old%20Movie/Interstellar%20%282014%29%20720p%20BluRay%20x264/Interstellar%20%282014%29%20720p%20BluRay%20x264.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EN: Top Gun Maverick 2022 " tvg-logo="https://st1.bollywoodlife.com/wp-content/uploads/2022/05/Top-Gun-Maverick-review.jpg" group-title="VOD English", EN: Top Gun Maverick 
 http://103.156.66.58/m4t1/movies/english/2022/Top%20Gun%20Maverick%20(2022).mkv
-#EXTINF:-1 tvg-id="" tvg-name="EN: Hitman Agent 47 " tvg-logo="" group-title="VOD English",EN: Hitman Agent 47
-https://dl3.3rver.org/cdn2/04/film/2015/Hitman.Agent.47/Hitman.Agent.47.2015.480p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: The Hitmans Bodyguard 2017 " tvg-logo="" group-title="VOD English",EN: The Hitmans Bodyguard 2017
 http://s4.topseda.ir/nevisande/hossin/1396/movie/khareji/zemestan/Th.e.Hit.mans.Body.guard.2017.720p.b.lu.ry.x265.HEVC.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: The Hitmans Wifes Bodyguard (2021) " tvg-logo="" group-title="VOD English",EN: The Hitmans Wifes Bodyguard (2021)
