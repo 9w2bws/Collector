@@ -56,6 +56,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657472373/ei/FLHKYrO2N6anjuMPqaKcoA4/ip/2001%3Ae68%3A544e%3A835f%3Ae0f8%3Ace66%3Ae114%3A1ce9/id/rCB9gnNU1Ts.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/lT-KhsEiE1kQhaT4kHOsz44UgrwZXmY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJCksgFVf-J5Nv0nLDy83sNgL4pKmVgINcNlHE2IsiKoAiBQTx1tF3KLTYD3Ta7Eh9dXIpRp8dAJDjcQxAWKSW0nlA%3D%3D/file/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/rCB9gnNU1Ts/live
 
+#EXTINF:3,SUKE TV - SUKE TV Live Stream
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657472373/ei/FLHKYrO2N6anjuMPqaKcoA4/ip/2001%3Ae68%3A544e%3A835f%3Ae0f8%3Ace66%3Ae114%3A1ce9/id/rCB9gnNU1Ts.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/lT-KhsEiE1kQhaT4kHOsz44UgrwZXmY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJCksgFVf-J5Nv0nLDy83sNgL4pKmVgINcNlHE2IsiKoAiBQTx1tF3KLTYD3Ta7Eh9dXIpRp8dAJDjcQxAWKSW0nlA%3D%3D/file/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
