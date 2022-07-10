@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="EN: Doctor Strange in the Multiverse of Madness " tvg-logo="https://static.c.realme.com/ID/wm-thread/1543633700515053568.jpg" group-title="VOD English",EN: Doctor Strange in the Multiverse of Madness
+#EXTINF:-1 tvg-id="" tvg-name="EN: Doctor Strange in the Multiverse of Madness " tvg-logo="https://static.c.realme.com/ID/wm-thread/1543633700515053568.jpg" group-title="VOD English",EN: Doctor Strange in the Multiverse of Madness 
 http://103.156.66.58/m4t1/movies/english/2022/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%20(2022)%20(Hindi%20&%20English)%201080p%20WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EN: Mortal Kombat " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Mortal_Kombat_%282021_film%29.png/220px-Mortal_Kombat_%282021_film%29.png" group-title="VOD English",EN: Mortal Kombat
+#EXTINF:-1 tvg-id="" tvg-name="EN: Mortal Kombat " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Mortal_Kombat_%282021_film%29.png/220px-Mortal_Kombat_%282021_film%29.png" group-title="VOD English",EN: Mortal Kombat 
 http://162.12.215.254/Data/Movies/Hollywood/2021/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EN: The Suicide Squad 2021 " tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" group-title="VOD English",EN: The Suicide Squad 2021
+#EXTINF:-1 tvg-id="" tvg-name="EN: The Suicide Squad 2021 " tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" group-title="VOD English",EN: The Suicide Squad 
 http://46.4.39.111/english-movies/The.Suicide.Squad.2021.1080p.WEB-DL.akwam.io.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EN: Top Gun Maverick 2022 " tvg-logo="https://st1.bollywoodlife.com/wp-content/uploads/2022/05/Top-Gun-Maverick-review.jpg" group-title="VOD English", EN: Top Gun Maverick 2022
+#EXTINF:-1 tvg-id="" tvg-name="EN: Top Gun Maverick 2022 " tvg-logo="https://st1.bollywoodlife.com/wp-content/uploads/2022/05/Top-Gun-Maverick-review.jpg" group-title="VOD English", EN: Top Gun Maverick 
 http://103.156.66.58/m4t1/movies/english/2022/Top%20Gun%20Maverick%20(2022).mkv
-#EXTINF:-1 tvg-id="" tvg-name="EN: Free Guy 2021 " tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_20cs_freeguy_homeent_21930_49e74453.jpeg" group-title="VOD English",EN: Free Guy 2021
+#EXTINF:-1 tvg-id="" tvg-name="EN: Free Guy 2021 " tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_20cs_freeguy_homeent_21930_49e74453.jpeg" group-title="VOD English",EN: Free Guy 2021 
 http://103.156.66.58/m4t1/movies/english/2021/Free%20Guy%20(2021).mkv
-#EXTINF:-1 tvg-id="" tvg-name="EN: Dune 2021 " tvg-logo="https://i.pinimg.com/564x/15/65/c2/1565c2ae2c0b778fa8a7712505bec608.jpg" group-title="VOD English",EN: Dune 2021
+#EXTINF:-1 tvg-id="" tvg-name="EN: Dune 2021 " tvg-logo="https://i.pinimg.com/564x/15/65/c2/1565c2ae2c0b778fa8a7712505bec608.jpg" group-title="VOD English",EN: Dune 2021 
 http://103.156.66.58/m4t1/movies/english/2021/Dune%20(2021)%20.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Past Obsessions " tvg-logo="https://image.tmdb.org/t/p/original/16rp0b9ay9vejqFKdqUOd7unwjb.jpg" group-title="VOD English",EN: Past Obsessions 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212686.mkv
@@ -35,8 +35,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212677.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212676.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: A Royal Team Talk Tackling Mental Health " tvg-logo="" group-title="VOD English",EN: A Royal Team Talk Tackling Mental Health 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212675.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EN: A Very British Sex Shop " tvg-logo="" group-title="VOD English",EN: A Very British Sex Shop 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212674.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Confessions Of A Serial Killer " tvg-logo="https://image.tmdb.org/t/p/original/dNzike583b8WCULeAgVF8u0JGqg.jpg" group-title="VOD English",EN: Confessions Of A Serial Killer 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212673.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Darcey Bussell Dancing To Happiness " tvg-logo="" group-title="VOD English",EN: Darcey Bussell Dancing To Happiness 
@@ -635,8 +633,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212377.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212376.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: No Solicitors " tvg-logo="https://image.tmdb.org/t/p/original/hrTO1z4yejs4SrC9zgBJE8OWso0.jpg" group-title="VOD English",EN: No Solicitors 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212375.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EN: Paranormal Sex Tape " tvg-logo="https://image.tmdb.org/t/p/original" group-title="VOD English",EN: Paranormal Sex Tape 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212374.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Pathways Seans Lament " tvg-logo="https://image.tmdb.org/t/p/original/iqkHvxnigLxP2kUpi62JeDlXjwg.jpg" group-title="VOD English",EN: Pathways Seans Lament 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212373.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Prairie Dog " tvg-logo="https://image.tmdb.org/t/p/original/hOo1T7ZTv5KM0icv6BBbxBl7V2R.jpg" group-title="VOD English",EN: Prairie Dog 
@@ -701,8 +697,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212344.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212343.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Mexicans " tvg-logo="https://image.tmdb.org/t/p/original/5MGuhPsLlm3GBhQx1JlFAGS6LO2.jpg" group-title="VOD English",EN: Mexicans 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EN: 3D Sex And Zen Extreme Ecstasy " tvg-logo="https://image.tmdb.org/t/p/original/mmvFokJgpFmNt522Hfpq3Zfs2Ra.jpg" group-title="VOD English",EN: 3D Sex And Zen Extreme Ecstasy 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212341.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EN: 9 1 2 Weeks " tvg-logo="https://image.tmdb.org/t/p/original/lbQjiB1KTCX1Tmrby7CV7tP5Yq5.jpg" group-title="VOD English",EN: 9 1 2 Weeks 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212340.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EN: 9 Songs " tvg-logo="https://image.tmdb.org/t/p/original/91O7z0vo7MiNWd5xD2BoivwbQsb.jpg" group-title="VOD English",EN: 9 Songs 
@@ -867,8 +861,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212261.mp4
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212260.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EN: Secretary " tvg-logo="https://image.tmdb.org/t/p/original/mdRXSE7ho185SZlXj0JSwuecEd3.jpg" group-title="VOD English",EN: Secretary 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EN: Sex And Lucia " tvg-logo="https://image.tmdb.org/t/p/original/gvErAg9bv7xOO3B40gottv6Bqip.jpg" group-title="VOD English",EN: Sex And Lucia 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212258.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EN: Shame " tvg-logo="https://image.tmdb.org/t/p/original/aywgzSw9LK4z3DxMPZsNbzWYqQ1.jpg" group-title="VOD English",EN: Shame 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212256.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EN: Shortbus " tvg-logo="https://image.tmdb.org/t/p/original/s8QBrWgpZpYrySSyTQ0xbFLPKrS.jpg" group-title="VOD English",EN: Shortbus 
@@ -2671,8 +2663,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/211358.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/211357.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Seven Lucky Gods " tvg-logo="https://image.tmdb.org/t/p/original/fknTuIkjZr2XdadAk3ExxmO1uIF.jpg" group-title="VOD English",EN: Seven Lucky Gods 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/211356.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EN: Sex Doll " tvg-logo="https://image.tmdb.org/t/p/original/grWS1nNexgCQacAIF6Um5PS5N5y.jpg" group-title="VOD English",EN: Sex Doll 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/211355.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Shadowman " tvg-logo="https://image.tmdb.org/t/p/original/m1o8LogVr0ltsXkOFRPDyzfZV0L.jpg" group-title="VOD English",EN: Shadowman 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/211354.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Sharknado 4 The 4th Awakens " tvg-logo="https://image.tmdb.org/t/p/original/xUbN2ww2T3y3kaW6lf3c5DabE5O.jpg" group-title="VOD English",EN: Sharknado 4 The 4th Awakens 
@@ -3075,8 +3065,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/211155.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/211154.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Erik Griffin The Ugly Truth " tvg-logo="https://image.tmdb.org/t/p/original/uShJdLdAf8rsWu4nHdi1tmpJ2eI.jpg" group-title="VOD English",EN: Erik Griffin The Ugly Truth 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/211153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EN: Essex Heist " tvg-logo="https://image.tmdb.org/t/p/original" group-title="VOD English",EN: Essex Heist 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/211152.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Everything Everything " tvg-logo="https://image.tmdb.org/t/p/original/c8W3Go48Mw0GoNXsGK4W9hNO4Vf.jpg" group-title="VOD English",EN: Everything Everything 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/211151.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Ex Libris The New York Public Library " tvg-logo="https://image.tmdb.org/t/p/original/5UAtolZFuOFYqUpHcDYamsVKWvb.jpg" group-title="VOD English",EN: Ex Libris The New York Public Library 
