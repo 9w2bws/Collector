@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="EN: Doctor Strange in the Multiverse of Madness " tvg-logo="https://static.c.realme.com/ID/wm-thread/1543633700515053568.jpg" group-title="VOD English",EN: Doctor Strange in the Multiverse of Madness
+http://103.156.66.58/m4t1/movies/english/2022/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%20(2022)%20(Hindi%20&%20English)%201080p%20WEBDL.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: Mortal Kombat " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Mortal_Kombat_%282021_film%29.png/220px-Mortal_Kombat_%282021_film%29.png" group-title="VOD English",EN: Mortal Kombat
 http://162.12.215.254/Data/Movies/Hollywood/2021/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN: The Suicide Squad 2021 " tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" group-title="VOD English",EN: The Suicide Squad 2021
@@ -867,8 +869,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212260.mp4
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212259.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EN: Sex And Lucia " tvg-logo="https://image.tmdb.org/t/p/original/gvErAg9bv7xOO3B40gottv6Bqip.jpg" group-title="VOD English",EN: Sex And Lucia 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EN: Sex, Lies, And Videotape " tvg-logo="https://image.tmdb.org/t/p/original/8nEWEFsRfwpyU0OP3Jv4Boxl5MY.jpg" group-title="VOD English",EN: Sex, Lies, And Videotape 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212257.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EN: Shame " tvg-logo="https://image.tmdb.org/t/p/original/aywgzSw9LK4z3DxMPZsNbzWYqQ1.jpg" group-title="VOD English",EN: Shame 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/212256.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EN: Shortbus " tvg-logo="https://image.tmdb.org/t/p/original/s8QBrWgpZpYrySSyTQ0xbFLPKrS.jpg" group-title="VOD English",EN: Shortbus 
