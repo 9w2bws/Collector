@@ -67,7 +67,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 #EXTINF:-1 tvg-id="axn" group-title="MYTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN Indonesia
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-chno="" tvg-country="us" tvg-language="english" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MYTV",axn movies HD
+#EXTINF:3 tvg-id="" ch-number="" tvg-chno="" tvg-country="us" tvg-language="english" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg?20200220211122" group-title="MYTV",axn movies HD
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1471
 
 #singapore
