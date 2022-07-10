@@ -203,13 +203,13 @@ https://on-load.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Discovery", LOVE NATURE 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Discovery",IN WILD
+#EXTINF:-1 tvg-id="IN WILD" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="Discovery",IN WILD
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Discovery",Wild Earth
+#EXTINF:-1 tvg-id="WildEarth" tvg-logo="" group-title="Discovery",Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Discovery",XPLORE
+#EXTINF:-1 tvg-logo="https://img.indiefolio.com/fit-in/1100x0/filters:format(webp):fill(transparent)/project/body/a090ac912f7f1baf7febecbcd5dc2ca2.jpg" group-title="Discovery",XPLORE
 https://xplore-roku.amagi.tv/playlist720-p.m3u8
 
 #EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Discovery",NASA TV 
@@ -358,7 +358,7 @@ http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnj
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Movies",STIRR Gravitas Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Discovery",STIRR Gusto TV
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://www.videoageinternational.net/wp-content/uploads/2022/02/Gusto-TV-SpiceSecrets.jpeg" group-title="Discovery",STIRR Gusto TV
 https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Movies",STIRR Horror Movies
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
