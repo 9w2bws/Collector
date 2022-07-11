@@ -224,3 +224,26 @@ http://ott3.gearhostpreview.com/astro/live.php?id=47
 http://ott3.gearhostpreview.com/astro/live.php?id=48
 #EXTINF:-1, group-title="VIP3",AWESOME TV
 http://ott3.gearhostpreview.com/astro/live.php?id=49
+
+#EXTINF:-1, group-title="VIP2",Astro Ria
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1, group-title="VIP2",Astro Prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1, group-title="VIP2",Astro Oasis
+http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1, group-title="VIP2",Astro Citra
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1, group-title="VIP2",BOO
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1, group-title="VIP2",Astro Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1, group-title="VIP2",Hello
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1, group-title="VIP2",Naura
+http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1, group-title="VIP2",Astro Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1, group-title="VIP2",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+#EXTINF:-1, group-title="VIP2",Astro Ceria
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
