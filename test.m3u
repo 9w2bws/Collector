@@ -402,5 +402,5 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 
-#EXTINF:-1,test awesome tv
+#EXTINF:-1 tvg-logo="" channel-id="" group-title="x",test awesome tv
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
