@@ -332,3 +332,32 @@ http://iptv.tvmalaysia.cc:80/100588/100588/8849
 http://iptv.tvmalaysia.cc:80/100588/100588/8850
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VIP",CNN Indonesia 
 http://iptv.tvmalaysia.cc:80/100588/100588/8851
+
+#EXTINF:-1,group-title="VIP3",PLAYLIST M3U LENGKAP DAN TERKINI
+https://www.youtube.com
+#EXTINF:-1,group-title="VIP3",Playlist Ini Bukan Untuk Dijual
+https://www.youtube.com
+#EXTINF:-1,group-title="VIP3",blogbestmalaysia.blogspot.com
+https://www.youtube.com
+#EXTINF:-1,group-title="VIP3",ASTRO RIA
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1,group-title="VIP3",ASTRO PRIMA
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1,group-title="VIP3",ASTRO OASIS
+http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1,group-title="VIP3",ASTRO WARNA
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1,group-title="VIP3",ASTRO CITRA
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1,group-title="VIP3",HELLO
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1,group-title="VIP3",NAURA
+http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1,group-title="VIP3",BOO
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1,group-title="VIP3",ASTRO AWANI
+http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1,group-title="VIP3",ASTRO CERIA
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1,group-title="VIP3",ASTRO ARENA
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
