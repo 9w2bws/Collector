@@ -1,134 +1,226 @@
 #EXTM3U
-#EXTINF:-1, TV1
+#EXTINF:-1, group-title="VIP3", TV1
 http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1, TV2
+#EXTINF:-1, group-title="VIP3", TV2
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1, TV3
+#EXTINF:-1, group-title="VIP3", TV3
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1, NTV7
+#EXTINF:-1, group-title="VIP3", NTV7
 http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
 
-#EXTINF:-1, 8TV
+#EXTINF:-1, group-title="VIP3", 8TV
 http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 
-#EXTINF:-1, TV9
+#EXTINF:-1, group-title="VIP3", TV9
 http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 
-#EXTINF:-1, Astro Arena
+#EXTINF:-1, group-title="VIP3", Astro Arena
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
-#EXTINF:-1, Astro Awani
+#EXTINF:-1, group-title="VIP3", Astro Awani
 http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
 
-#EXTINF:-1, Astro AEC
+#EXTINF:-1, group-title="VIP3", Astro AEC
 http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 
-#EXTINF:-1, Astro Warna
+#EXTINF:-1, group-title="VIP3", Astro Warna
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
-#EXTINF:-1, Astro Ria
+#EXTINF:-1, group-title="VIP3", Astro Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
-#EXTINF:-1, Astro Prima
+#EXTINF:-1, group-title="VIP3", Astro Prima
 http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1, Astro Oasis
+#EXTINF:-1, group-title="VIP3", Astro Oasis
 http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
 
-#EXTINF:-1, Astro Ceria http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1, group-title="VIP3", Astro Ceria 
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1, Astro Citra
+#EXTINF:-1, group-title="VIP3", Astro Citra
 http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
 
-#EXTINF:-1, BOO
+#EXTINF:-1, group-title="VIP3", BOO
 http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1, Hello
+#EXTINF:-1, group-title="VIP3", Hello
 http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
 
-#EXTINF:-1, Naura
+#EXTINF:-1, group-title="VIP3", Naura
 http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
 
-#EXTINF:-1, TVB Xing He
+#EXTINF:-1, group-title="VIP3", TVB Xing He
 http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
 
-#EXTINF:-1, Astro Quan Jia
+#EXTINF:-1, group-title="VIP3", Astro Quan Jia
 http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
 
-#EXTINF:-1, Astro AOD
+#EXTINF:-1, group-title="VIP3", Astro AOD
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 
-#EXTINF:-1, Astro Xiao Tai Yang
+#EXTINF:-1, group-title="VIP3", Astro Xiao Tai Yang
 http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
-#EXTINF:-1, Astro Hua Hee Dai
+#EXTINF:-1, group-title="VIP3", Astro Hua Hee Dai
 http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 
-#EXTINF:-1, Astro Shuang Xing
+#EXTINF:-1, group-title="VIP3", Astro Shuang Xing
 http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
 
-#EXTINF:-1, iQIYI
+#EXTINF:-1, group-title="VIP3", iQIYI
 http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 
-#EXTINF:-1, Fox Action Movies
+#EXTINF:-1, group-title="VIP3", Fox Action Movies
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
-#EXTINF:-1, Thrill
+#EXTINF:-1, group-title="VIP3", Thrill
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 
-#EXTINF:-1, AXN
+#EXTINF:-1, group-title="VIP3", AXN
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 
-#EXTINF:-1, TLC
+#EXTINF:-1, group-title="VIP3", TLC
 http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
 
-#EXTINF:-1, Fox Sports 1
+#EXTINF:-1, group-title="VIP3", Fox Sports 1
 http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 
-#EXTINF:-1, Fox Sports 2
+#EXTINF:-1, group-title="VIP3", Fox Sports 2
 http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 
-#EXTINF:-1, Fox Sports 3
+#EXTINF:-1, group-title="VIP3", Fox Sports 3
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
-#EXTINF:-1, Fox Movies
+#EXTINF:-1, group-title="VIP3", Fox Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
-#EXTINF:-1, Fox Life
+#EXTINF:-1, group-title="VIP3", Fox Life
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 
-#EXTINF:-1, Fox Family Movies
+#EXTINF:-1, group-title="VIP3", Fox Family Movies
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 
-#EXTINF:-1, Fox HD
+#EXTINF:-1, group-title="VIP3", Fox HD
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 
-#EXTINF:-1, Fox Crime
+#EXTINF:-1, group-title="VIP3", Fox Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 
-#EXTINF:-1, HBO
+#EXTINF:-1, group-title="VIP3", HBO
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1, HBO HiTS
+#EXTINF:-1, group-title="VIP3", HBO HiTS
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 
-#EXTINF:-1, HBO Signature
+#EXTINF:-1, group-title="VIP3", HBO Signature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
-#EXTINF:-1, HITS
+#EXTINF:-1, group-title="VIP3", HITS
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 
-#EXTINF:-1, HITS MOVIES
+#EXTINF:-1, group-title="VIP3", HITS MOVIES
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 
-#EXTINF:-1, Celestial Movie
+#EXTINF:-1, group-title="VIP3", Celestial Movie
 http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 
-#EXTINF:-1, CCM
+#EXTINF:-1, group-title="VIP3", CCM
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 
-#EXTINF:-1, ONE
+#EXTINF:-1, group-title="VIP3", ONE
 http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+
+#EXTINF:-1, group-title="VIP3",TV1
+http://ott3.gearhostpreview.com/astro/live.php?id=1
+#EXTINF:-1, group-title="VIP3",TV2
+http://ott3.gearhostpreview.com/astro/live.php?id=2
+#EXTINF:-1, group-title="VIP3",TV3
+http://ott3.gearhostpreview.com/astro/live.php?id=3
+#EXTINF:-1, group-title="VIP3",NTV7
+http://ott3.gearhostpreview.com/astro/live.php?id=4
+#EXTINF:-1, group-title="VIP3",TV8
+http://ott3.gearhostpreview.com/astro/live.php?id=5
+#EXTINF:-1, group-title="VIP3",TV9
+http://ott3.gearhostpreview.com/astro/live.php?id=6
+#EXTINF:-1, group-title="VIP3",astro ARENA
+http://ott3.gearhostpreview.com/astro/live.php?id=7
+#EXTINF:-1, group-title="VIP3",astro AWANI
+http://ott3.gearhostpreview.com/astro/live.php?id=12
+#EXTINF:-1, group-title="VIP3",astro AEC
+http://ott3.gearhostpreview.com/astro/live.php?id=13
+#EXTINF:-1, group-title="VIP3",astro WARNA
+http://ott3.gearhostpreview.com/astro/live.php?id=14
+#EXTINF:-1, group-title="VIP3",astro RIA
+http://ott3.gearhostpreview.com/astro/live.php?id=15
+#EXTINF:-1, group-title="VIP3",astro PRIMA
+http://ott3.gearhostpreview.com/astro/live.php?id=16
+#EXTINF:-1, group-title="VIP3",astro OASIS
+http://ott3.gearhostpreview.com/astro/live.php?id=17
+#EXTINF:-1, group-title="VIP3",astro CERIA
+http://ott3.gearhostpreview.com/astro/live.php?id=18
+#EXTINF:-1, group-title="VIP3",astro CITRA
+http://ott3.gearhostpreview.com/astro/live.php?id=19
+#EXTINF:-1, group-title="VIP3",astro BOO
+http://ott3.gearhostpreview.com/astro/live.php?id=20
+#EXTINF:-1, group-title="VIP3",astro HELLO
+http://ott3.gearhostpreview.com/astro/live.php?id=21
+#EXTINF:-1, group-title="VIP3",astro NAURA
+http://ott3.gearhostpreview.com/astro/live.php?id=22
+#EXTINF:-1, group-title="VIP3",TVB
+http://ott3.gearhostpreview.com/astro/live.php?id=23
+#EXTINF:-1, group-title="VIP3",astro WAH LAI TOI
+http://ott3.gearhostpreview.com/astro/live.php?id=24
+#EXTINF:-1, group-title="VIP3",astro AOD
+http://ott3.gearhostpreview.com/astro/live.php?id=25
+#EXTINF:-1, group-title="VIP3",astro HUA HEE DAI
+http://ott3.gearhostpreview.com/astro/live.php?id=26
+#EXTINF:-1, group-title="VIP3",astro SHUANG XING
+http://ott3.gearhostpreview.com/astro/live.php?id=27
+#EXTINF:-1, group-title="VIP3",astro QUAN JIA
+http://ott3.gearhostpreview.com/astro/live.php?id=28
+#EXTINF:-1, group-title="VIP3",IQIYI
+http://ott3.gearhostpreview.com/astro/live.php?id=29
+#EXTINF:-1, group-title="VIP3",FOX ACTION MOVIES
+http://ott3.gearhostpreview.com/astro/live.php?id=30
+#EXTINF:-1, group-title="VIP3",THRILL
+http://ott3.gearhostpreview.com/astro/live.php?id=31
+#EXTINF:-1, group-title="VIP3",AXN
+http://ott3.gearhostpreview.com/astro/live.php?id=32
+#EXTINF:-1, group-title="VIP3",TLC
+http://ott3.gearhostpreview.com/astro/live.php?id=33
+#EXTINF:-1, group-title="VIP3",FOX SPORTS 1
+http://ott3.gearhostpreview.com/astro/live.php?id=34
+#EXTINF:-1, group-title="VIP3",FOX SPORTS 3
+http://ott3.gearhostpreview.com/astro/live.php?id=35
+#EXTINF:-1, group-title="VIP3",FOX MOVIES
+http://ott3.gearhostpreview.com/astro/live.php?id=36
+#EXTINF:-1, group-title="VIP3",FOX life
+http://ott3.gearhostpreview.com/astro/live.php?id=37
+#EXTINF:-1, group-title="VIP3",FOX family MOVIES
+http://ott3.gearhostpreview.com/astro/live.php?id=38
+#EXTINF:-1, group-title="VIP3",FOX
+http://ott3.gearhostpreview.com/astro/live.php?id=39
+#EXTINF:-1, group-title="VIP3",FOX CRIME
+http://ott3.gearhostpreview.com/astro/live.php?id=40
+#EXTINF:-1, group-title="VIP3",HBO
+http://ott3.gearhostpreview.com/astro/live.php?id=41
+#EXTINF:-1, group-title="VIP3",HBO HiTS
+http://ott3.gearhostpreview.com/astro/live.php?id=42
+#EXTINF:-1, group-title="VIP3",HBO SIGNATURE
+http://ott3.gearhostpreview.com/astro/live.php?id=43
+#EXTINF:-1, group-title="VIP3",HITS
+http://ott3.gearhostpreview.com/astro/live.php?id=44
+#EXTINF:-1, group-title="VIP3",HITS MOVIES
+http://ott3.gearhostpreview.com/astro/live.php?id=45
+#EXTINF:-1, group-title="VIP3",CELESTIAL MOVIES
+http://ott3.gearhostpreview.com/astro/live.php?id=46
+#EXTINF:-1, group-title="VIP3",CCM
+http://ott3.gearhostpreview.com/astro/live.php?id=47
+#EXTINF:-1, group-title="VIP3",ONE
+http://ott3.gearhostpreview.com/astro/live.php?id=48
+#EXTINF:-1, group-title="VIP3",AWESOME TV
+http://ott3.gearhostpreview.com/astro/live.php?id=49
