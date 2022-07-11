@@ -35,12 +35,6 @@ https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 
-#EXTINF:-1 tvg-id="DidikTV KPM" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png",NTV7
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=didiktv|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 tvg-id="DidikTV KPM" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="MYSG",NTV7
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=didiktv|Referer=https://www.dailymotion.com
-
 #EXTINF:-1 tvg-id="107" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
@@ -393,24 +387,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png" tvg-chno="38" channel-id="38" tvg-group="MYSG" group-title="MYSG",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Klasik Nasional FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yhJJMEVCrU.jpg" tvg-chno="48" channel-id="48" radio="true" group-title="MYSG",Klasik Nasional FM
-https://radioklasik.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ERA FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" tvg-chno="49" channel-id="49" radio="true" group-title="MYSG",Era FM
-http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
-
-#EXTINF:-1 tvg-id="" tvg-name="HITZ FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" tvg-chno="50" channel-id="50" radio="true" group-title="MYSG",Hitz FM
-http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
-
-#EXTINF:-1 tvg-id="" tvg-name="HOT FM" tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png" tvg-chno="51" channel-id="51" radio="true" group-title="MYSG",Hot FM
-http://mediaprima.rastream.com/mediaprima-hotfm.android
-
-#EXTINF:-1 tvg-id="" tvg-name="THR GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-chno="46" channel-id="46" radio="true" group-title="MYSG",THR GEGAR
-http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
-
-#EXTINF:-1 tvg-id="" tvg-name="SINAR FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" tvg-chno="47" channel-id="47" radio="true" group-title="MYSG",Sinar FM
-http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
 
 
 
