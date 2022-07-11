@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Androidrepublica" tvg-name="Androidrepublica" tvg-logo="https://raw.githubusercontent.com/androidrepublica/icons/master/ARMC-logo.png" tvg-chno="0" channel-id="0" group-title="MYSG",Androidrepublica
+https://bit.ly/seOnlyla
 
 #EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -470,6 +472,4 @@ http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
 http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
 
 
-#EXTINF:-1 tvg-id="Androidrepublica" tvg-name="Androidrepublica" tvg-logo="https://raw.githubusercontent.com/androidrepublica/icons/master/ARMC-logo.png" tvg-chno="0" channel-id="0" group-title="MYSG",Androidrepublica
-https://bit.ly/seOnlyla
 
