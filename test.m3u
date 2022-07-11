@@ -138,9 +138,22 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 tvg-id="SUKAN RTM" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",RTM Sports HD
 https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8|Referer=https://myklik.rtm.gov.my
-#EXTINF:-1 tvg-id="SUKAN RTM" tvg-name="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="MYSG",RTM Sports HD
+#EXTINF:-1 tvg-id="SUKAN RTM" tvg-name="RTM Sports HD" tvg-logo="https://mediahomes.github.io/logos/sukan.png" tvg-chno="42" channel-id="42" group-title="MYSG",RTM Sports HD
 https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 tvg-id="111" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",RTM Sports HD
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
+
+#EXTINF:-1 tvg-id="TVi.my" tvg-name="TVIKIM" tvg-logo="https://static.epg.best/my/TVi.my.png" tvg-chno="11" channel-id="11" group-title="MYSG",TVIKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?fbclid=IwAR0gHbmTms16QysOYsKELXivRa47GYg-q4SDT8_hCWKO3kisY36mLxBSmL4
+
+
+
+
+#ASTRO#
+#EXTINF:-1 tvg-id="Go Shop 111" group-title="Malaysia" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",Astro Go Shop 
+https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
@@ -150,12 +163,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
 #EXTINF:-1 tvg-id="BOO HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title="Malaysia",BOO
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
-
-
-#ASTRO#
-#EXTINF:-1 tvg-id="Go Shop 111" group-title="Malaysia" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",Astro Go Shop 
-https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b48c95c2e844ea2b59e27fb42fe4b510&key=1168d5b1fcb20ad3973b101f2775c9a9
@@ -272,9 +279,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
 
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1b0fbb95b8d4ab19d3ea816be9683310&key=560e1ef299aa9a4352e70ed14f8839b9
 #EXTINF:-1 tvg-id="412" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" tvg-name="CINEMAX" group-title="ASTRO",CINEMAX
@@ -286,8 +290,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=566e67da543c043f0fe2a5f371412910&key=0b997dec90bda7dd6f8f16d3fc914b6c
+#EXTINF:-1 tvg-id="Al Jazeera English HD" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
+#EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="Al Jazeera" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" tvg-group="News" group-title="MYSG",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MALAYSIA",TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 
 
@@ -321,10 +331,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=566e67da543c043f0fe2a5f371412910&key=0b997dec90bda7dd6f8f16d3fc914b6c
-#EXTINF:-1 tvg-id="Al Jazeera English HD" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="Arirang TV" group-title="International" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -334,42 +341,6 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 
 #EXTINF:-1 tvg-id=" " group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -398,33 +369,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MALAYSIA",TV Alhijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="111" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-
 #EXTINF:-1 tvg-id="Androidrepublica" tvg-name="Androidrepublica" tvg-logo="https://raw.githubusercontent.com/androidrepublica/icons/master/ARMC-logo.png" tvg-chno="0" channel-id="0" group-title="MYSG",Androidrepublica
 https://bit.ly/seOnlyla
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="TVi.my" tvg-name="TVIKIM" tvg-logo="https://static.epg.best/my/TVi.my.png" tvg-chno="11" channel-id="11" group-title="MYSG",TVIKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?fbclid=IwAR0gHbmTms16QysOYsKELXivRa47GYg-q4SDT8_hCWKO3kisY36mLxBSmL4
 
 
 
@@ -456,8 +404,10 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 #EXTINF:-1 tvg-id="CNA HD" tvg-name="Channel NewsAsia" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" tvg-chno="28" channel-id="28" tvg-group="MY/SG" group-title="MYSG",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="Al Jazeera" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" tvg-chno="29" channel-id="29" tvg-group="News" group-title="MYSG",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1939316637b563ca2b97bbcf1fb50510&key=02703583fed9403ab38be7f75987fc3d
 #EXTINF:-1 tvg-id="Bloomberg TV HD" tvg-name="Bloomberg" tvg-logo="https://static.epg.best/gr/Bloomberg.gr.png" tvg-chno="32" channel-id="32" tvg-group="MYSG" group-title="MYSG",Bloomberg
