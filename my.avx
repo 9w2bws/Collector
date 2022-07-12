@@ -1207,7 +1207,7 @@ http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
 
 
 #EXTINF:-1 group-title="M" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
-https://www.youtube.com/watch?v=rCB9gnNU1Ts/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=rCB9gnNU1Ts/live
 #EXTINF:-1 group-title="M" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rCB9gnNU1Ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
