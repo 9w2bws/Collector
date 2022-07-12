@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml,https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/Indonesia/indovision.tv.channels.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml,https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/Indonesia/indovision.tv.channels.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 #MalaysiaTV
 #EXTINF:3 group-title="MYTV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
