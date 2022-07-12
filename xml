@@ -123,6 +123,665 @@ https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
 
 
 <tv date="20220712">
+<channel id="ABCAustraliaAsia.au">
+<display-name>ABC Australia</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/52_144.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="ANTV.id">
+<display-name>ANTV</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="AXNHDIndonesia.id">
+<display-name>AXN HD</display-name>
+<icon src="https://i.imgur.com/EwrGqtJ.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="AlJazeeraChannel.qa">
+<display-name>Al Jazeera</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/512px-Aljazeera.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="AlQuranAlKareemTV.sa">
+<display-name>Al Quran Al Kareem</display-name>
+<icon src="https://i.imgur.com/0aMNwQa.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="AniPlus.th">
+<display-name>AniPlus</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/ii/ipm_ani_plus.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="AnimaxAsia.sg">
+<display-name>Animax</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="ArirangTV.kr">
+<display-name>Arirang</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="AsianFoodNetwork.sg">
+<display-name>AFN HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/512px-Asian_Food_Network.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="BabyFirst.us">
+<display-name>Baby First</display-name>
+<icon src="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="BeritaSatu.id">
+<display-name>BeritaSatu</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="BioskopIndonesia.id">
+<display-name>Bioskop Indonesia</display-name>
+<icon src="https://i.imgur.com/tThW9R1.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="BloombergTVAsiaPacific.hk">
+<display-name>Bloomberg TV</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="BoomerangAsia.sg">
+<display-name>Boomerang HD</display-name>
+<icon src="https://i.imgur.com/Sp0zelF.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="CCTV4Asia.cn">
+<display-name>CCTV 4</display-name>
+<icon src="https://i.imgur.com/cfvjieR.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="CGTN.cn">
+<display-name>CGTN</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="CGTNDocumentary.cn">
+<display-name>CGTN Documentary</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="CNA.sg">
+<display-name>Channel NewsAsia</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="CNBCAsia.sg">
+<display-name>CNBC Asia</display-name>
+<icon src="https://i.imgur.com/Mn8Rsup.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="CNNIndonesia.id">
+<display-name>CNN Indonesia HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/512px-CNN_Indonesia.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="CNNInternationalAsiaPacific.hk">
+<display-name>CNN International HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="CartoonNetworkAsia.sg">
+<display-name>Cartoon Network HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="CelestialMoviesIndonesia.id">
+<display-name>Celestial Movies</display-name>
+<icon src="https://i.imgur.com/KYP1xXZ.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="CinemaWorld.my">
+<display-name>Cinema World HD</display-name>
+<icon src="https://i.imgur.com/gHCOcuF.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="CinemaxHDIndonesia.id">
+<display-name>CINEMAX HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="CrimePlusInvestigationAsia.us">
+<display-name>Crime & Investigation HD</display-name>
+<icon src="https://i.imgur.com/HHRrVkz.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="DAAITV.id">
+<display-name>DAAI TV</display-name>
+<icon src="https://i.imgur.com/YC7JCHo.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="DWEnglish.de">
+<display-name>DW</display-name>
+<icon src="https://i.imgur.com/A1xzjOI.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="DaVinciAsia.de">
+<display-name>Da Vinci</display-name>
+<icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch460_160_115"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="DuckTV.sk">
+<display-name>Duck TV</display-name>
+<icon src="https://i.imgur.com/Qw8x6Os.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="DuniaAnak.id">
+<display-name>Dunia Anak</display-name>
+<icon src="https://i.imgur.com/FIyM2j9.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="DuniaLain.id">
+<display-name>Dunia Lain</display-name>
+<icon src="https://i.imgur.com/XgIuU7M.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="EatNGo.id">
+<display-name>Eat N Go</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/ee/eat_and_go_id.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="EuronewsEnglish.fr">
+<display-name>Euronews</display-name>
+<icon src="https://i.imgur.com/8t9mdg9.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="FashionOneAsia.uk">
+<display-name>Fashion One HD</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/ff/fashion-one-asia-uk.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="FashionTVAsia.fr">
+<display-name>Fashion TV HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="FightSports.us">
+<display-name>Fight Sports HD</display-name>
+<icon src="https://i.imgur.com/nV55veq.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="France24English.fr">
+<display-name>France 24</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="GEM.sg">
+<display-name>GEM HD</display-name>
+<icon src="https://i.imgur.com/DjI6SS1.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="GTV.id">
+<display-name>GLOBAL TV</display-name>
+<icon src="https://i.imgur.com/jjuKnYs.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="HBOFamilyAsia.sg">
+<display-name>HBO Family HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="HBOHDIndonesia.id">
+<display-name>HBO HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="HBOHitsHDAsia.sg">
+<display-name>HBO Hits HD</display-name>
+<icon src="https://i.imgur.com/EOAGWnd.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="HBOSignatureAsia.sg">
+<display-name>HBO Signature HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="History2Asia.us">
+<display-name>HISTORY2 HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="HistoryAsia.us">
+<display-name>History HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="Indosiar.id">
+<display-name>Indosiar</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="JakTV.id">
+<display-name>JakTV</display-name>
+<icon src="https://i.imgur.com/3ggGYBa.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="Jendela.id">
+<display-name>Jendela</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/jj/jendela_id.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="KBSWorld.kr">
+<display-name>KBS World HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="Khazanah.id">
+<display-name>Khazanah</display-name>
+<icon src="https://i.imgur.com/4048IPR.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="Kix.hk">
+<display-name>KIX HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/512px-KIX_logo.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="KompasTV.id">
+<display-name>Kompas TV</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="LifetimeAsia.us">
+<display-name>Lifetime HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="LinguaChannel.id">
+<display-name>Lingua Channel HD</display-name>
+<icon src="https://i.imgur.com/bfi0SeA.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="MNCTV.id">
+<display-name>MNCTV</display-name>
+<icon src="https://i.imgur.com/SK8pjQy.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="MTVLive.uk">
+<display-name>MTV Live</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="MetroTV.id">
+<display-name>Metro TV</display-name>
+<icon src="https://i.imgur.com/QnU70NI.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="NHKWorldPremium.jp">
+<display-name>NHK World Premium</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_NHK_World_Premium.jpg/512px-Logo_NHK_World_Premium.jpg"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="NickJrAsia.sg">
+<display-name>Nick Jr.</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="NickelodeonAsia.sg">
+<display-name>Nickelodeon</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="OneTVAsia.sg">
+<display-name>ONE HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/512px-One_TV_Asia_logo_%282020%29.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="RCTI.id">
+<display-name>RCTI</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="RTNews.ru">
+<display-name>Russia Today</display-name>
+<icon src="https://i.imgur.com/tyXIHlj.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="RajawaliTV.id">
+<display-name>RTV</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="RockEntertainment.sg">
+<display-name>Rock Entertainment HD</display-name>
+<icon src="https://i.imgur.com/iINudF3.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="SCTV.id">
+<display-name>SCTV</display-name>
+<icon src="https://i.imgur.com/EMmOvnQ.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="TMusic.id">
+<display-name>T-Music</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/tt/t_musik_id.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="TV5MondeAsia.fr">
+<display-name>TV 5 Monde</display-name>
+<icon src="https://cms.dmpcdn.com/livetv/2022/01/18/ca2f0180-7814-11ec-8fd5-c549a9b471b9_webp_original.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="TVNAsia.hk">
+<display-name>tvN HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="TVRINasional.id">
+<display-name>TVRI</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="Thrill.hk">
+<display-name>Thrill</display-name>
+<icon src="https://i.imgur.com/isr5jto.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="Trans7.id">
+<display-name>Trans7 HD</display-name>
+<icon src="https://i.imgur.com/fAbGImS.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="TransTV.id">
+<display-name>TransTV HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="WarnerTVSoutheastAsia.us">
+<display-name>Warner TV HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="ZeeBioskop.id">
+<display-name>Zee Bioskop</display-name>
+<icon src="https://i.imgur.com/Xl7MJnd.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="nsert.id">
+<display-name>!nsert</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/ii/insert_id.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+<channel id="tvOne.id">
+<display-name>tvOne</display-name>
+<icon src="https://i.imgur.com/Al8T2MD.png"/>
+<url>https://transvision.co.id</url>
+</channel>
+
+<tv date="20220712">
+<channel id="AjwaTV.id">
+<display-name>Ajwa TV</display-name>
+<icon src="https://i.imgur.com/nMq5CyD.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="AlJazeeraEnglish.qa">
+<display-name>Aljazeera English</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="ArirangWorld.kr">
+<display-name>Arirang World</display-name>
+<icon src="https://i.imgur.com/5Aoithj.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="BeritaSatu.id">
+<display-name>Berita Satu</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="CNA.sg">
+<display-name>CNA</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="ChampionsTV1.id">
+<display-name>Champions TV 1</display-name>
+<icon src="https://i.imgur.com/EaRVaEX.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="ChampionsTV2.id">
+<display-name>Champions TV 2</display-name>
+<icon src="https://i.imgur.com/IgGVlgI.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="ChampionsTV3.id">
+<display-name>Champions TV 3</display-name>
+<icon src="https://i.imgur.com/1MBBBBN.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="ChampionsTV4.id">
+<display-name>Champions TV 4</display-name>
+<icon src="https://i.imgur.com/OBRb0Bb.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="ChampionsTVXtraHD.id">
+<display-name>Champions TV Xtra</display-name>
+<icon src="https://i.imgur.com/bBW1ve3.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="CitraBioskop.id">
+<display-name>Citra Bioskop</display-name>
+<icon src="https://i.imgur.com/Z1Qzof6.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="CitraCulinaryTravel.id">
+<display-name>Citra Culinary & Travel</display-name>
+<icon src="https://i.imgur.com/EuZmCOh.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="CitraDangdut.id">
+<display-name>Citra Dangdut</display-name>
+<icon src="https://i.imgur.com/stnqtvg.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="CitraDrama.id">
+<display-name>Citra Drama</display-name>
+<icon src="https://i.imgur.com/VWniFBs.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="CitraEntertainment.id">
+<display-name>Citra Entertainment</display-name>
+<icon src="https://i.imgur.com/Q1N6ka8.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="CitraMuslim.id">
+<display-name>Citra Muslim</display-name>
+<icon src="https://i.imgur.com/DPV5Evp.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="DAAITV.id">
+<display-name>Da Ai TV</display-name>
+<icon src="https://i.imgur.com/YC7JCHo.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="DWEnglish.de">
+<display-name>DW English</display-name>
+<icon src="https://i.imgur.com/A1xzjOI.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="DaVinciAsia.de">
+<display-name>Da Vinci Asia</display-name>
+<icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch460_160_115"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="EuronewsEnglish.fr">
+<display-name>EuroNews English</display-name>
+<icon src="https://i.imgur.com/8t9mdg9.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="FashionTVAsia.fr">
+<display-name>Fashion TV Asia</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="FashionTVLOriginal.fr">
+<display-name>Fashion TV L'Original</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="FashionTVMidnightSecrets.fr">
+<display-name>Fashion TV Midnite Secret</display-name>
+<icon src="https://i.imgur.com/GFTAN5Q.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="HipHipHoree.id">
+<display-name>Hip Hip Horee!</display-name>
+<icon src="https://i.imgur.com/eyqdwpr.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="Horee.id">
+<display-name>Horee!</display-name>
+<icon src="https://i.imgur.com/yPYttfo.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="Indosiar.id">
+<display-name>Indosiar</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="JakTV.id">
+<display-name>Jak TV</display-name>
+<icon src="https://i.imgur.com/3ggGYBa.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="KompasTV.id">
+<display-name>Kompas TV</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="LFCTV.uk">
+<display-name>Liverpool FC TV</display-name>
+<icon src="https://i.imgur.com/hWdxcRX.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="MentariTV.id">
+<display-name>Mentari TV</display-name>
+<icon src="https://i.imgur.com/Ka5OY8k.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="MetroTV.id">
+<display-name>Metro TV</display-name>
+<icon src="https://i.imgur.com/QnU70NI.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="MyTV.id">
+<display-name>My TV</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/mm/mytv-id.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="NBATV.us">
+<display-name>NBA TV</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="NET.id">
+<display-name>NET</display-name>
+<icon src="https://i.imgur.com/RPT8O12.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="NHKWorldJapan.jp">
+<display-name>NHK World Japan</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="NusantaraTV.id">
+<display-name>Nusantara</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_nusantaratv.png/512px-Logo_nusantaratv.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="OChannel.id">
+<display-name>O Channel</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/512px-Ochannel.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="PetTV.id">
+<display-name>Pet TV</display-name>
+<icon src="https://www.lyngsat-logo.com/logo/tv/pp/pet-tv-id.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="RajawaliTV.id">
+<display-name>RTV</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="Reformed21.id">
+<display-name>Reformed 21 TV</display-name>
+<icon src="https://reformed21.tv/images/logo.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="RockEntertainment.sg">
+<display-name>Rock Entertainment</display-name>
+<icon src="https://i.imgur.com/iINudF3.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="RockExtreme.sg">
+<display-name>Rock Extreme</display-name>
+<icon src="https://i.imgur.com/dgsgnAF.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="SCTV.id">
+<display-name>SCTV</display-name>
+<icon src="https://i.imgur.com/EMmOvnQ.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="TVEdukasi.id">
+<display-name>TV Edukasi</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/TV_Edukasi_Baru.png/512px-TV_Edukasi_Baru.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="TVRINasional.id">
+<display-name>TVRI Nasional</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="Trans7.id">
+<display-name>Trans 7</display-name>
+<icon src="https://i.imgur.com/fAbGImS.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="TransTV.id">
+<display-name>Trans TV</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="UChannel.id">
+<display-name>U Channel</display-name>
+<icon src="https://i.imgur.com/P3eqdb6.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="ZeeBioskop.id">
+<display-name>Zee Bioskop</display-name>
+<icon src="https://i.imgur.com/Xl7MJnd.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="ZingAsia.in">
+<display-name>Zing Asia</display-name>
+<icon src="https://i.imgur.com/Snn3JUh.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="ZooMooAsia.nz">
+<display-name>Zoo Moo Asia</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/zz/zoo_moo_global.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="beINSports1Indonesia.id">
+<display-name>BeIn Sports 1 Indonesia</display-name>
+<icon src="https://i.imgur.com/Vtk2cGI.png"/>
+<url>https://vidio.com</url>
+</channel>
+<channel id="beINSports3Indonesia.id">
+<display-name>BeIn Sports 3 Indonesia</display-name>
+<icon src="https://i.imgur.com/UYSMao3.png"/>
+<url>https://vidio.com</url>
+</channel>
+
+<tv date="20220712">
 <channel id="8TV.my">
 <display-name>8TV</display-name>
 <icon src="https://i.imgur.com/Jkx9W88.png"/>
