@@ -8,7 +8,7 @@ https://bit.ly/seOnlyla
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#KODIPROP:inputstream.adaptive.license_key=https://www.tvmalaysia.online/ea134b1c-0961-40b0-8a67-8e2ea17e4463
 #EXTINF:-1 tvg-logo="" channel-id="" group-title="x",test awesome tv
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
