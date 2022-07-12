@@ -1211,4 +1211,4 @@ http://iptv?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNk
 #EXTINF:-1 group-title="MYTV test" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
 http://iptv-streaming-ip=https:https://www.youtube.com/watch?v=rCB9gnNU1Ts/live
 #EXTINF:-1 group-title="MYTV test" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
-https://youtu.be/rCB9gnNU1Ts
+https://youtu.be/rCB9gnNU1Ts/live
