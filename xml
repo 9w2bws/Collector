@@ -1,216 +1,804 @@
 
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.28 -- Jan van Straaten" site="astro.com.my">
-  <channels>
-    <channel update="i" site="astro.com.my" site_id="95" xmltv_id="TV 1">TV 1</channel>
-    <channel update="i" site="astro.com.my" site_id="103" xmltv_id="TV 2">TV 2</channel>
-    <channel update="i" site="astro.com.my" site_id="106" xmltv_id="TV 3">TV 3</channel>
-    <channel update="i" site="astro.com.my" site_id="73" xmltv_id="Astro Ria">Astro Ria</channel>
-    <channel update="i" site="astro.com.my" site_id="3" xmltv_id="Astro Prima">Astro Prima</channel>
-    <channel update="i" site="astro.com.my" site_id="70" xmltv_id="Astro Oasis">Astro Oasis</channel>
-    <channel update="i" site="astro.com.my" site_id="93" xmltv_id="NTV7">NTV7</channel>
-    <channel update="i" site="astro.com.my" site_id="81" xmltv_id="Zee Variasi">Zee Variasi</channel>
-    <channel update="i" site="astro.com.my" site_id="42" xmltv_id="Arabic Radio &amp; TV Variety">Arabic Radio &amp; TV Variety</channel>
-    <channel update="i" site="astro.com.my" site_id="149" xmltv_id="Al-Hijrah">Al-Hijrah</channel>
-    <channel update="i" site="astro.com.my" site_id="192" xmltv_id="Astro Go Shop">Astro Go Shop</channel>
-    <channel update="i" site="astro.com.my" site_id="48" xmltv_id="TV 9">TV 9</channel>
-    <channel update="i" site="astro.com.my" site_id="193" xmltv_id="Astro Ria HD">Astro Ria HD</channel>
-    <channel update="i" site="astro.com.my" site_id="176" xmltv_id="Astro Box Office Movies Tayangan Hebat">Astro Box Office Movies Tayangan Hebat</channel>
-    <channel update="i" site="astro.com.my" site_id="60" xmltv_id="Astro Citra">Astro Citra</channel>
-    <channel update="i" site="astro.com.my" site_id="53" xmltv_id="Astro Warna">Astro Warna</channel>
-    <channel update="i" site="astro.com.my" site_id="77" xmltv_id="Astro Bella">Astro Bella</channel>
-    <channel update="i" site="astro.com.my" site_id="156" xmltv_id="Mustika HD">Mustika HD</channel>
-    <channel update="i" site="astro.com.my" site_id="165" xmltv_id="Maya HD">Maya HD</channel>
-    <channel update="i" site="astro.com.my" site_id="88" xmltv_id="Bintang">Bintang</channel>
-    <channel update="i" site="astro.com.my" site_id="89" xmltv_id="Pelangi">Pelangi</channel>
-    <channel update="i" site="astro.com.my" site_id="97" xmltv_id="TVi">TVi</channel>
-    <channel update="i" site="astro.com.my" site_id="5" xmltv_id="Astro Vaanavil">Astro Vaanavil</channel>
-    <channel update="i" site="astro.com.my" site_id="61" xmltv_id="Astro Vellithirai">Astro Vellithirai</channel>
-    <channel update="i" site="astro.com.my" site_id="47" xmltv_id="Makkal TV">Makkal TV</channel>
-    <channel update="i" site="astro.com.my" site_id="4" xmltv_id="Sun TV">Sun TV</channel>
-    <channel update="i" site="astro.com.my" site_id="82" xmltv_id="Sun Music">Sun Music</channel>
-    <channel update="i" site="astro.com.my" site_id="51" xmltv_id="Chutti TV">Chutti TV</channel>
-    <channel update="i" site="astro.com.my" site_id="67" xmltv_id="Adithya">Adithya</channel>
-    <channel update="i" site="astro.com.my" site_id="116" xmltv_id="Jaya TV">Jaya TV</channel>
-    <channel update="i" site="astro.com.my" site_id="33" xmltv_id="Raj TV">Raj TV</channel>
-    <channel update="i" site="astro.com.my" site_id="99" xmltv_id="Kalaignar TV">Kalaignar TV</channel>
-    <channel update="i" site="astro.com.my" site_id="159" xmltv_id="Star Vijay">Star Vijay</channel>
-    <channel update="i" site="astro.com.my" site_id="167" xmltv_id="Astro Vinmeen HD">Astro Vinmeen HD</channel>
-    <channel update="i" site="astro.com.my" site_id="177" xmltv_id="Astro Box Office Movie Thangathirai">Astro Box Office Movie Thangathirai</channel>
-    <channel update="i" site="astro.com.my" site_id="178" xmltv_id="Astro BollyOne HD">Astro BollyOne HD</channel>
-    <channel update="i" site="astro.com.my" site_id="188" xmltv_id="Astro Xi Yue HD">Astro Xi Yue HD</channel>
-    <channel update="i" site="astro.com.my" site_id="80" xmltv_id="Astro AEC">Astro AEC</channel>
-    <channel update="i" site="astro.com.my" site_id="104" xmltv_id="iView">iView</channel>
-    <channel update="i" site="astro.com.my" site_id="85" xmltv_id="Kah Lai Toi">Kah Lai Toi</channel>
-    <channel update="i" site="astro.com.my" site_id="98" xmltv_id="TVB Classic">TVB Classic</channel>
-    <channel update="i" site="astro.com.my" site_id="182" xmltv_id="Astro AEC HD">Astro AEC HD</channel>
-    <channel update="i" site="astro.com.my" site_id="183" xmltv_id="Astro Shuang Xing HD">Astro Shuang Xing HD</channel>
-    <channel update="i" site="astro.com.my" site_id="158" xmltv_id="Astro Quan Jia HD">Astro Quan Jia HD</channel>
-    <channel update="i" site="astro.com.my" site_id="134" xmltv_id="Celestial Movies HD">Celestial Movies HD</channel>
-    <channel update="i" site="astro.com.my" site_id="129" xmltv_id="Astro Wah Lai Toi HD">Astro Wah Lai Toi HD</channel>
-    <channel update="i" site="astro.com.my" site_id="2" xmltv_id="Astro Wah Lai Toi">Astro Wah Lai Toi</channel>
-    <channel update="i" site="astro.com.my" site_id="56" xmltv_id="Phoenix Chinese Channel">Phoenix Chinese Channel</channel>
-    <channel update="i" site="astro.com.my" site_id="57" xmltv_id="TVBE News">TVBE News</channel>
-    <channel update="i" site="astro.com.my" site_id="6" xmltv_id="TVB Xing He">TVB Xing He</channel>
-    <channel update="i" site="astro.com.my" site_id="200" xmltv_id="Star Chinese Channel">Star Chinese Channel</channel>
-    <channel update="i" site="astro.com.my" site_id="108" xmltv_id="CTI Asia">CTI Asia</channel>
-    <channel update="i" site="astro.com.my" site_id="35" xmltv_id="TVBS Asia">TVBS Asia</channel>
-    <channel update="i" site="astro.com.my" site_id="202" xmltv_id="Astro Go Shop">Astro Go Shop</channel>
-    <channel update="i" site="astro.com.my" site_id="187" xmltv_id="Celestial Classic Movies">Celestial Classic Movies</channel>
-    <channel update="i" site="astro.com.my" site_id="109" xmltv_id="Celestial Movies">Celestial Movies</channel>
-    <channel update="i" site="astro.com.my" site_id="43" xmltv_id="Phoenix Info News">Phoenix Info News</channel>
-    <channel update="i" site="astro.com.my" site_id="96" xmltv_id="Astro Shuang Xing">Astro Shuang Xing</channel>
-    <channel update="i" site="astro.com.my" site_id="49" xmltv_id="Astro Xiao Tai Yang">Astro Xiao Tai Yang</channel>
-    <channel update="i" site="astro.com.my" site_id="203" xmltv_id="TVB Jade">TVB Jade</channel>
-    <channel update="i" site="astro.com.my" site_id="205" xmltv_id="Asian Action Channel">Asian Action Channel</channel>
-    <channel update="i" site="astro.com.my" site_id="204" xmltv_id="Classic Movies">Classic Movies</channel>
-    <channel update="i" site="astro.com.my" site_id="162" xmltv_id="Astro Hua Hee Dai HD">Astro Hua Hee Dai HD</channel>
-    <channel update="i" site="astro.com.my" site_id="9" xmltv_id="Astro Hua Hee Dai">Astro Hua Hee Dai</channel>
-    <channel update="i" site="astro.com.my" site_id="90" xmltv_id="CCTV4">CCTV4</channel>
-    <channel update="i" site="astro.com.my" site_id="172" xmltv_id="Astro On Demand HD">Astro On Demand HD</channel>
-    <channel update="i" site="astro.com.my" site_id="113" xmltv_id="Astro On Demand 351">Astro On Demand 351</channel>
-    <channel update="i" site="astro.com.my" site_id="87" xmltv_id="Astro On Demand 352">Astro On Demand 352</channel>
-    <channel update="i" site="astro.com.my" site_id="114" xmltv_id="Astro On Demand 353">Astro On Demand 353</channel>
-    <channel update="i" site="astro.com.my" site_id="64" xmltv_id="Astro On Demand 361">Astro On Demand 361</channel>
-    <channel update="i" site="astro.com.my" site_id="65" xmltv_id="Astro On Demand 362">Astro On Demand 362</channel>
-    <channel update="i" site="astro.com.my" site_id="66" xmltv_id="Astro On Demand 363">Astro On Demand 363</channel>
-    <channel update="i" site="astro.com.my" site_id="46" xmltv_id="KBS World">KBS World</channel>
-    <channel update="i" site="astro.com.my" site_id="161" xmltv_id="KBS World HD">KBS World HD</channel>
-    <channel update="i" site="astro.com.my" site_id="133" xmltv_id="One HD">One HD</channel>
-    <channel update="i" site="astro.com.my" site_id="191" xmltv_id="Oh!K HD">Oh!K HD</channel>
-    <channel update="i" site="astro.com.my" site_id="190" xmltv_id="tvN">tvN</channel>
-    <channel update="i" site="astro.com.my" site_id="111" xmltv_id="NHK World">NHK World</channel>
-    <channel update="i" site="astro.com.my" site_id="1" xmltv_id="HBO">HBO</channel>
-    <channel update="i" site="astro.com.my" site_id="62" xmltv_id="MAX">MAX</channel>
-    <channel update="i" site="astro.com.my" site_id="11" xmltv_id="FOX Movies Premium">FOX Movies Premium</channel>
-    <channel update="i" site="astro.com.my" site_id="170" xmltv_id="FOX Family Movies HD">FOX Family Movies HD</channel>
-    <channel update="i" site="astro.com.my" site_id="143" xmltv_id="HBO HD">HBO HD</channel>
-    <channel update="i" site="astro.com.my" site_id="151" xmltv_id="FOX Movies Premium HD">FOX Movies Premium HD</channel>
-    <channel update="i" site="astro.com.my" site_id="184" xmltv_id="FOX Action Movies HD">FOX Action Movies HD</channel>
-    <channel update="i" site="astro.com.my" site_id="166" xmltv_id="A-List">A-List</channel>
-    <channel update="i" site="astro.com.my" site_id="171" xmltv_id="Astro Best SD 5">Astro Best SD 5</channel>
-    <channel update="i" site="astro.com.my" site_id="119" xmltv_id="Astro Best SD 1">Astro Best SD 1</channel>
-    <channel update="i" site="astro.com.my" site_id="175" xmltv_id="Astro Best SD 2">Astro Best SD 2</channel>
-    <channel update="i" site="astro.com.my" site_id="148" xmltv_id="Astro Best HD3">Astro Best HD3</channel>
-    <channel update="i" site="astro.com.my" site_id="146" xmltv_id="Astro Best SD4">Astro Best SD4</channel>
-    <channel update="i" site="astro.com.my" site_id="152" xmltv_id="Astro Best HD1">Astro Best HD1</channel>
-    <channel update="i" site="astro.com.my" site_id="173" xmltv_id="Astro Best SD 10">Astro Best SD 10</channel>
-    <channel update="i" site="astro.com.my" site_id="168" xmltv_id="Astro Best SD 7">Astro Best SD 7</channel>
-    <channel update="i" site="astro.com.my" site_id="169" xmltv_id="Astro Best SD 8">Astro Best SD 8</channel>
-    <channel update="i" site="astro.com.my" site_id="120" xmltv_id="Astro First SD 1">Astro First SD 1</channel>
-    <channel update="i" site="astro.com.my" site_id="121" xmltv_id="Astro First SD 2">Astro First SD 2</channel>
-    <channel update="i" site="astro.com.my" site_id="122" xmltv_id="Astro First SD 3">Astro First SD 3</channel>
-    <channel update="i" site="astro.com.my" site_id="123" xmltv_id="Astro First SD 4">Astro First SD 4</channel>
-    <channel update="i" site="astro.com.my" site_id="124" xmltv_id="Astro First SD 5">Astro First SD 5</channel>
-    <channel update="i" site="astro.com.my" site_id="125" xmltv_id="Astro First SD 7">Astro First SD 7</channel>
-    <channel update="i" site="astro.com.my" site_id="126" xmltv_id="Astro First SD 8">Astro First SD 8</channel>
-    <channel update="i" site="astro.com.my" site_id="147" xmltv_id="Astro First SD 9">Astro First SD 9</channel>
-    <channel update="i" site="astro.com.my" site_id="142" xmltv_id="Astro PPV Movies HD">Astro PPV Movies HD</channel>
-    <channel update="i" site="astro.com.my" site_id="174" xmltv_id="Astro PPV Movies HD">Astro PPV Movies HD</channel>
-    <channel update="i" site="astro.com.my" site_id="150" xmltv_id="Astro PPV Movies HD">Astro PPV Movies HD</channel>
-    <channel update="i" site="astro.com.my" site_id="84" xmltv_id="Astro Awani">Astro Awani</channel>
-    <channel update="i" site="astro.com.my" site_id="160" xmltv_id="Bernama TV">Bernama TV</channel>
-    <channel update="i" site="astro.com.my" site_id="44" xmltv_id="CCTV News">CCTV News</channel>
-    <channel update="i" site="astro.com.my" site_id="68" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="astro.com.my" site_id="39" xmltv_id="BBC World">BBC World</channel>
-    <channel update="i" site="astro.com.my" site_id="101" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
-    <channel update="i" site="astro.com.my" site_id="41" xmltv_id="CNBC Asia">CNBC Asia</channel>
-    <channel update="i" site="astro.com.my" site_id="78" xmltv_id="Bloomberg Television">Bloomberg Television</channel>
-    <channel update="i" site="astro.com.my" site_id="52" xmltv_id="Australia Plus TV">Australia Plus TV</channel>
-    <channel update="i" site="astro.com.my" site_id="155" xmltv_id="Sky News HD">Sky News HD</channel>
-    <channel update="i" site="astro.com.my" site_id="63" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
-    <channel update="i" site="astro.com.my" site_id="54" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="astro.com.my" site_id="12" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
-    <channel update="i" site="astro.com.my" site_id="37" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="astro.com.my" site_id="112" xmltv_id="History">History</channel>
-    <channel update="i" site="astro.com.my" site_id="40" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="astro.com.my" site_id="136" xmltv_id="Discovery HD World">Discovery HD World</channel>
-    <channel update="i" site="astro.com.my" site_id="140" xmltv_id="National Geographic HD">National Geographic HD</channel>
-    <channel update="i" site="astro.com.my" site_id="144" xmltv_id="History HD">History HD</channel>
-    <channel update="i" site="astro.com.my" site_id="59" xmltv_id="Astro Tutor TV UPSR">Astro Tutor TV UPSR</channel>
-    <channel update="i" site="astro.com.my" site_id="127" xmltv_id="Astro Tutor TV PT3">Astro Tutor TV PT3</channel>
-    <channel update="i" site="astro.com.my" site_id="128" xmltv_id="Astro Tutor TV SPM">Astro Tutor TV SPM</channel>
-    <channel update="i" site="astro.com.my" site_id="118" xmltv_id="Astro TVIQ">Astro TVIQ</channel>
-    <channel update="i" site="astro.com.my" site_id="55" xmltv_id="Astro Ceria">Astro Ceria</channel>
-    <channel update="i" site="astro.com.my" site_id="50" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="astro.com.my" site_id="45" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="astro.com.my" site_id="7" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="astro.com.my" site_id="13" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="astro.com.my" site_id="79" xmltv_id="Disney XD">Disney XD</channel>
-    <channel update="i" site="astro.com.my" site_id="94" xmltv_id="BabyTV">BabyTV</channel>
-    <channel update="i" site="astro.com.my" site_id="186" xmltv_id="ZooMoo">ZooMoo</channel>
-    <channel update="i" site="astro.com.my" site_id="139" xmltv_id="Disney XD HD">Disney XD HD</channel>
-    <channel update="i" site="astro.com.my" site_id="34" xmltv_id="AXN">AXN</channel>
-    <channel update="i" site="astro.com.my" site_id="76" xmltv_id="Diva">Diva</channel>
-    <channel update="i" site="astro.com.my" site_id="91" xmltv_id="Asian Food Channel">Asian Food Channel</channel>
-    <channel update="i" site="astro.com.my" site_id="110" xmltv_id="Astro Hitz">Astro Hitz</channel>
-    <channel update="i" site="astro.com.my" site_id="107" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="astro.com.my" site_id="115" xmltv_id="8TV">8TV</channel>
-    <channel update="i" site="astro.com.my" site_id="8" xmltv_id="Lifetime Channel">Lifetime Channel</channel>
-    <channel update="i" site="astro.com.my" site_id="75" xmltv_id="Star World">Star World</channel>
-    <channel update="i" site="astro.com.my" site_id="83" xmltv_id="E! Entertainment">E! Entertainment</channel>
-    <channel update="i" site="astro.com.my" site_id="36" xmltv_id="MTV Asia">MTV Asia</channel>
-    <channel update="i" site="astro.com.my" site_id="86" xmltv_id="Animax">Animax</channel>
-    <channel update="i" site="astro.com.my" site_id="179" xmltv_id="Astro Hitz HD">Astro Hitz HD</channel>
-    <channel update="i" site="astro.com.my" site_id="131" xmltv_id="AXN HD">AXN HD</channel>
-    <channel update="i" site="astro.com.my" site_id="137" xmltv_id="Star World HD">Star World HD</channel>
-    <channel update="i" site="astro.com.my" site_id="181" xmltv_id="Diva HD">Diva HD</channel>
-    <channel update="i" site="astro.com.my" site_id="180" xmltv_id="FOX HD">FOX HD</channel>
-    <channel update="i" site="astro.com.my" site_id="199" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
-    <channel update="i" site="astro.com.my" site_id="132" xmltv_id="FX HD">FX HD</channel>
-    <channel update="i" site="astro.com.my" site_id="153" xmltv_id="Food Network HD">Food Network HD</channel>
-    <channel update="i" site="astro.com.my" site_id="130" xmltv_id="Life Inspired HD">Life Inspired HD</channel>
-    <channel update="i" site="astro.com.my" site_id="157" xmltv_id="KIX HD">KIX HD</channel>
-    <channel update="i" site="astro.com.my" site_id="198" xmltv_id="HGTV">HGTV</channel>
-    <channel update="i" site="astro.com.my" site_id="105" xmltv_id="Crime and Investigation Network">Crime and Investigation Network</channel>
-    <channel update="i" site="astro.com.my" site_id="100" xmltv_id="Eve">Eve</channel>
-    <channel update="i" site="astro.com.my" site_id="102" xmltv_id="DMAX">DMAX</channel>
-    <channel update="i" site="astro.com.my" site_id="117" xmltv_id="ITV Choice">ITV Choice</channel>
-    <channel update="i" site="astro.com.my" site_id="185" xmltv_id="FYI">FYI</channel>
-    <channel update="i" site="astro.com.my" site_id="211" xmltv_id="Go Asean">Go Asean</channel>
-    <channel update="i" site="astro.com.my" site_id="92" xmltv_id="Astro Arena">Astro Arena</channel>
-    <channel update="i" site="astro.com.my" site_id="206" xmltv_id="Every Good Game">Every Good Game</channel>
-    <channel update="i" site="astro.com.my" site_id="71" xmltv_id="Astro SuperSport">Astro SuperSport</channel>
-    <channel update="i" site="astro.com.my" site_id="10" xmltv_id="Astro SuperSport 2">Astro SuperSport 2</channel>
-    <channel update="i" site="astro.com.my" site_id="74" xmltv_id="FOX Sports">FOX Sports</channel>
-    <channel update="i" site="astro.com.my" site_id="72" xmltv_id="FOX Sports 2">FOX Sports 2</channel>
-    <channel update="i" site="astro.com.my" site_id="38" xmltv_id="Eurosport">Eurosport</channel>
-    <channel update="i" site="astro.com.my" site_id="69" xmltv_id="Astro SuperSport 3">Astro SuperSport 3</channel>
-    <channel update="i" site="astro.com.my" site_id="163" xmltv_id="Astro SuperSport 4">Astro SuperSport 4</channel>
-    <channel update="i" site="astro.com.my" site_id="58" xmltv_id="FOX Sports 3">FOX Sports 3</channel>
-    <channel update="i" site="astro.com.my" site_id="196" xmltv_id="WWE Network">WWE Network</channel>
-    <channel update="i" site="astro.com.my" site_id="154" xmltv_id="Astro SuperSport HD">Astro SuperSport HD</channel>
-    <channel update="i" site="astro.com.my" site_id="141" xmltv_id="FOX Sports HD">FOX Sports HD</channel>
-    <channel update="i" site="astro.com.my" site_id="138" xmltv_id="Astro SuperSport 2 HD">Astro SuperSport 2 HD</channel>
-    <channel update="i" site="astro.com.my" site_id="164" xmltv_id="Astro SuperSport 3 HD">Astro SuperSport 3 HD</channel>
-    <channel update="i" site="astro.com.my" site_id="189" xmltv_id="Golf Channel HD">Golf Channel HD</channel>
-    <channel update="i" site="astro.com.my" site_id="197" xmltv_id="Astro Cricket HD">Astro Cricket HD</channel>
-    <channel update="i" site="astro.com.my" site_id="195" xmltv_id="Setanta Sports HD">Setanta Sports HD</channel>
-    <channel update="i" site="astro.com.my" site_id="194" xmltv_id="WWE Network HD">WWE Network HD</channel>
+#EXTM3U x-tvg-url="
+https://iptv-org.github.io/epg/guides/ad/andorradifusio.ad.epg.xml,
+https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml,
+https://iptv-org.github.io/epg/guides/af/arianaafgtv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/af/arianatelevision.com.epg.xml,
+https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,
+https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml,
+https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,
+https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/at/magentatv.at.epg.xml,
+https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,
+https://iptv-org.github.io/epg/guides/az/tv.mail.ru.epg.xml,
+https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml,
+https://iptv-org.github.io/epg/guides/be/telenettv.be.epg.xml,
+https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,
+https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml,
+https://iptv-org.github.io/epg/guides/bi/guide.dstv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml,
+https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,
+https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,
+https://iptv-org.github.io/epg/guides/by/tv.mail.ru.epg.xml,
+https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,
+https://iptv-org.github.io/epg/guides/cd/startimestv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,
+https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,
+https://iptv-org.github.io/epg/guides/cr/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,
+https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml,
+https://iptv-org.github.io/epg/guides/de/horizon.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,
+https://iptv-org.github.io/epg/guides/do/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ee-en/teliatv.ee.epg.xml,
+https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml,
+https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml,
+https://iptv-org.github.io/epg/guides/et/guide.dstv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/fi/telkussa.fi.epg.xml,
+https://iptv-org.github.io/epg/guides/fo/kvf.fo.epg.xml,
+https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml,
+https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,
+https://iptv-org.github.io/epg/guides/fr/programme-tv.net.epg.xml,
+https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml,
+https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml,
+https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,
+https://iptv-org.github.io/epg/guides/gt/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,
+https://iptv-org.github.io/epg/guides/hn/mi.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml,
+https://iptv-org.github.io/epg/guides/hu/mediaklikk.hu.epg.xml,
+https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,
+https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,
+https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ie/ontvtonight.com.epg.xml,
+https://iptv-org.github.io/epg/guides/il/9tv.co.il.epg.xml,
+https://iptv-org.github.io/epg/guides/il/kan.org.il.epg.xml,
+https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,
+https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,
+https://iptv-org.github.io/epg/guides/it/mediaset.it.epg.xml,
+https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,
+https://iptv-org.github.io/epg/guides/km/canalplus-reunion.com.epg.xml,
+https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,
+https://iptv-org.github.io/epg/guides/kz/tv.yandex.ru.epg.xml,
+https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,
+https://iptv-org.github.io/epg/guides/mt/melita.com.epg.xml,
+https://iptv-org.github.io/epg/guides/mw/guide.dstv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,
+https://iptv-org.github.io/epg/guides/mz/guide.dstv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ni/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,
+https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/no/allente.se.epg.xml,
+https://iptv-org.github.io/epg/guides/no/frikanalen.no.epg.xml,
+https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,
+https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,
+https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,
+https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml,
+https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,
+https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml,
+https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml,
+https://iptv-org.github.io/epg/guides/se/tv.nu.epg.xml,
+https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,
+https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,
+https://iptv-org.github.io/epg/guides/si/tv2go.t-2.net.epg.xml,
+https://iptv-org.github.io/epg/guides/sv/gatotv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/sv/mi.tv.epg.xml,
+https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,
+https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,
+https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,
+https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,
+https://iptv-org.github.io/epg/guides/tz/startimestv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,
+https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,
+https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,
+https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,
+https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml,
+https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,
+https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,
+https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml,
+https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,
+https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,
+https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
 
-    
-    <channel update="i" site="astro.com.my" site_id="17" xmltv_id="hitz.fm">hitz.fm</channel>
-    <channel update="i" site="astro.com.my" site_id="15" xmltv_id="MY FM">MY FM</channel>
-    <channel update="i" site="astro.com.my" site_id="19" xmltv_id="LITE FM">LITE FM</channel>
-    <channel update="i" site="astro.com.my" site_id="18" xmltv_id="MIX FM">MIX FM</channel>
-    <channel update="i" site="astro.com.my" site_id="14" xmltv_id="ERA">ERA</channel>
-    <channel update="i" site="astro.com.my" site_id="26" xmltv_id="Sinar FM">Sinar FM</channel>
-    <channel update="i" site="astro.com.my" site_id="28" xmltv_id="Melody FM">Melody FM</channel>
-    <channel update="i" site="astro.com.my" site_id="30" xmltv_id="THR Raaga">THR Raaga</channel>
-    <channel update="i" site="astro.com.my" site_id="20" xmltv_id="Classic Rock">Classic Rock</channel>
-    <channel update="i" site="astro.com.my" site_id="21" xmltv_id="Gold">Gold</channel>
-    <channel update="i" site="astro.com.my" site_id="16" xmltv_id="Opus">Opus</channel>
-    <channel update="i" site="astro.com.my" site_id="22" xmltv_id="THR Gegar">THR Gegar</channel>
-    <channel update="i" site="astro.com.my" site_id="23" xmltv_id="India Beat">India Beat</channel>
-    <channel update="i" site="astro.com.my" site_id="24" xmltv_id="Jazz">Jazz</channel>
-    <channel update="i" site="astro.com.my" site_id="27" xmltv_id="Osai FM">Osai FM</channel>
-    <channel update="i" site="astro.com.my" site_id="31" xmltv_id="Bayu FM">Bayu FM</channel>
-    <channel update="i" site="astro.com.my" site_id="32" xmltv_id="Radio Kenyalang">Radio Kenyalang</channel>
-    <channel update="i" site="astro.com.my" site_id="25" xmltv_id="NAS FM">NAS FM</channel>
-    <channel update="i" site="astro.com.my" site_id="29" xmltv_id="V FM">V FM</channel>
-    <channel update="i" site="astro.com.my" site_id="145" xmltv_id="Wai FM">Wai FM</channel>
-  </channels>
-</site>
+
+<tv date="20220712">
+<channel id="8TV.my">
+<display-name>8TV</display-name>
+<icon src="https://i.imgur.com/Jkx9W88.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="ABCAustraliaAsia.au">
+<display-name>ABC</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/52_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AXNMalaysia.my">
+<display-name>AXN</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AdithyaTV.in">
+<display-name>Adithya TV</display-name>
+<icon src="https://i.imgur.com/44asZjW.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AlJazeeraEnglish.qa">
+<display-name>Aljazeera</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AnimalPlanetMalaysia.my">
+<display-name>Animal Planet</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AsianFoodNetwork.sg">
+<display-name>Asian Food Network</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/512px-Asian_Food_Network.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroAEC.my">
+<display-name>Astro AEC</display-name>
+<icon src="https://i.imgur.com/HFAsuLQ.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroAOD311.my">
+<display-name>Astro AOD 311</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroAOD352.my">
+<display-name>Astro AOD 352</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroAOD353.my">
+<display-name>Astro AOD 353</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/114_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroAOD354.my">
+<display-name>Astro AOD 354</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroAOD355.my">
+<display-name>Astro AOD 355</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/66_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroArena.my">
+<display-name>Astro Arena</display-name>
+<icon src="https://i.imgur.com/IPK9f6h.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroArena2.my">
+<display-name>Astro Arena 2</display-name>
+<icon src="https://i.imgur.com/5b1X3TT.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroAura.my">
+<display-name>Astro Aura</display-name>
+<icon src="https://i.imgur.com/oBOZVFJ.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroAwani.my">
+<display-name>Astro Awani</display-name>
+<icon src="https://i.imgur.com/dLzgBUj.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroBollyOneHD.my">
+<display-name>Astro BollyOne HD</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroBoxOfficeTayanganHebat.my">
+<display-name>Astro Box Office Tayangan Hebat</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/176_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroBoxOfficeThangathirai.my">
+<display-name>Astro Box Office Thangathirai</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroCeria.my">
+<display-name>Astro Ceria</display-name>
+<icon src="https://i.imgur.com/wPfAA5K.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroCitra.my">
+<display-name>Astro Citra</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroCricket.my">
+<display-name>Astro Cricket</display-name>
+<icon src="https://i.imgur.com/VNvggtc.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroHuaHeeDai.my">
+<display-name>Astro Hua Hee Dai</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/c/ca/Astro_HHD_HD.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroOasis.my">
+<display-name>Astro Oasis</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroPrima.my">
+<display-name>Astro Prima</display-name>
+<icon src="https://i.imgur.com/JAoPGSe.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroQuanJiaHD.my">
+<display-name>Astro Quan Jia HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/46/Astro_Quan_Jia_HD.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroRania.my">
+<display-name>Astro Rania</display-name>
+<icon src="https://i.imgur.com/uPBY9fF.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroRia.my">
+<display-name>Astro Ria</display-name>
+<icon src="https://i.imgur.com/CqngRIb.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroShuangXing.my">
+<display-name>Astro Shuang Xing</display-name>
+<icon src="https://i.imgur.com/CRVICku.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroSuperSport.my">
+<display-name>Astro SuperSport</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroSuperSport2.my">
+<display-name>Astro SuperSport 2</display-name>
+<icon src="https://i.imgur.com/ZX3ycOV.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroSuperSport3.my">
+<display-name>Astro SuperSport 3</display-name>
+<icon src="https://i.imgur.com/aZlaotH.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroSuperSport4.my">
+<display-name>Astro SuperSport 4</display-name>
+<icon src="https://i.imgur.com/TBZ5Op7.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroSuperSport5.my">
+<display-name>Astro SuperSport 5</display-name>
+<icon src="https://i.imgur.com/ebpvrUx.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroTutorTVPT3.my">
+<display-name>Astro Tutor TV PT3</display-name>
+<icon src="https://i.imgur.com/PpF1g6K.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroTutorTVSPM.my">
+<display-name>Astro Tutor TV SPM</display-name>
+<icon src="https://i.imgur.com/zxc9NdA.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroTutorTVUPSR.my">
+<display-name>Astro Tutor TV UPSR</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/59_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroUHD.my">
+<display-name>Astro UHD</display-name>
+<icon src="https://i.imgur.com/pmYkltH.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroVaanavil.my">
+<display-name>Astro Vaanavil</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/d/d5/Astro_Vaanavil_2020.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroVellithirai.my">
+<display-name>Astro Vellithirai</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/2/22/Astro_Vellithirai_2022.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroVinmeenHD.my">
+<display-name>Astro Vinmeen HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/8/82/Astro_Vinmeen_HD.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroWahLaiToi.my">
+<display-name>Astro Wah Lai Toi</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/f/f7/AstroWahLaiToihdlogo.jpg"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroWarna.my">
+<display-name>Astro Warna</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AstroXiaoTaiYang.my">
+<display-name>Astro Xiao Tai Yang</display-name>
+<icon src="https://i.imgur.com/UYZgm7l.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="AwesomeTV.my">
+<display-name>Awesome TV</display-name>
+<icon src="https://i.imgur.com/x90U1Bf.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="BBCBritMalaysia.my">
+<display-name>BBC Brit</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/459_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="BBCEarthAsia.uk">
+<display-name>BBC Earth</display-name>
+<icon src="https://i.imgur.com/xXM60fa.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="BBCFirstMalaysia.my">
+<display-name>BBC First</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/458_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="BBCLifestyleAsia.uk">
+<display-name>BBC Lifestyle</display-name>
+<icon src="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="BBCWorldNewsAsiaPacific.uk">
+<display-name>BBC World News</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="BernamaTV.my">
+<display-name>Bernama TV</display-name>
+<icon src="https://i.imgur.com/wDBjea6.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="BloombergTVAsiaPacific.hk">
+<display-name>Bloomberg TV</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="Boo.my">
+<display-name>Boo</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="BoomerangSoutheastAsia.us">
+<display-name>Boomerang</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="CCTV4Asia.cn">
+<display-name>CCTV 4</display-name>
+<icon src="https://i.imgur.com/cfvjieR.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="CGTN.cn">
+<display-name>CGTN</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="CNA.sg">
+<display-name>CNA</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="CNBCAsia.sg">
+<display-name>CNBC Asia-Pacific</display-name>
+<icon src="https://i.imgur.com/Mn8Rsup.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="CNNInternationalAsiaPacific.hk">
+<display-name>CNN</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="CTiAsia.tw">
+<display-name>CTI TV</display-name>
+<icon src="https://i.imgur.com/2BjE9U1.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="CartoonNetworkAsia.sg">
+<display-name>Cartoon Network HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="CelestialClassicMovies.hk">
+<display-name>Celestial Classic Movies</display-name>
+<icon src="https://i.imgur.com/X7OZ3w5.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="CelestialMoviesMalaysia.my">
+<display-name>Celestial Movies</display-name>
+<icon src="https://i.imgur.com/KYP1xXZ.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="ChuttiTVMalaysia.my">
+<display-name>Chutti TV</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="CinemaxMalaysia.my">
+<display-name>Cinemax</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="Colors.in">
+<display-name>Colors</display-name>
+<icon src="https://i.imgur.com/M8uCJ0D.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="ColorsTamil.in">
+<display-name>Colors Tamil</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="ComedyCentralAsia.us">
+<display-name>Comedy Central</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="CrimePlusInvestigationAsia.us">
+<display-name>Crime + Investigation</display-name>
+<icon src="https://i.imgur.com/HHRrVkz.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="DMAXAsia.sg">
+<display-name>DMAX</display-name>
+<icon src="https://i.imgur.com/vmrTYBJ.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="DWEnglish.de">
+<display-name>DW English</display-name>
+<icon src="https://i.imgur.com/A1xzjOI.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="EurosportAsia.fr">
+<display-name>Eurosport</display-name>
+<icon src="https://i.imgur.com/s4jDnJh.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="FoodNetworkAsia.sg">
+<display-name>Food Network</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Foodnetworkasia.png/512px-Foodnetworkasia.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="France24English.fr">
+<display-name>France 24 English</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="GoShopChinese.my">
+<display-name>Go Shop Chinese</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/202_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="GoShopMalay111.my">
+<display-name>Go Shop Malay 111</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="GoShopMalay118.my">
+<display-name>Go Shop Malay 118</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="GoShopMalay120.my">
+<display-name>Go Shop Malay 120</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/gg/go_shop_my.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="GolfChannelMalaysia.my">
+<display-name>Golf Channel</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="HBOFamilyAsia.sg">
+<display-name>HBO Family</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="HBOHitsAsia.sg">
+<display-name>HBO Hits</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="HBOMalaysia.my">
+<display-name>HBO</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="HGTVAsia.us">
+<display-name>HGTV</display-name>
+<icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch529_160_115"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="HistoryAsia.us">
+<display-name>History</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="Hits.sg">
+<display-name>Hits</display-name>
+<icon src="https://i.imgur.com/YeqyD9W.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="HitsMovies.sg">
+<display-name>Hits Movies</display-name>
+<icon src="https://i.imgur.com/IZxRzc6.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="KBSWorld.kr">
+<display-name>KBS World</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="KPlus.sg">
+<display-name>K+</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="Kix.hk">
+<display-name>Kix</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/512px-KIX_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="LifetimeAsia.us">
+<display-name>Lifetime</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="MTVAsia.sg">
+<display-name>MTV</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="MakkalTV.in">
+<display-name>Makkal TV</display-name>
+<icon src="https://i.imgur.com/Sv4bLGX.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="MoonbugKids.uk">
+<display-name>Moonbug Kids</display-name>
+<icon src="https://i.imgur.com/nuzIBbN.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="NHKWorldPremium.jp">
+<display-name>NHK World Premium</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_NHK_World_Premium.jpg/512px-Logo_NHK_World_Premium.jpg"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="NTV7.my">
+<display-name>NTV 7</display-name>
+<icon src="https://i.imgur.com/jDWR3xI.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="NatGeoPeopleMalaysia.my">
+<display-name>Nat Geo People</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/512px-New_NatGeo_People_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="NationalGeographicMalaysia.my">
+<display-name>National Geographic</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="NationalGeographicWildMalaysia.my">
+<display-name>National Geographic Wild</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="NickJrAsia.sg">
+<display-name>Nick Jr</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="NickelodeonAsia.sg">
+<display-name>Nickelodeon</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="NjoiTV.my">
+<display-name>Njoi TV</display-name>
+<icon src="https://i.imgur.com/no8mTva.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="OhK.sg">
+<display-name>Oh! K</display-name>
+<icon src="https://i.imgur.com/T1wUlRi.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="OneTVAsia.sg">
+<display-name>One</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/512px-One_TV_Asia_logo_%282020%29.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="ParamountNetworkMalaysia.my">
+<display-name>Paramount Network</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="PhoenixChineseChannel.hk">
+<display-name>Phoenix Chinese Channel</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/512px-Phoenix_Chinese.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="PhoenixInfoNewsChannel.hk">
+<display-name>Phoenix InfoNews Channel</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/512px-Phoenix_InfoNews.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="PremierSportsAsia.ie">
+<display-name>Premier Sports</display-name>
+<icon src="https://i.imgur.com/hXDVObn.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="RTMTV1.my">
+<display-name>RTM TV 1</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="RTMTV2.my">
+<display-name>RTM TV2</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv2.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="RTMTVOkey.my">
+<display-name>RTM TV Okey</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="SPOTV.kr">
+<display-name>SPOTV</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="ShowcaseMovies.my">
+<display-name>Showcase Movies</display-name>
+<icon src="https://i.imgur.com/KAJZXTp.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="SkyNews.uk">
+<display-name>Sky News UK</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="StarVijay.in">
+<display-name>Star Vijay</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="SunMusic.in">
+<display-name>Sun Music</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/f/f8/Sun_music_2014.jpg"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="SunTVMalaysia.my">
+<display-name>Sun TV</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TADAA.my">
+<display-name>Ta-Daa!</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/e/e3/TA-DAA%21_HD.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TLCSoutheastAsia.us">
+<display-name>TLC</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TV3.my">
+<display-name>TV 3</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/512px-TV3_%28Malaysia%29.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TV9.my">
+<display-name>TV 9</display-name>
+<icon src="https://i.imgur.com/Krh1F8d.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TVAlhijrah.my">
+<display-name>TV Alhijrah</display-name>
+<icon src="https://i.imgur.com/O353js8.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TVBClassic.hk">
+<display-name>TVB Classic</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TVBEntertainmentNews.hk">
+<display-name>TVB Entertainment News</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TVBJadeMalaysia.my">
+<display-name>TVB Jade</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TVBSAsia.tw">
+<display-name>TVBS Asia</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TVBSNews.tw">
+<display-name>TVBS News</display-name>
+<icon src="https://i.imgur.com/Hsop2If.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TVBXingHe.hk">
+<display-name>TVB Xing He</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/512px-TVB_Xing_He_logo_2017.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TVNMovies.hk">
+<display-name>TVN Movies</display-name>
+<icon src="https://i.imgur.com/oLzTyUX.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="TVS.my">
+<display-name>TVS</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/512px-TVS_Sarawak.jpg"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="WWENetwork.us">
+<display-name>WWE Network</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/512px-WWE_Network_logo.svg.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="WarnerTVSoutheastAsia.us">
+<display-name>Warner TV</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="ZeeTamil.in">
+<display-name>Zee Tamil</display-name>
+<icon src="https://i.imgur.com/KwTVqSe.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="eGGNetwork.my">
+<display-name>Egg Network</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png"/>
+<url>https://astro.com.my</url>
+</channel>
+<channel id="iQIYI.cn">
+<display-name>Iqiyi</display-name>
+<icon src="https://i.imgur.com/AmJVtTq.png"/>
+<url>https://astro.com.my</url>
+</channel>
+
 
 
 
