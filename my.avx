@@ -50,6 +50,8 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657614693/ei/Bd3MYvOsNoOl4-EPnaGSkAY/ip/175.145.125.199/id/rCB9gnNU1Ts.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/lT-KhlO8y7uG5YGBhc_Y9nlib-HpjxQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPTBNxthPcm2aAGCZnUwZjDvoek7Lu9X3KMTlMvcCym4AiEAqKJRuPE821RBLLYLr-rH0e3TehCUrC880elATkhmGQY%3D/file/index.m3u8
+
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=rCB9gnNU1Ts/live
 
 #EXTINF:3 tvg-ID="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="MYTV",Astro Awani
