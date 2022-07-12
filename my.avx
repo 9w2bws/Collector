@@ -334,7 +334,7 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #HBOSignature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:3 tvg-id="HBOSignature.id" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="HBO",HBO Signature
+#EXTINF:3 tvg-id="HBOSignatureAsia.sg" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="HBO",HBO Signature HD
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #CinemaWorld
