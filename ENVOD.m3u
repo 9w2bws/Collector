@@ -1,9 +1,6 @@
 #EXTINF:-1 tvg-name="Alita Battle Angel " tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_alita_battle_angel_20cs_da903cc8.jpeg" group-title="VOD English",Alita Battle Angel
 http://162.12.215.254/Data/Movies/Hollywood/2019/Alita%3A%20Battle%20Angel%20%282019%29/Alita%20Battle%20Angel%20%5B2019%5D%20%5B1080p%5D%20%5BCiTYCloud%5D.mp4
 
-#EXTINF:-1 tvg-name="Dune 2021 " tvg-logo="https://i.pinimg.com/564x/15/65/c2/1565c2ae2c0b778fa8a7712505bec608.jpg" group-title="VOD English",Dune 
-http://103.156.66.58/m4t1/movies/english/2021/Dune%20(2021)%20.mkv
-
 #EXTINF:-1 tvg-name="Deadpool 2016 " tvg-logo="https://static.wikia.nocookie.net/marveldatabase/images/0/00/Deadpool_%28film%29_poster_009.jpg" group-title="VOD English",Deadpool 2016
 http://162.12.215.254/Data/Movies/Hollywood/2016_2017/Deadpool%20%282016%29/Deadpool_%282016%29__1080p_BluRay_BDPlex.mkv
 
@@ -12,9 +9,6 @@ http://162.12.215.254/Data/Movies/Hollywood/2016_2017/Doctor%20Strange%20%282016
 
 #EXTINF:-1 tvg-name="Doctor Strange in the Multiverse of Madness " tvg-logo="https://static.c.realme.com/ID/wm-thread/1543633700515053568.jpg" group-title="VOD English",Doctor Strange in the Multiverse of Madness 
 https://www1776.ff-04.com/token=y2thQ-azW3B4RmQ-8u2jQw/1657629718/2001:e68::/202/0/c8/a9a31fcd5de88b8db99e5aada9fd4c80-1080p.mp4
-
-#EXTINF:-1 tvg-name="Eternals " tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVjYThmNDAtOTE1NC00YjQ2LTk4NWYtNTc4Yzc4OTRhYjllXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD English",Eternals
-http://103.156.66.58/m4t1/movies/english/2021/Eternals%20(2021).mp4
 
 #EXTINF:-1 tvg-name="Interstellar " tvg-logo="https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="VOD English",Interstellar
 http://162.12.215.254/Data/Movies/Hollywood/Old%20Movie/Interstellar%20%282014%29%20720p%20BluRay%20x264/Interstellar%20%282014%29%20720p%20BluRay%20x264.mkv
@@ -25,18 +19,8 @@ http://162.12.215.254/Data/Movies/Hollywood/2021/Mortal%20Kombat%20%282021%29%20
 #EXTINF:-1 tvg-name="Passengers " tvg-logo="https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/chameleon/title-movie/DP_3244378_PASSENGERS%20%282016%29_1400x2100_English%20%28US%29_2.jpg" group-title="VOD English",Passengers 
 http://167.114.174.132:9092/movies/batch223/Passengers.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 
-#EXTINF:-1 tvg-name="Top Gun Maverick 2022 " tvg-logo="https://st1.bollywoodlife.com/wp-content/uploads/2022/05/Top-Gun-Maverick-review.jpg" group-title="VOD English",Top Gun Maverick 
-http://103.156.66.58/m4t1/movies/english/2022/Top%20Gun%20Maverick%20(2022).mkv
-
-#EXTINF:-1 tvg-name="The Hitmans Bodyguard " tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/HitmansBodyguard.jpg" group-title="VOD English",The Hitmans Bodyguard (2017)
-http://dl6.heyserver.in/2018-2A/The.Hitman%27s.BodyGuard.2017.1080p.BluRay.6CH.x264.MkvCage.HeyDL.mkv
-
-#EXTINF:-1 tvg-name="The Hitmans Wifes Bodyguard (2021) " tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hitmanswifesbodyguard.jpg" group-title="VOD English",The Hitmans Wifes Bodyguard (2021)
-http://103.156.66.58/m4t1/movies/english/2021/The%20Hitmans%20Wifes%20Bodyguard%20(2021).mp4
-
 #EXTINF:-1 tvg-name="X-Men Apocalypse " tvg-logo="https://static.wikia.nocookie.net/villains/images/3/3b/249X-menApocalypse_En-Sabah-Nur_.jpg" group-title="VOD English",X-Men Apocalypse
 http://167.114.174.132:9092/movies/batch203/X-Men.Apocalypse.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
 
 #EXTINF:-1 tvg-name="Zack Snyders Justice League " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Zack_Snyder%27s_Justice_League.png/220px-Zack_Snyder%27s_Justice_League.png" group-title="VOD English",Zack Snyders Justice League 
 http://161.97.138.167/dl/Zack.Snyders.Justice.League.2021.REPACK.720p.HDRip.1200MB.x264-GalaxyRG%5BTGx%5D/Zack.Snyders.Justice.League.2021.REPACK.720p.HDRip.1200MB.x264-GalaxyRG.mkv
-
