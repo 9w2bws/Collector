@@ -442,40 +442,40 @@ https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:3 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="" group-title="Movies",Rakuten Top Free UK
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:3 group-title="HBO",+HBO3
+#EXTINF:3 tvg-logo="https://spokeo.pl/storage//epg/385.png" group-title="HBO",+HBO3 EURO
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2225
 
-#EXTINF:3 group-title="HBO",HBO+
+#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="HBO",HBO+ UERO
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2226
 
-#EXTINF:3 group-title="HBO",+HBO 2
+#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" group-title="HBO",+HBO 2 EURO
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2248
 
-#EXTINF:3 group-title="HBO",+HBO
+#EXTINF:3 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1634668102766-hbo-2.png" group-title="HBO",+HBO EURO
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2336
 
-#EXTINF:3 group-title="HBO",hbo (E)
+#EXTINF:3 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2019/07/hbo-max-logo.jpg" group-title="HBO",HBO EURO (E)
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3055
 
-#EXTINF:3 group-title="movies",bein movies 3 (drama uae)
+#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Bein_movies-1.png" group-title="movies",bein movies 3 (drama uae)
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3735
 
-#EXTINF:3 group-title="movies",osn movies hd box office 2
+#EXTINF:3 tvg-logo="" group-title="movies",osn movies hd box office 2
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3701
 
-#EXTINF:3 group-title="movies",osn movies hd box office 3
+#EXTINF:3 tvg-logo="" group-title="movies",osn movies hd box office 3
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3702
 
-#EXTINF:3 group-title="movies",PINK MOVIES
+#EXTINF:3 tvg-logo="" group-title="movies",PINK MOVIES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3349
 
-#EXTINF:3 group-title="movies",STAR MOVIES
+#EXTINF:3 tvg-logo="" group-title="movies",STAR MOVIES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2849
 
-#EXTINF:3 group-title="movies",FOX ACTION MOVIES
+#EXTINF:3 tvg-logo="" group-title="movies",FOX ACTION MOVIES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2831
 
-#EXTINF:3 group-title="movies",ENG MOVIES
+#EXTINF:3 tvg-logo="" group-title="movies",ENG MOVIES
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2291
 
 #EXTINF:3 group-title="movies",ENG MOVIES 1
