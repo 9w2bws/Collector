@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/Indonesia/indovision.tv.channels.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/Indonesia/indovision.tv.channels.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 #MalaysiaTV
 #EXTINF:3 group-title="MYTV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
@@ -153,22 +153,22 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #singapore
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
-#EXTINF:-1 tvg-id="Suria.sg" tvg-name="Suria.sg" tvg-logo="https://i.imgur.com/uZwCfcn.png" tvg-chno="26" channel-id="26" group-title="Singapore tv",Suria hd
+#EXTINF:-1 tvg-id="Suria.sg" tvg-name="Suria.sg" tvg-chno="26" channel-id="26" group-title="Singapore tv",Suria hd
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
-#EXTINF:3 tvg-ID="Ch5.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="Singapore tv",CHANNEL 5
+#EXTINF:3 tvg-ID="Channel5.sg" group-title="Singapore tv",Channel 5 HD
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG/nkMNDuNoZKk/1cG3xTZG5w=&
-#EXTINF:3 tvg-ID="Ch8.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="Singapore tv",CHANNEL 8
+#EXTINF:3 tvg-ID="Channel8.sg" group-title="Singapore tv",Channel 8 HD
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ/UWeTXAOfpju0oZkr0UtvrZ8k=&
-#EXTINF:3 tvg-ID="ChU.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="Singapore tv",CHANNEL U
+#EXTINF:3 tvg-ID="ChannelU.sg" group-title="Singapore tv",Channel U HD
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 #Mediacorp 8
