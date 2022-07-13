@@ -38,8 +38,7 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://gi
 #EXTINF:3 group-title="MYTV" ch-number="113" tvg-id="tv6" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:3 group-title="MYTV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
+
 
 #EXTINF:3 group-title="MYTV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
 https://weareblahs.github.io/yttestlabs/youtube.m3u
@@ -63,7 +62,10 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #ASTRO#
-#EXTINF:-1 tvg-id="202" ch-number="202" tvg-chno="202" group-title="ASTRO" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",Astro Go Shop 
+#EXTINF:3 group-title="MYTV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
+
+#EXTINF:-1 tvg-id="GoShopMalay120.my" ch-number="202" tvg-chno="202" group-title="ASTRO" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",Go Shop Malay 120
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
