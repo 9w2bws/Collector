@@ -1,0 +1,16 @@
+#EXTINF:14400 group-title="dailymotion",TV3 Direct
+#EXTVLCOPT:network-caching=1000
+https://stream-01.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXQBKA6v-Kdp9BulkfN7TolgJumoSSj8ehB0PdK6Df4nMolHd6KlapAFoxzH5fAePvg)/dm/3/x6qp375/d/live-4.m3u8
+
+#EXTINF:14400 group-title="dailymotion",TV3 Direct auto select
+#EXTVLCOPT:network-caching=1000
+https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaGGxudFhdx3ztQoot1UJBOE5_R1HdfZQlF9WGVar_y3C3Z-GScAZyhy4UEOS0USo4g&dmTs=303294&dmV1st=FB563C63E1CC5E12EDEAF01E06ABDCAA
+
+#EXTINF:14400 group-title="dailymotion",Drama sangat Direct auto select
+#EXTVLCOPT:network-caching=1000
+https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTJhUG9iKwvSCmvQ48lfwrZkkD-j7D4dhV49YQLwqK6RHorYRcK54vrgFGQhhydK5qQ&dmTs=513694&dmV1st=756D2F8765A28B1921F8C645DF66C3AA
+
+
+#EXTINF:14400 group-title="dailymotion",TV3 Direct auto select
+#EXTVLCOPT:network-caching=1000
+https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8
