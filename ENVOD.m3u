@@ -12,6 +12,9 @@ https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650X
 #EXTVLCOPT:network-caching=1000
 https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTJhUG9iKwvSCmvQ48lfwrZkkD-j7D4dhV49YQLwqK6RHorYRcK54vrgFGQhhydK5qQ&dmTs=513694&dmV1st=756D2F8765A28B1921F8C645DF66C3AA
 
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
+
 #EXTINF:3 group-title="youtube" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
@@ -22,24 +25,33 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/e625d11f0db6e2538459e.png",TVS CH122
+#EXTINF:-1 tvg-id="" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TV Ikim (360p)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TV Ikim (480p)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TV Ikim (1080p)
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
+
+#EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/e625d11f0db6e2538459e.png",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/fc9cace1727875203b211.png",Astro Vaanavil CH201
+#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/fc9cace1727875203b211.png",Astro Vaanavil
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
 
-#EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png",Al-Jazeera EN [1080p Backup]
+#EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png",Al-Jazeera EN
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png",CNA News CH515
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png",CNA News [Guna VPN]
+#EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png",CNA News
 http://210.210.155.35/uq2663/h/h29/01.m3u8
 
-#EXTINF:-1, group-title="ANIME" tvg-logo="https://telegra.ph/file/376b7cc3c698f1432e499.png",Aniplus Indo Sub [Guna VPN]
+#EXTINF:-1, group-title="ANIME" tvg-logo="https://telegra.ph/file/376b7cc3c698f1432e499.png",Aniplus Indo Sub
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1, group-title="Indonesia" tvg-logo="",Berita Satu [Backup]
+#EXTINF:-1, group-title="Indonesia" tvg-logo="",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="NTV7" group-title="Malaysia" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
@@ -51,12 +63,6 @@ https://mediahomes.github.io/assets/my/ch_8tv.m3u8|Referer=https://www.dailymoti
 #EXTINF:-1 tvg-id="TV9" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
 https://mediahomes.github.io/assets/my/ch_tv9.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
-https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 tvg-id="TVS" group-title="Malaysia" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-
 #EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
 
@@ -66,18 +72,7 @@ https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 #EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="ASTRO",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TV Ikim (360p)
-http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TV Ikim (480p)
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TV Ikim (1080p)
-http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-country="MY" tvg-language="" tvg-logo="" group-title="MALAYSIA",TVS (576p)
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-
+#hanif
 #EXTINF:-1 tvg-logo="https://dem.tools/sites/default/files/2021-10/YouTube%20Live%20logo-01.png" group-title="YouTube",chill Out Relaxing
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/user/redthekiller23/live
 
@@ -123,10 +118,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Ustaz
 #EXTINF:-1 tvg-logo="https://dem.tools/sites/default/files/2021-10/YouTube%20Live%20logo-01.png" group-title="YouTube",Berita TV9 Live
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/BuletinTV9/live
 
-
 #EXTINF:-1 tvg-logo="https://dem.tools/sites/default/files/2021-10/YouTube%20Live%20logo-01.png" group-title="YouTube",Buletin TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/buletinfm/live
-
 
 #EXTINF:-1 tvg-logo="https://dem.tools/sites/default/files/2021-10/YouTube%20Live%20logo-01.png" group-title="YouTube",Jakim TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/tvjakim/live
