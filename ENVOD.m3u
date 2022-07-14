@@ -36,6 +36,10 @@ https://stream-01.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXQBKA6v-Kdp9BulkfN
 https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaGGxudFhdx3ztQoot1UJBOE5_R1HdfZQlF9WGVar_y3C3Z-GScAZyhy4UEOS0USo4g&dmTs=303294&dmV1st=FB563C63E1CC5E12EDEAF01E06ABDCAA
 
 
+#EXTINF:14400 group-title="dailymotion",TV3 Direct auto select
+#EXTVLCOPT:network-caching=1000
+https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="FOOTBALL",Skynet 1
 https://ip2121.com/web/skynet1/playlist.m3u8
