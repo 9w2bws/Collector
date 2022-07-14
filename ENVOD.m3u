@@ -132,4 +132,4 @@ http://iptv-query?streaming-ip=https://www.youtube.com/c/SuriaTV/live
 
 
 #EXTINF:30 tvg-logo="https://dem.tools/sites/default/files/2021-10/YouTube%20Live%20logo-01.png" group-title="YouTube",Awesome tv
-http://iptv-query?streaming-ip=https://www.youtube.com/c/AwesomeTVmy/
+http://iptv-query?streaming-ip=https://www.youtube.com/c/AwesomeTVmy/videos
