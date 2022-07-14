@@ -12,10 +12,6 @@ https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650X
 #EXTVLCOPT:network-caching=1000
 https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTJhUG9iKwvSCmvQ48lfwrZkkD-j7D4dhV49YQLwqK6RHorYRcK54vrgFGQhhydK5qQ&dmTs=513694&dmV1st=756D2F8765A28B1921F8C645DF66C3AA
 
-#EXTINF:30,x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTJhUG9iKwvSCmvQ48lfwrZkkD-j7D4dhV49YQLwqK6RHorYRcK54vrgFGQhhydK5qQ&dmTs=513694&dmV1st=756D2F8765A28B1921F8C645DF66C3AA
-#EXTVLCOPT:network-caching=1000
-https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTJhUG9iKwvSCmvQ48lfwrZkkD-j7D4dhV49YQLwqK6RHorYRcK54vrgFGQhhydK5qQ&dmTs=513694&dmV1st=756D2F8765A28B1921F8C645DF66C3AA
-
 #EXTINF:3 group-title="youtube" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
