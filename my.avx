@@ -275,7 +275,7 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:3 group-title="Discovery" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png",National Geographic Asia
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:3 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Discovery", LOVE NATURE 4K
+#EXTINF:3 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Discovery",LOVE NATURE 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:3 tvg-id="IN WILD" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="Discovery",IN WILD
@@ -421,25 +421,22 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:3 tvg-id="RushbyAMC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",Rush by AMC
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:3 tvg-id="" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Movies",Star Cinema
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
-
-#EXTINF:3 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Movies",STIRR FilmRise Free Movies
+#EXTINF:3 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://image.roku.com/developer_channels/prod/1d1ecc44d0331a84feb84686c6222c2c57cb471109a68b0b5a54ef2289424ed1.png" group-title="Movies",STIRR FilmRise Free Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 
-#EXTINF:3 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Movies",STIRR Gravitas Movies
+#EXTINF:3 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://www.rokuguide.com/sites/default/files/logos/gravitas-free-movies-and-tv.png" group-title="Movies",STIRR Gravitas Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 
 #EXTINF:3 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://www.videoageinternational.net/wp-content/uploads/2022/02/Gusto-TV-SpiceSecrets.jpeg" group-title="Discovery",STIRR Gusto TV
 https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
 
-#EXTINF:3 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Movies",STIRR Horror Movies
+#EXTINF:3 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://live.staticflickr.com/888/42939652811_fdbcd42cde_w.jpg" group-title="Movies",STIRR Horror Movies
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 
 #EXTINF:3 tvg-id="STIRRMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ec3yTaI.png" group-title="Movies",STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
-#EXTINF:3 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Movies",Toonami Aftermath Movies 
+#EXTINF:3 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://i.pinimg.com/originals/8b/38/be/8b38be4fc2cf84a17bef8698e9cb3353.jpg" group-title="Movies",Toonami Aftermath Movies 
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
 #EXTINF:3 tvg-id="WatchItScream.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ylPU4Uf.jpg" group-title="Movies",Watch It Scream!
@@ -451,13 +448,13 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:3 tvg-id="XumoFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Sx10tvQ.png" group-title="Movies",Xumo Free Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
 
-#EXTINF:3 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="" group-title="Movies",Rakuten Action Movies UK
+#EXTINF:3 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="https://tv.mobistream.co.za/uploads/cache/slide_thumb_web/uploads/jpg/b8573b9b7f77808171d6bbbaaa95e341.jpg" group-title="Movies",Rakuten Action Movies UK
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:3 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="" group-title="Movies",Rakuten Comedy Movies UK
+#EXTINF:3 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="https://tv.mobistream.co.za/uploads/cache/slide_thumb_web/uploads/jpg/b8573b9b7f77808171d6bbbaaa95e341.jpg" group-title="Movies",Rakuten Comedy Movies UK
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:3 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="" group-title="Movies",Rakuten Top Free UK
+#EXTINF:3 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="https://tv.mobistream.co.za/uploads/cache/slide_thumb_web/uploads/jpg/41e5c00a49b963ae87c5a136ed67c5ff.jpg" group-title="Movies",Rakuten Top Free UK
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:3 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="" group-title="Arab",MBC Drama
@@ -961,41 +958,11 @@ https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:3 group-title="INTERNATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png",ABC Australia Asia
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:3 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-asie-fr.png",TV5Monde Asie
-https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:3 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_hk.png",Xing Kong TV
-https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:3 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui_tv_cn.png",Anhui TV
-https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:3 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hunan_cn_tv.png",Hunan TV
-https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:3 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png",Jiangsu TV
-https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:3 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
-https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
-
 #Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:3 tvg-id="My Cinema Europe" tvg-name="" group-title="MOVIES" tvg-logo="", My Cinema Europe
+#EXTINF:3 tvg-id="My Cinema Europe" tvg-name="" group-title="MOVIES" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png",My Cinema Europe
 http://playlist.urfan.web.id/uq2663/h/h18/index.m3u8
 
 
