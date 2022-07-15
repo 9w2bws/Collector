@@ -965,9 +965,6 @@ http://playlist.urfan.web.id/uq2663/h/h18/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Klasik Nasional FM" tvg-name="Klasik Nasional FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/yhJJMEVCrU.jpg" tvg-chno="48" channel-id="48" radio="true" group-title="RADIO",Klasik Nasional FM
-https://radioklasik.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
-
 #EXTINF:-1 tvg-id="era" tvg-name="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" tvg-chno="49" channel-id="49" radio="true" group-title="RADIO",Era FM
 http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
 
