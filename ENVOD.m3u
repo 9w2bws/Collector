@@ -5,25 +5,12 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png",Al-Jazeera EN
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png",CNA News CH515
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png",CNA News
-http://210.210.155.35/uq2663/h/h29/01.m3u8
-
 #EXTINF:-1, group-title="ANIME" tvg-logo="https://telegra.ph/file/376b7cc3c698f1432e499.png",Aniplus Indo Sub
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-chno="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
-https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 
-#EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="ASTRO",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
 
 test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-#EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="Astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra
-https://linears-playback.astro.com.my/vsg/41CgcMfSm3-YjFQavzBFqmEjHhyNizXJD6Ir1Ko3fkiCM=A_T0/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #EXTM3U
 #EXTINF:35 group-title="Rakuten",rakuten top movies
