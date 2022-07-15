@@ -38,8 +38,33 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="Malaysia: Astro On The Go" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra
 https://linears-playback.astro.com.my/vsg/41CgcMfSm3-YjFQavzBFqmEjHhyNizXJD6Ir1Ko3fkiCM=A_T0/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
+#EXTINF:3 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="https://tv.mobistream.co.za/uploads/cache/slide_thumb_web/uploads/jpg/b8573b9b7f77808171d6bbbaaa95e341.jpg" group-title="Rakuten",Rakuten Action Movies UK
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:14400 
+#EXTINF:3 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="https://tv.mobistream.co.za/uploads/cache/slide_thumb_web/uploads/jpg/b8573b9b7f77808171d6bbbaaa95e341.jpg" group-title="Rakuten",Rakuten Comedy Movies UK
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:3 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="https://tv.mobistream.co.za/uploads/cache/slide_thumb_web/uploads/jpg/41e5c00a49b963ae87c5a136ed67c5ff.jpg" group-title="Rakuten",Rakuten Top Free UK
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:35 group-title="Rakuten",rakuten top movies
 #EXTVLCOPT:network-caching=1000
-
-rakuten tv
+https://16464fe910f94d65ab9b9255101d7fc7.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_TopFree/4592becf-db90-4112-94a7-48656ce4b60d/2.m3u8
+#EXTINF:35 group-title="Rakuten",rakuten thrillers
+#EXTVLCOPT:network-caching=1000
+https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/0a89674d-aaee-48ef-915b-e2d9b2b9822b/2.m3u8
+#EXTINF:36 group-title="Rakuten",rakuten stories
+#EXTVLCOPT:network-caching=1000
+https://743eb67cfcf441d188f8eb7bf518289d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenSpotlight/65f0f007-43be-4353-ab37-b6030aa4d4af/2.m3u8
+#EXTINF:36 group-title="Rakuten",rakuten-british-films
+#EXTVLCOPT:network-caching=1000
+https://e1c61ff393ae4a4d93f1f12e3fdae43d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_Local/d78b9595-d219-4d2e-b949-005d5d8fec69/2.m3u8
+#EXTINF:36 group-title="Rakuten",rakuten-comedy-movies
+#EXTVLCOPT:network-caching=1000
+https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/7bb7cba4-0315-4b57-83ae-5d3eb7642f41/2.m3u8
+#EXTINF:35 group-title="Rakuten",rakuten-drama-movies
+#EXTVLCOPT:network-caching=1000
+https://db44ab650bce44a59112e74420f2af4e.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenTVShows/2128da15-ccb7-4fcc-857b-67de0eacc6e8/2.m3u8
+#EXTINF:35 group-title="Rakuten",rakuten-romance
+#EXTVLCOPT:network-caching=1000
+https://f5804858608b4fb7a9a831a7b2572a79.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenRomance/4c1817cc-86cb-4d34-a1d6-da8af7b112ad/2.m3u8
