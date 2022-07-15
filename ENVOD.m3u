@@ -57,32 +57,16 @@ https://brat-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Rakuten",EDGEsport (1080p)
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="ES" tvg-language="" tvg-logo="" group-title="Rakuten",EDGEsport (1080p) [Not 24/7]
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Rakuten",ESTV (1080p)
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="ES" tvg-language="" tvg-logo="" group-title="Rakuten",ESTV (1080p)
-https://estv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="" tvg-logo="" group-title="Rakuten",Euronews Deutsch (720p)
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-country="DK" tvg-language="" tvg-logo="" group-title="Rakuten",Euronews English (720p)
 https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="FI" tvg-language="" tvg-logo="" group-title="Rakuten",Euronews English (720p)
-https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IE" tvg-language="" tvg-logo="" group-title="Rakuten",Euronews English (720p)
-https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="NL" tvg-language="" tvg-logo="" group-title="Rakuten",Euronews English (720p)
-https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="NO" tvg-language="" tvg-logo="" group-title="Rakuten",Euronews English (720p)
-https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="SE" tvg-language="" tvg-logo="" group-title="Rakuten",Euronews English (720p) [Not 24/7]
 https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Rakuten",Euronews Français (720p)
-https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Rakuten",Euronews Italiano (720p)
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="PT" tvg-language="" tvg-logo="" group-title="Rakuten",Euronews Português (576p)
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-country="EUR" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (1080p)
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Movies",FilmStreams (720p)
@@ -95,51 +79,19 @@ https://lonestar-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/KMGUuAX.png" group-title="Sports",MavTV Select (720p)
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network (1080p)
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",Action Movies UK (720p)
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",Comedy Movies UK (720p)
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-country="FI" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",Family (Finland) (720p)
 https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Movies",Rakuten Spotlight France (720p)
-https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",Spotlight UK (720p)
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",Top Free UK (720p)
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="ThePetCollectiveSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="Family",The Pet Collective Europe (720p)
 https://the-pet-collective-international-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelxpEurope.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Travel",Travel XP (720p)
