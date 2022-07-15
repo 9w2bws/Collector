@@ -530,7 +530,7 @@ http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:3 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="Indonesian",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:3 tvg-id="ATVLI" tvg-country="ID" tvg-language="" tvg-logo="" group-title="Indonesian",ATVLI 
+#EXTINF:3 tvg-id="ATVLI" tvg-country="ID" tvg-language="" tvg-logo="https://atvli.or.id/wp-content/uploads/2018/11/LOGO-2018-new.png" group-title="Indonesian",ATVLI 
 https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8
 #EXTINF:3 tvg-id="AswajaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aswaja_tv_id.png" group-title="Indonesian",Aswaja TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x748iuo
@@ -579,7 +579,7 @@ https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:3 tvg-id="DAAITV.id" group-title="Indonesian",DAAI TV
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-#EXTINF:3 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="" group-title="Indonesian",Ficom Channel 
+#EXTINF:3 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Ficom_logo.png" group-title="Indonesian",Ficom Channel 
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -637,7 +637,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/pijartv
 #EXTINF:3 tvg-id="PONTV.id" tvg-country="ID-KB" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/xomQPVY.png" group-title="Indonesian",Pon TV 
 https://v3.siar.us/pontianaktelevisi/live/playlist.m3u8
-#EXTINF:3 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="" group-title="Indonesian",Prima TV 
+#EXTINF:3 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/prima-tv-3210.jpg" group-title="Indonesian",Prima TV 
 https://v2.siar.us/primatv/livestream/chunks.m3u8
 #EXTINF:3 tvg-id="PujaTVAceh.id" tvg-country="ID-AC" tvg-language="Indonesian" tvg-logo="https://www.pujatvaceh.com/wp-content/uploads/2020/09/272.png" group-title="Indonesian",Puja TV Aceh  
 https://v6.siar.us/pujatv/live/chunks.m3u8
@@ -669,9 +669,9 @@ https://v2.siar.us/saktitv/livestream/playlist.m3u8
 https://iptv.salaamtv.org/salaam/playlist.m3u8
 #EXTINF:3 tvg-id="SalingSapaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/ss/saling-sapa-tv-id.png" group-title="Indonesian",Saling Sapa TV 
 https://bravo.kugo.id/salingsapa/rtmp.stream/playlist.m3u8
-#EXTINF:3 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="" group-title="Indonesian",Sampit TV
+#EXTINF:3 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="https://yt3.ggpht.com/ab1_eK3d5GzjkZy8SGDsF9XIjw6qn6ujP_0HVTXoK21NibRama9rbW97A5x5HbNXZxkpgJUhyg=s900-c-k-c0x00ffffff-no-rj.png" group-title="Indonesian",Sampit TV
 https://alfa.kugo.id/sampittv/rtmp.stream/chunklist.m3u8
-#EXTINF:3 tvg-id="SangajiTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.sangajitv.co.id/logo.png" group-title="Indonesian",Sangaji TV  
+#EXTINF:3 tvg-id="SangajiTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://sangajitv.co.id/wp-content/uploads/2022/05/logo.png" group-title="Indonesian",Sangaji TV  
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:3 tvg-id="SemarangTV.id" tvg-country="ID-JT" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="Indonesian",Semarang TV 
 http://116.254.112.74/hls/cakralive.m3u8
@@ -691,7 +691,7 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:3 tvg-id="TegarTVLampung.id" tvg-country="ID-LA" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tegar_tv_id.png" group-title="Indonesian",Tegar TV Lampung  
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-#EXTINF:3 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="" group-title="Indonesian",The Indonesia Channel
+#EXTINF:3 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="https://www.theindonesiachannel.com/uploads/news/thb_LogoTICClean_1440X812.png" group-title="Indonesian",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 #EXTINF:3 tvg-id="TV9Nusantara.id" tvg-country="ID-JI" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="Indonesian",TV9 Nusantara 
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
@@ -715,7 +715,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_jtv_small1.png" group-title="Indonesian", JTV SURABAYA
+#EXTINF:-1 tvg-logo="https://img.favpng.com/15/14/5/surabaya-television-logo-jtv-kediri-jawa-pos-tv-png-favpng-GgNvCccdaD1hM6QgnSdfuz60J.jpg" group-title="Indonesian",JTV SURABAYA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
@@ -1026,53 +1026,4 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:3 tvg-id="Loupe4K.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png?raw=true" group-title="Relax",Loupe 4K (2160p)
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
-#EXTINF:3 tvg-id="BumblebeeTVLakeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xAkuMa4.png" group-title="Relax",Lake Live 
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 
-#EXTINF:3 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="Relax",Stingray Naturescape 
-https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-
-#EXTINF:3 tvg-id="ScreenDreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6hIfTMC.jpg" group-title="Relax",Screen Dreams 
-https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
-
-#EXTINF:3 tvg-id="RelaxingRain.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/USiqGyp.jpg" group-title="Relax",Relaxing Rain 
-https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
-
-#EXTINF:3 tvg-id="IslandEscape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZvF6Yin.png" group-title="Relax",Island Escape 
-https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
-
-#EXTINF:3 tvg-id="FishTank.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/L5JDAkh.png" group-title="Relax",Fish Tank 
-https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
-
-#EXTINF:3 tvg-id="FireplaceLounge.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1VZZCZU.jpg" group-title="Relax",Fireplace Lounge 
-https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
-
-#EXTINF:3 tvg-id="BumblebeeTVTropicsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="Relax",Tropics Live 
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-
-#EXTINF:3 tvg-id="BumblebeeTVWaterfallsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/i43l93j.png" group-title="Relax",Waterfalls Live 
-https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-
-#EXTINF:3 tvg-id="BumblebeeTVSunsetLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="Relax",Sunset Live  
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-
-#EXTINF:3 tvg-id="BumblebeeTVRiversLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ii2IDmA.png" group-title="Relax",Rivers Live  
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
-#EXTINF:3 tvg-id="BumblebeeTVMountainLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2Ipv14J.png" group-title="Relax",Mountain Live 
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-
-#EXTINF:3 tvg-id="BumblebeeTVForestLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J84tZzN.png" group-title="Relax",Forest Live 
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-
-#EXTINF:3 tvg-id="BumblebeeTVBeachesLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4rIbV7e.png" group-title="Relax",Beaches Live  
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-
-#EXTINF:3 tvg-id="BumblebeeTVAnimalsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YbD8uHc.png" group-title="Relax",Animals Live 
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-
-#EXTINF:3 tvg-id="BumblebeeTVAuroraLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1WIEWK7.png" group-title="Relax",Aurora Live 
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-
-#EXTINF:3 tvg-id="BetterLifeNatureChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="Relax",Better Life Nature Channel 
-https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
