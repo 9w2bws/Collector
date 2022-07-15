@@ -101,7 +101,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies Spain (720p)
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten Action Movies UK (720p)
+#EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",Action Movies UK (720p)
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMoviesAustria.at" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="Movies",Rakuten Comedy Movies Austria (720p)
 https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
@@ -113,9 +113,9 @@ https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="Movies",Rakuten Comedy Movies Spain (720p)
 https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten Comedy Movies UK (720p)
+#EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",Comedy Movies UK (720p)
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="FI" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten Family (Finland) (720p)
+#EXTINF:-1 tvg-id="" tvg-country="FI" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",Family (Finland) (720p)
 https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVSpotlightAustria.at" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="Movies",Rakuten Spotlight Austria (720p)
 https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
@@ -127,36 +127,32 @@ https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVSpotlightSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Movies",Rakuten Spotlight Spain (720p)
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten Spotlight UK (720p)
+#EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",Spotlight UK (720p)
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopFreeGermany.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/kA27xdB.png" group-title="Movies",Rakuten Top Free Germany (720p)
 https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopFreeItaly.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/kA27xdB.png" group-title="Movies",Rakuten Top Free Italy (720p)
 https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="ES" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten Top Free Spain (720p)
+#EXTINF:-1 tvg-id="" tvg-country="ES" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",Top Free Spain (720p)
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten Top Free UK (720p)
+#EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",Top Free UK (720p)
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten TV Films Action
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaFrance.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Movies",Rakuten TV Films Drames
 https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten TV Films Français
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",TV Films Français
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten TV Films Thriller
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten",TV Films Thriller
 https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaAustria.at" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="Movies",Rakuten TV Shows Austria (720p)
 https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaGermany.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="Movies",Rakuten TV Shows Germany (720p)
 https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaItaly.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Movies",Rakuten TV Shows Italy (720p)
-https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="ES" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten TV Shows Spain (720p)
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo=""  group-title="Rakuten"Rakuten TV Shows UK (720p)
-https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopFreeFrance.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/kA27xdB.png" group-title="Movies",Rakuten TV Top Films
-https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="ThePetCollectiveSpain.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="Family",The Pet Collective Europe (720p)
 https://the-pet-collective-international-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelxpEurope.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Travel",Travel XP (720p)
