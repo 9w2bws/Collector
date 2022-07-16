@@ -54,11 +54,6 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:3 tvg-id="AstroAwani.my" group-title="MYTV",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-#EXTINF:3 tvg-id="AstroPrima.my" tvg-name="Astro Prima" group-title="ASTRO",Astro Prima
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
-
 #EXTINF:3 group-title="GO Shop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
