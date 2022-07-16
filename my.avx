@@ -119,7 +119,7 @@ http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
 #EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
 https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 
-#v1
+#v2
 #ASTRO SPORTS#
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2604
