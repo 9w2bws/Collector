@@ -1,0 +1,18 @@
+#Radio
+#EXTINF:-1 tvg-id="era" tvg-name="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" tvg-chno="49" channel-id="49" radio="true" group-title="RADIO",Era FM
+http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
+
+#EXTINF:-1 tvg-id="hitz.fm" tvg-name="hitz.fm" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" tvg-chno="50" channel-id="50" radio="true" group-title="RADIO",Hitz FM
+http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
+
+#EXTINF:-1 tvg-id="hot fm" tvg-name="HOT FM" tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png" tvg-chno="51" channel-id="51" radio="true" group-title="RADIO",Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm.android
+
+#EXTINF:-1 tvg-id="THR Gegar" tvg-name="THR Gegar" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-chno="46" channel-id="46" radio="true" group-title="RADIO",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
+
+#EXTINF:-1 tvg-id="Sinar FM" tvg-name="SINAR FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" tvg-chno="47" channel-id="47" radio="true" group-title="RADIO",Sinar FM
+http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
+
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
+https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
