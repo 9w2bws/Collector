@@ -349,14 +349,14 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #EXTINF:3 tvg-id="CinemaWorld.my" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="HBO",CinemaWorld
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#Cinemax Asia.my-1
+#Cinemax Asia.my +1.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:3 tvg-id="CinemaxMalaysia.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="HBO",Cinemax
+#EXTINF:3 tvg-id="CinemaxMalaysia.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" tvg-shift="+1.5" group-title="HBO",Cinemax
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
-#CinemaxAsia.id.viet+1
-#EXTINF:3 tvg-id="CinemaxHDIndonesia.id" tvg-logo="https://i.imgur.com/AvCUtC4.png" group-title="HBO",Cinemax Asia 
+#CinemaxAsia.id.viet +1.5
+#EXTINF:3 tvg-id="CinemaxHDIndonesia.id" tvg-logo="https://i.imgur.com/AvCUtC4.png" tvg-shift="-1.5" group-title="HBO",Cinemax Asia 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
