@@ -75,9 +75,20 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="boo" group-title="ASTRO",BOO
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71 
+#EXTINF:0 tvg-id="AstroAura.my" group-title="ASTRO",Astro Aura
+http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8 
+#EXTINF:0 tvg-id="AstroRania.my" group-title="ASTRO",Astro Rania
+http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b48c95c2e844ea2b59e27fb42fe4b510&key=1168d5b1fcb20ad3973b101f2775c9a9
 #EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-chno="5" group-title="ASTRO" ,Astro Vaanavil
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
