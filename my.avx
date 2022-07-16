@@ -316,13 +316,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 #HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:3 tvg-id="HBOMalaysia.my" tvg-name="HBO" group-title="HBO",HBO
+#EXTINF:3 tvg-id="HBOMalaysia.my" tvg-name="HBO" tvg-shift="+1.5" group-title="HBO",HBO
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #HBOAsia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:3 tvg-id="HBOMalaysia.id" tvg-name="HBO HD" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO HD
+#EXTINF:3 tvg-id="HBOMalaysia.id" tvg-name="HBO HD" tvg-shift="-1.5" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO HD
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8?checkedby:iptvcat.com
 
 #HBOHits
