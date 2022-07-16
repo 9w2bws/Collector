@@ -21,7 +21,7 @@ https://db44ab650bce44a59112e74420f2af4e.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:network-caching=1000
 https://f5804858608b4fb7a9a831a7b2572a79.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenRomance/4c1817cc-86cb-4d34-a1d6-da8af7b112ad/2.m3u8
 
-#EXTINF:-1 tvg-id="Africanews.cg" tvg-country="CG" tvg-language="English;French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Africanews_logo.svg/512px-Africanews_logo.svg.png" group-title="Thailand",AfricaNews English
+#EXTINF:-1 tvg-id="Africanews.cg" tvg-country="CG" tvg-language="English;French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Africanews_logo.svg/512px-Africanews_logo.svg.png" group-title="Rakuten",AfricaNews English
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="BratTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="Rakuten",Brat TV
 https://brat-rakuten.amagi.tv/playlist.m3u8
@@ -33,7 +33,7 @@ https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="SE" tvg-language="" tvg-logo="https://tv.mobistream.co.za/uploads/cache/channel_thumb/uploads/jpg/c323165eddd540075024b0132742603d.jpg" group-title="Rakuten",Euronews English
 https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-country="EUR" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Thailand",Fashion TV
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-country="EUR" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Rakuten",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="Movies",FilmStreams
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -41,7 +41,7 @@ https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoneStar.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzMxMzM1NzJf/LoneStar_250x250.png" group-title="Classic",Lone Star
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/KMGUuAX.png" group-title="Thailand",MavTV Select
+#EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/KMGUuAX.png" group-title="Rakuten",MavTV Select
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimemovienetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
