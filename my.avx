@@ -77,12 +77,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71 
-#EXTINF:0 tvg-id="AstroAura.my" group-title="ASTRO",Astro Aura
+#EXTINF:0 tvg-id="AstroAura.my" tvg-name="Astro Aura" group-title="ASTRO",Astro Aura
 http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8 
-#EXTINF:0 tvg-id="AstroRania.my" group-title="ASTRO",Astro Rania
+#EXTINF:0 tvg-id="AstroRania.my" tvg-name="Astro Rania" group-title="ASTRO",Astro Rania
 http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -336,6 +336,8 @@ https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:3 tvg-id="HBOMalaysia.id" tvg-name="HBO HD" tvg-shift="-1.5" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO HD
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8?checkedby:iptvcat.com
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+
 
 #HBOHits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -391,6 +393,15 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #Movies
+#EXTINF:-1 tvg-logo="https://nobleace.com/wp-content/uploads/2019/11/Hallmark.jpg" group-title="Movies",Hallmark
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+
+#EXTINF:-1 tvg-logo="https://hallmark.brightspotcdn.com/dims4/default/21413b9/2147483647/strip/true/crop/544x239+0+0/resize/130x57!/quality/90/?url=http%3A%2F%2Fhallmark-channel-brightspot.s3.amazonaws.com%2F48%2Faa%2F6ba61f6740ffaa4bb66e101c666a%2Fhallmark-drama-logo-1.png" group-title="Movies",Hallmark Drama
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="Movies",Groovy TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
 #EXTINF:3 tvg-ID="SBM.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/3374ed8c-8b84-4703-8449-7142e3bd838e.png" group-title="Movies",SBS World Movies
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
 
