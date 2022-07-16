@@ -109,16 +109,16 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 Knowledge
 
 
-#EXTINF:-1 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Knowledge", NASA TV
+#EXTINF:-1 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Knowledge",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://axiommedia.co/wp-content/uploads/2020/12/inwild-use.png" group-title="Knowledge" ,Inwild TV
+#EXTINF:-1 tvg-logo="https://axiommedia.co/wp-content/uploads/2020/12/inwild-use.png" group-title="Knowledge",Inwild TV
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Knowledge" ,Love Nature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Knowledge",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="Knowledge" ,Smithsonian Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="Knowledge",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -152,7 +152,7 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png" group-title="Knowledge",Mythbusters
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd833b41843b56328bac189/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/Se1a8Mm.png", AutoMoto
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://i.imgur.com/Se1a8Mm.png",AutoMoto
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -315,7 +315,7 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:-1 group-title="Movies",THRILL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="Movies" ,MCE
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="Movies",MCE
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
 
@@ -386,23 +386,23 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441940
 http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/1088037
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png", group-title="⚽🇲🇾 Astro SuperSport" ,MY: Astro SuperSport -BACKUP-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",group-title="⚽🇲🇾 Astro SuperSport",MY: Astro SuperSport -BACKUP-
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146068
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png", group-title="⚽🇲🇾 Astro SuperSport" ,MY: Astro SuperSport 2 -BACKUP-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",group-title="⚽🇲🇾 Astro SuperSport",MY: Astro SuperSport 2 -BACKUP-
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157556
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png", group-title="⚽🇲🇾 Astro SuperSport" ,MY: Astro SuperSport 3 -BACKUP-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",group-title="⚽🇲🇾 Astro SuperSport",MY: Astro SuperSport 3 -BACKUP-
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157557
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", group-title="⚽🇲🇾 Astro SuperSport" ,MY: Astro SuperSport 4 -BACKUP-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",group-title="⚽🇲🇾 Astro SuperSport",MY: Astro SuperSport 4 -BACKUP-
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157558
 
 
 beIN Sports
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxqTRkLT/BEIN-SPORTS.png", group-title="beIN Sports" ,beIN Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxqTRkLT/BEIN-SPORTS.png",group-title="beIN Sports",beIN Sports
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/157561
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -440,7 +440,7 @@ SPOTV
 
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="SPOTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" ,SPOTV-HD
+#EXTINF:-1 group-title="SPOTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV-HD
 https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -448,11 +448,11 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://dtaarjaj1diy9.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPOTV", SPOTV-HD -BACKUP 2-
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPOTV",SPOTV-HD -BACKUP 2-
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="SPOTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" ,SPOTV-FHD -BACKUP 3-
+#EXTINF:-1 group-title="SPOTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV-FHD -BACKUP 3-
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPOTV",SPOTV-FHD -BACKUP 4-
@@ -462,7 +462,7 @@ http://pbmedia.xyz:8080/EmmaCece/yZQYc8Rt/441951
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPOTV", SPOTV 2-HD
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPOTV",SPOTV 2-HD
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
