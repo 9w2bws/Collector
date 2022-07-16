@@ -42,6 +42,7 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmkl
 https://weareblahs.github.io/yttestlabs/youtube.m3u
 
 #EXTINF:3 group-title="MYTV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
 #EXTINF:3 group-title="MYTV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
