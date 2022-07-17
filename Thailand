@@ -12,7 +12,7 @@
 #EXTM3U url-tvg="http://gg.gg/fptepg" tvg-shift=0 m3uautoload=9
 
 #========================================== k+ ==========================================#
-
+#from:https://github.com/Hannstcott/SunshineTr
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
