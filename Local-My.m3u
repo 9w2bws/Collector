@@ -64,7 +64,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
-#EXTINF:-1 tvg-id="" group-title="ASTRO"  tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png",RTB (Brunei) 
+#EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png",RTB (Brunei) 
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 #ASTRO#
@@ -104,13 +104,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" group-title="ASTRO",Astro Oasis
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" group-title="ASTRO"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD 
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" group-title="ASTRO",Astro Ria
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8 
 
-#EXTINF:-1 tvg-id="" group-title="ASTRO"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD 
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna" group-title="ASTRO",Astro Warna
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 
-#EXTINF:-1 tvg-id="" group-title="ASTRO"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD 
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" group-title="ASTRO",Astro Citra
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -120,10 +120,22 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b48c95c2e844ea2b59e27fb42fe4b510&key=1168d5b1fcb20ad3973b101f2775c9a9
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-chno="5" group-title="ASTRO" ,Astro Vaanavil
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-chno="5" group-title="MYTV",Astro Vaanavil
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b7f352ff63e533f3baa950d7e2497410&key=e11de6f5f84bbd2f150ffc82191880e8
+#EXTINF:3 tvg-id="AXNMalaysia.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="MYTV",AXN Malaysia
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:3 tvg-id="AXNHDIndonesia.id" group-title="MYTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg",AXN Indonesia
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #Radio
 #EXTINF:-1 tvg-id="era" tvg-name="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" tvg-chno="49" channel-id="49" radio="true" group-title="RADIO",Era FM
