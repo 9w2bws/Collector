@@ -94,3 +94,8 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 #Korean
 #EXTINF:3 tvg-id="PersianaKorea.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/voDf5jI.png" group-title="Korean",Persiana Korea 
 http://51.210.199.14/hls/stream.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/603 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="HBO",Cinemax 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
