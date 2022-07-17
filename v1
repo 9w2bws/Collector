@@ -1,0 +1,104 @@
+#EXTM3U
+#Radiofm
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/4/20434.v9.png",Sinar FM
+https://astro2.rastream.com/sinar?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/20438.v14.png",Era FM
+https://astro2.rastream.com/era?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+#EXTINF:1 group-title="Radio.my" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:1 group-title="Radio.my" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF:1 group-title="Radio.my" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:1 group-title="Radio.my" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/48015.v5.png",Radio Lagenda FM
+http://procyon.shoutca.st:8346/?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/1/20441.v5.png",Hitz FM
+https://astro1.rastream.com/hitz?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/1/20991.v9.png",Gegar FM
+https://astro3.rastream.com/gegar?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/6/21246.v5.png",Mix FM
+https://astro2.rastream.com/mix?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/5/48025.v6.png",Gegar Muzik FM
+http://167.114.131.90/proxy/gegarmuzikfm?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/8/21248.v10.png",Lite FM
+http://astro1.rastream.com/lite-airasia?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/4/21254.v25.png",Manis FM
+https://stream.rcs.revma.com/nzgauqq1v7zuv?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/9/65239.v18.png",MyFriends Station FM
+https://eu1.fastcast4u.com/proxy/myfriends?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/3/20993.v8.png",Terengganu FM
+https://terengganufmmobile.secureswiftcontent.com/rtm-ch033/rtm-ch033/tm-ch033-96000.m3u8
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/5/64735.v10.png",Radio Havoc FM
+http://nebula.shoutca.st:8098/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/9/21689.v2.png",Radio Alam Seni FM
+http://s1.cmesolution.my:6178/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/0/21290.v11.png",Pahang FM
+https://pahangfmmobile.secureswiftcontent.com/rtm-ch034/rtm-ch034/chunklist.m3u8
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/2/78852.v15.png",Jalinan Kasih FM
+https://azura14.instainternet.com/radio/8000/radio.mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/6/47516.v2.png",Radio Impian Fm
+http://s1.cmesolution.my:6156/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/9/47479.v7.png",LT FM
+http://live.ltfmonline.com:8000/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/3/21353.v7.png",BFM Radio fm
+https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.aac?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/9/82309.v17.png",Radiorosak FM
+https://radiorosak.radioca.st/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/7/21627.v2.png",Cats FM
+http://catsfm64.cspixel.com:7111/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/4/21144.v6.png",KC FM
+http://radio.kcfm.org:8000/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/8/21358.v9.png",TraXX FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/6/20436.v5.png",MY FM
+https://astro1.rastream.com//myfm?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/6/21336.v7.png",Mutiara Fm
+https://mutiarafmmobile.secureswiftcontent.com/rtm-ch039/rtm-ch039/chunklist.m3u8
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/5/76175.v5.png",Classic Rock Asia
+https://astro4.rastream.com/rock?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/5/47465.v3.png",Radio Delima FM
+http://167.114.131.90:5610/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/4/47944.v4.png",Hijau FM
+https://stream.radio.co/s4c9c7e0cb/listen?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/5/21135.v1.png",suara rakyat fm
+http://s9.voscast.com:7670/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/7/107127.v2.png",Cyber Station FM
+http://167.114.131.90/proxy/cyberstation?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/5/47995.v2.png",Radio Gemersik FM
+http://167.114.131.90:5232/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/6/47476.v2.png",Pine Net Radio FM
+http://167.114.131.90:5744/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/0/47520.v2.png",Radio Iras FM
+http://167.114.131.90:5300/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/9/80489.v8.png",Ceria FM
+http://ceriafm.iradio.work:8080/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/0/47460.v2.png",Radio Klatekita
+http://s6.voscast.com:9748/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/5/71875.v8.png",ILA FM
+http://s1.cmesolution.my:5442/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/6/47996.v3.png",Gempak 3GFM
+http://167.114.131.90:5232/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/7/92267.v7.png",Ceritera FM
+http://live.ceriterafm.my:8000/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/8/95288.v4.png",Nasyid FM
+http://stereo.nasyidfm.com:8000/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/7/47467.v19.png",Radio Malaysia KedahFM
+https://kedahfmmobile.secureswiftcontent.com/rtm-ch031/rtm-ch031/playlist.m3u8
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/8/21128.v11.png",Amboi FM
+http://amboifm.iradio.work:8000/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/4/48034.v4.png",Radio STAR FM
+https://ssl.geckohost.nz/proxy/interac1?mp=/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/1/48031.v4.png",My Kampus Radio FM
+https://usa10.fastcast4u.com/voicespl/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/1/82971.v4.png",Radio ROCFM
+http://cloud.tujuh.my:8000/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/4/89884.v4.png",MyWorld Radio FM
+http://167.114.131.90:5100/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/5/107405.v1.png",Poret FM
+http://cloud.tujuh.my:8079/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/1/107631.v6.png",Empire FM
+http://iradio.empirefm.org:8000/stream?type=mp3
+#EXTINF:1 group-title="Radio.my" tvg-logo="http://cdn.onlineradiobox.com/img/l/1/95991.v4.png",Fortune FM
+http://51.79.219.199:8000/stream?type=mp3
