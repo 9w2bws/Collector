@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/Indonesia/indovision.tv.channels.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh="1440" max-conn="1" refresh="24"
-
 #MalaysiaTV
 #EXTINF:3 group-title="MYTV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
@@ -12,6 +11,9 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Refer
 
 #EXTINF:3 group-title="MYTV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=dramasangat|Referer=https://www.dailymotion.com
+
+#EXTINF:3 group-title="MYTV" ch-number="113" tvg-id="tv6" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:3 group-title="MYTV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=didiktv|Referer=https://www.dailymotion.com
@@ -27,16 +29,12 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Refer
 #EXTINF:3 tvg-ID="110" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="MYTV",OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd|https://github.com/samleong123
 
-#EXTINF:3 group-title="MYTV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:3 tvg-ID="111" tvg-chno="111" tvg-name="TV SUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MYTV",RTM Sports HD
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd|https://github.com/samleong123
-
-#EXTINF:3 group-title="MYTV" ch-number="113" tvg-id="tv6" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:3 group-title="MYTV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:3 group-title="MYTV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
 #EXTVLCOPT:network-caching=1000
@@ -66,10 +64,8 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-#EXTINF:3 tvg-id="AstroPrima.my" tvg-name="Astro Prima" group-title="ASTRO",Astro Prima
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+#EXTINF:-1 tvg-id="" group-title="ASTRO"  tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png",RTB (Brunei) 
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 #ASTRO#
 #EXTINF:3 group-title="GO Shop" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
@@ -83,6 +79,11 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="boo" group-title="ASTRO",BOO
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+#EXTINF:3 tvg-id="AstroPrima.my" tvg-name="Astro Prima" group-title="ASTRO",Astro Prima
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71 
 #EXTINF:0 tvg-id="AstroAura.my" tvg-name="Astro Aura" group-title="ASTRO",Astro Aura
@@ -94,18 +95,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b48c95c2e844ea2b59e27fb42fe4b510&key=1168d5b1fcb20ad3973b101f2775c9a9
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-chno="5" group-title="ASTRO" ,Astro Vaanavil
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
-https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
-#EXTINF:-1 tvg-id="AstroBollyOneHD.my" tvg-name="Astro Box Office Tayangan Hebat" group-title="ASTRO",Astro BollyOne HD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" group-title="ASTRO",Astro Ceria
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
@@ -114,3 +103,43 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" group-title="ASTRO",Astro Oasis
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" group-title="ASTRO"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD 
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8 
+
+#EXTINF:-1 tvg-id="" group-title="ASTRO"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD 
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
+
+#EXTINF:-1 tvg-id="" group-title="ASTRO"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD 
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
+#EXTINF:-1 tvg-id="AstroBollyOneHD.my" tvg-name="Astro Box Office Tayangan Hebat" group-title="ASTRO",Astro BollyOne HD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b48c95c2e844ea2b59e27fb42fe4b510&key=1168d5b1fcb20ad3973b101f2775c9a9
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-chno="5" group-title="ASTRO" ,Astro Vaanavil
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
+
+#Radio
+#EXTINF:-1 tvg-id="era" tvg-name="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" tvg-chno="49" channel-id="49" radio="true" group-title="RADIO",Era FM
+http://astro2.rastream.com/era?type=.flv&_=0.6250803847797215
+
+#EXTINF:-1 tvg-id="hitz.fm" tvg-name="hitz.fm" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" tvg-chno="50" channel-id="50" radio="true" group-title="RADIO",Hitz FM
+http://astro1.rastream.com/hitz?type=.flv&_=0.6058576568029821
+
+#EXTINF:-1 tvg-id="hot fm" tvg-name="HOT FM" tvg-logo="https://assets.hotfm.com.my/2019/03/logo_hotfm_150x84_white.png" tvg-chno="51" channel-id="51" radio="true" group-title="RADIO",Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm.android
+
+#EXTINF:-1 tvg-id="THR Gegar" tvg-name="THR Gegar" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-chno="46" channel-id="46" radio="true" group-title="RADIO",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
+
+#EXTINF:-1 tvg-id="Sinar FM" tvg-name="SINAR FM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" tvg-chno="47" channel-id="47" radio="true" group-title="RADIO",Sinar FM
+http://astro2.rastream.com/sinar?type=.flv&_=0.36323276814073324
+
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-chno="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
+https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
