@@ -85,3 +85,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:3 group-title="youtube" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300",Suke TV 1
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=rCB9gnNU1Ts/live
+
+#EXTINF:3 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="" group-title="Arab",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:3 tvg-id="MBCPlusDrama.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/512px-MBC_Drama_Plus_TV_Channel_Logo.png" group-title="Arab",MBC Plus Drama 
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+#Korean
+#EXTINF:3 tvg-id="PersianaKorea.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/voDf5jI.png" group-title="Korean",Persiana Korea 
+http://51.210.199.14/hls/stream.m3u8
