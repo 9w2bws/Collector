@@ -2,18 +2,23 @@
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" , TV1 HD 
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" , TV1 HD 
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" , TV1 HD 
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 HD 
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 HD 
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 HD 
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97 
 #EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png",TV3 
@@ -34,6 +39,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV AlHijrah 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV AlHijrah 
@@ -70,11 +76,14 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",DRAMA SANGAT HD 
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8 
+#EXTINF:-1 tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",DRAMA SANGAT HD 
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
 
 #EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my 
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd 
+#EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my 
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png",Astro Awani HD 
