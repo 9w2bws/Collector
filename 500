@@ -1,9 +1,10 @@
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",TV1
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTINF: -1 tvg-id="RTMTV1.my" group-title="m3u" tvg-logo="",TV1
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142504
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",TV2
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142505		tv2
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142505
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",TV3
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142506		tv3
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142506
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",TV3
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507		tv 3	
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",Drama Sangat
