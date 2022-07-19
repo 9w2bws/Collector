@@ -24,6 +24,12 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv|Refer
 #EXTINF:3 group-title="MYTV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Referer=https://www.dailymotion.com
 
+#EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://aqfadtv.astradamy.com/logos/TVAlhijrahWhite.png" group-title="MYTV",114 TV AlHijrah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1113
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_7284c6607dcb11ec8005ad1f1e0e9f60/tracks-v1a1/mono.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:3 tvg-ID="110" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="MYTV",OKEY
@@ -56,6 +62,11 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a4fb03a7f0b51c6264b70203ebcde10&key=abf3210c7882b3838b66e256d3d72840
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png" group-title="MYTV",RTM Parlemen
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 
 #EXTINF:3 tvg-id="AstroAwani.my" group-title="MYTV",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
