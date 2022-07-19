@@ -1,241 +1,241 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTINF: -1 tvg-id="RTMTV1.my" group-title="m3u" tvg-logo="",RTM TV 1
+#EXTINF: -1 tvg-id="RTMTV1.my" group-title="m3u",RTM TV 1
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142504
-#EXTINF: -1 tvg-id="RTMTV2.my" group-title="m3u" tvg-logo="",RTM TV 2
+#EXTINF: -1 tvg-id="RTMTV2.my" group-title="m3u",RTM TV 2
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142505
-#EXTINF: -1 tvg-id="TV3.my" group-title="m3u" tvg-logo="",TV 3
+#EXTINF: -1 tvg-id="TV3.my" group-title="m3u",TV 3
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142506
-#EXTINF: -1 tvg-id="TV3.my" group-title="m3u" tvg-logo="",TV 3
+#EXTINF: -1 tvg-id="TV3.my" group-title="m3u",TV 3
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",Drama Sangat
+#EXTINF: -1 tvg-id="" group-title="m3u",Drama Sangat
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142509
-#EXTINF: -1 tvg-id="NTV7.my" group-title="m3u" tvg-logo="",NTV 7
+#EXTINF: -1 tvg-id="NTV7.my" group-title="m3u",NTV 7
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142511
-#EXTINF: -1 tvg-id="8TV.my" group-title="m3u" tvg-logo="",8tv
+#EXTINF: -1 tvg-id="8TV.my" group-title="m3u",8tv
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142512
-#EXTINF: -1 tvg-id="TV9.my" group-title="m3u" tvg-logo="",TV 9
+#EXTINF: -1 tvg-id="TV9.my" group-title="m3u",TV 9
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142513
-#EXTINF: -1 tvg-id="AstroAwani.my" group-title="m3u" tvg-logo="",Astro Awani
+#EXTINF: -1 tvg-id="AstroAwani.my" group-title="m3u",Astro Awani
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142515
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",Ikim
+#EXTINF: -1 tvg-id="" group-title="m3u",Ikim
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142516
-#EXTINF: -1 tvg-id="TVS.my" group-title="m3u" tvg-logo="",TVS
+#EXTINF: -1 tvg-id="TVS.my" group-title="m3u",TVS
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142518
-#EXTINF: -1 tvg-id="GoShopMalay111.my" group-title="m3u" tvg-logo="",Go Shop Malay 111
+#EXTINF: -1 tvg-id="GoShopMalay111.my" group-title="m3u",Go Shop Malay 111
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142519	
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",arirang
+#EXTINF: -1 tvg-id="ArirangTV.kr" group-title="m3u" tvg-shift="+1.5",arirang
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142521		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",oppa-mania
+#EXTINF: -1 tvg-id="" group-title="m3u",oppa-mania
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142522			
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",drama sangat
+#EXTINF: -1 tvg-id="" group-title="m3u",drama sangat
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142524		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",ASTRO RIA
+#EXTINF: -1 tvg-id="" group-title="m3u",ASTRO RIA
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668
-#EXTINF: -1 tvg-id="AstroOasis.my" group-title="m3u" tvg-logo="",Astro Oasis
+#EXTINF: -1 tvg-id="AstroOasis.my" group-title="m3u",Astro Oasis
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142669
-#EXTINF: -1 tvg-id="AstroWARNA.my" group-title="m3u" tvg-logo="",Astro WARNA
+#EXTINF: -1 tvg-id="AstroWARNA.my" group-title="m3u",Astro WARNA
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670
-#EXTINF: -1 tvg-id="AstroCitra.my" group-title="m3u" tvg-logo="",Astro Citra
+#EXTINF: -1 tvg-id="AstroCitra.my" group-title="m3u",Astro Citra
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671
-#EXTINF: -1 tvg-id="AstroCeria.my" group-title="m3u" tvg-logo="",Astro Ceria
+#EXTINF: -1 tvg-id="AstroCeria.my" group-title="m3u",Astro Ceria
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672
-#EXTINF: -1 tvg-id="Boo.my" group-title="m3u" tvg-logo="",Boo
+#EXTINF: -1 tvg-id="Boo.my" group-title="m3u",Boo
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142673
-#EXTINF: -1 tvg-id="AstroAwani.my" group-title="m3u" tvg-logo="",Astro Awani
+#EXTINF: -1 tvg-id="AstroAwani.my" group-title="m3u",Astro Awani
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142674
-#EXTINF: -1 tvg-id="AstroVaanavil.my" group-title="m3u" tvg-logo="",Astro Vaanavil
+#EXTINF: -1 tvg-id="AstroVaanavil.my" group-title="m3u",Astro Vaanavil
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142675
-#EXTINF: -1 tvg-id="AstroAura.my" group-title="m3u" tvg-logo="",Astro Aura
+#EXTINF: -1 tvg-id="AstroAura.my" group-title="m3u",Astro Aura
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142676
-#EXTINF: -1 tvg-id="KBSWorld.kr" group-title="m3u" tvg-logo="",KBS World
+#EXTINF: -1 tvg-id="KBSWorld.kr" group-title="m3u",KBS World
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142677
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",astro aod 118
+#EXTINF: -1 tvg-id="" group-title="m3u",astro aod 118
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142679
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",aod
+#EXTINF: -1 tvg-id="" group-title="m3u",aod
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142680	
-#EXTINF: -1 tvg-id="iQIYI.cn" group-title="m3u" tvg-logo="",IQIYI
+#EXTINF: -1 tvg-id="iQIYI.cn" group-title="m3u",IQIYI
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142682
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",CN
+#EXTINF: -1 tvg-id="" group-title="m3u",CN
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142683
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",CN
+#EXTINF: -1 tvg-id="" group-title="m3u",CN
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142684
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",AOD
+#EXTINF: -1 tvg-id="" group-title="m3u",AOD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142685
-#EXTINF: -1 tvg-id="TVNMovies.hk" group-title="m3u" tvg-logo="",tvn movies
+#EXTINF: -1 tvg-id="TVNMovies.hk" group-title="m3u",tvn movies
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142686		
-#EXTINF: -1 tvg-id="TVNAsia.hk" group-title="m3u" tvg-logo="",TVN
+#EXTINF: -1 tvg-id="TVNAsia.hk" group-title="m3u",TVN
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142687
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",CN
+#EXTINF: -1 tvg-id="TVBEntertainmentNews.hk" group-title="m3u",TVB Entertainment News
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142689
-#EXTINF: -1 tvg-id="TVNAsia.hk" group-title="m3u" tvg-logo="",TVN
+#EXTINF: -1 tvg-id="TVNAsia.hk" group-title="m3u",TVN
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142690
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",CN
+#EXTINF: -1 tvg-id="TVBJadeMalaysia.my" group-title="m3u",TVB Jade
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142691
-#EXTINF: -1 tvg-id="OhK.sg" group-title="m3u" tvg-logo="",OH!K
+#EXTINF: -1 tvg-id="OhK.sg" group-title="m3u",OH!K
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142692		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",aapka color
+#EXTINF: -1 tvg-id="Colors.in" group-title="m3u",color
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142694		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",zee cinema
+#EXTINF: -1 tvg-id="ZeeCinema.in" group-title="m3u",Zee Cinema
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142695		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",zee tv
+#EXTINF: -1 tvg-id="ZeeTV.in" group-title="m3u",Zee TV
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142696		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",go shop
+#EXTINF: -1 tvg-id="GoShopMalay118.my" group-title="m3u",Go Shop Malay 118
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142697		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",AOD
+#EXTINF: -1 tvg-id="AstroAOD311.my" group-title="m3u",Astro AOD 311
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142698
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",AOD
+#EXTINF: -1 tvg-id="AstroAOD352.my" group-title="m3u",Astro AOD 352
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142699
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",AOD
+#EXTINF: -1 tvg-id="AstroAOD352.my" group-title="m3u",Astro AOD 352
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142700	
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",AOD
+#EXTINF: -1 tvg-id="AstroAOD353.my" group-title="m3u",Astro AOD 353
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142701
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",entah
+#EXTINF: -1 tvg-id="AstroAOD354.my" group-title="m3u",Astro AOD 354
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142702		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",cn
+#EXTINF: -1 tvg-id="AstroAOD355.my" group-title="m3u",Astro AOD 355
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142704		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",cn
+#EXTINF: -1 tvg-id="" group-title="m3u",cn
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142705		
-#EXTINF: -1 tvg-id="AstroBollyOneHD.my" group-title="m3u" tvg-logo="",Astro BollyOne HD
+#EXTINF: -1 tvg-id="AstroBollyOneHD.my" group-title="m3u",Astro BollyOne HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142706				
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",zee cinema
+#EXTINF: -1 tvg-id="ZeeCinema.in" group-title="m3u",Zee Cinema
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142708		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",zee tv
+#EXTINF: -1 tvg-id="ZeeTV.in" group-title="m3u",Zee TV
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142709		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",arena
+#EXTINF: -1 tvg-id="AstroArena.my" group-title="m3u",Astro Arena
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142710		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",arena2
+#EXTINF: -1 tvg-id="AstroArena2.my" group-title="m3u",Astro Arena 2
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",bein
+#EXTINF: -1 tvg-id="AstroSuperSport.my" group-title="m3u",Astro SuperSport
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",supersport2
+#EXTINF: -1 tvg-id="AstroSuperSport2.my" group-title="m3u",Astro SuperSport 2
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",supersport3
+#EXTINF: -1 tvg-id="AstroSuperSport3.my" group-title="m3u",Astro SuperSport 3
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",supersport4
+#EXTINF: -1 tvg-id="AstroSuperSport4.my" group-title="m3u",Astro SuperSport 4
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142715		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",supersport5
+#EXTINF: -1 tvg-id="AstroSuperSport5.my" group-title="m3u",Astro SuperSport 5
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",WWE
+#EXTINF: -1 tvg-id="WWENetwork.us" group-title="m3u",WWE Network
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142717
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",EGG
+#EXTINF: -1 tvg-id="eGGNetwork.my" group-title="m3u",Egg Network
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142718
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",onegolf
+#EXTINF: -1 tvg-id="onegolf" group-title="m3u",one golf
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142719		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",tennis
+#EXTINF: -1 tvg-id="tennischannel" group-title="m3u",tennis channel
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142720				
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",bein
+#EXTINF: -1 tvg-id="beINSports.qa" group-title="m3u",beIN SPORTS HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142722				
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",crime
+#EXTINF: -1 tvg-id="CrimePlusInvestigationAsia.us" group-title="m3u",Crime + Investigation
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142724		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",crime
+#EXTINF: -1 tvg-id="CrimePlusInvestigationAsia.us" group-title="m3u",Crime + Investigation
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142725		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",eurosport
+#EXTINF: -1 tvg-id="EurosportAsia.fr" group-title="m3u",Eurosport
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142726		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",eurosport2
+#EXTINF: -1 tvg-id="EurosportAsia.fr" group-title="m3u",eurosport 2
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142727		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",golf
+#EXTINF: -1 tvg-id="GolfChannelMalaysia.my" group-title="m3u",Golf Channel
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142728		
-#EXTINF: -1 tvg-id="HBOMalaysia.my" group-title="m3u" tvg-logo="",hbo
+#EXTINF: -1 tvg-id="HBOMalaysia.my" group-title="m3u",HBO
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142737
-#EXTINF: -1 tvg-id="HBOMalaysia.my" group-title="m3u" tvg-logo="",hbo
+#EXTINF: -1 tvg-id="HBOMalaysia.my" group-title="m3u",HBO
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142738
-#EXTINF: -1 tvg-id="HBOMalaysia.my" group-title="m3u" tvg-logo="",hbo
+#EXTINF: -1 tvg-id="HBOMalaysia.my" group-title="m3u",HBO
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142739		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",hbo sig
+#EXTINF: -1 tvg-id="HBOSignatureAsia.sg" group-title="m3u",HBO Signature HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142740		
-#EXTINF: -1 tvg-id="HBOFamilyAsia.sg" group-title="m3u" tvg-logo="",HBO Family
+#EXTINF: -1 tvg-id="HBOFamilyAsia.sg" group-title="m3u",HBO Family
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142741		
-#EXTINF: -1 tvg-id="HBOHitsAsia.sg" group-title="m3u" tvg-logo="",HBO Hits
+#EXTINF: -1 tvg-id="HBOHitsAsia.sg" group-title="m3u",HBO Hits
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142742		
-#EXTINF: -1 tvg-id="HBOHitsAsia.sg" group-title="m3u" tvg-logo="",HBO Hits
+#EXTINF: -1 tvg-id="HBOHitsAsia.sg" group-title="m3u",HBO Hits
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142743		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",star movies
+#EXTINF: -1 tvg-id="starmovies.in" group-title="m3u",star movies
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142744		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",Tamil
+#EXTINF: -1 tvg-id="" group-title="m3u",utsav plus
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142747
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",CinemaWorld
+#EXTINF: -1 tvg-id="CinemaWorld.my" group-title="m3u",CinemaWorld
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142748
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",One
+#EXTINF: -1 tvg-id="" group-title="m3u",One
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142749
-#EXTINF: -1 tvg-id="CinemaxMalaysia.my" group-title="m3u" tvg-logo="",Cinemax
+#EXTINF: -1 tvg-id="CinemaxMalaysia.my" group-title="m3u",Cinemax
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142750
-#EXTINF: -1 tvg-id="AXNMalaysia.my" group-title="m3u" tvg-logo="",axn
+#EXTINF: -1 tvg-id="AXNMalaysia.my" group-title="m3u",axn
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142755
-#EXTINF: -1 tvg-id="AXNMalaysia.my" group-title="m3u" tvg-logo="",axn
+#EXTINF: -1 tvg-id="AXNMalaysia.my" group-title="m3u",axn
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142756
-#EXTINF: -1 tvg-id="CelestialMoviesMalaysia.my" group-title="m3u" tvg-logo="",Celestrial Movies
+#EXTINF: -1 tvg-id="CelestialMoviesMalaysia.my" group-title="m3u",Celestrial Movies
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142757
-#EXTINF: -1 tvg-id="CelestialMoviesMalaysia.my" group-title="m3u" tvg-logo="",Celestrial Movies
+#EXTINF: -1 tvg-id="CelestialMoviesMalaysia.my" group-title="m3u",Celestrial Movies
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142758
-#EXTINF: -1 tvg-id="CelestialMoviesMalaysia.my" group-title="m3u" tvg-logo="",celestrial Movied
+#EXTINF: -1 tvg-id="CelestialMoviesMalaysia.my" group-title="m3u",celestrial Movied
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142759
-#EXTINF: -1 tvg-id="CelestialClassicMovies.hk" group-title="m3u" tvg-logo="",Celestial Classic Movies
+#EXTINF: -1 tvg-id="CelestialClassicMovies.hk" group-title="m3u",Celestial Classic Movies
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142760
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",sci
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142762		sci
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",Dis
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142763		dis
-#EXTINF: -1 tvg-id="CrimePlusInvestigationAsia.us" group-title="m3u" tvg-logo="",Crime + Investigation
+#EXTINF: -1 tvg-id="" group-title="m3u",Discovery Science
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142762
+#EXTINF: -1 tvg-id="DiscoveryChannelIndonesia.id" group-title="m3u",Discovery Channel Southeast Asia
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142763
+#EXTINF: -1 tvg-id="CrimePlusInvestigationAsia.us" group-title="m3u",Crime + Investigation
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142764
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",TVi
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142765		tvi
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",BCC
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142766		bbc
-#EXTINF: -1 tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="m3u" tvg-logo="",BBC World News
+#EXTINF: -1 tvg-id="tvi" group-title="m3u",TVi
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142765
+#EXTINF: -1 tvg-id="BBCEarthAsia.uk" group-title="m3u",BBC Earth
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142766
+#EXTINF: -1 tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="m3u",BBC World News
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142767
-#EXTINF: -1 tvg-id="TLCSoutheastAsia.us" group-title="m3u" tvg-logo="",TLC
+#EXTINF: -1 tvg-id="TLCSoutheastAsia.us" group-title="m3u",TLC
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142770
-#EXTINF: -1 tvg-id="NationalGeographicMalaysia.my" group-title="m3u" tvg-logo="",National Geographic
+#EXTINF: -1 tvg-id="NationalGeographicMalaysia.my" group-title="m3u",National Geographic
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142771
-#EXTINF: -1 tvg-id="NationalGeographicWildMalaysia.my" group-title="m3u" tvg-logo="",National Geographic Wild
+#EXTINF: -1 tvg-id="NationalGeographicWildMalaysia.my" group-title="m3u",National Geographic Wild
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142773
-#EXTINF: -1 tvg-id="HitsMovies.sg" group-title="m3u" tvg-logo="",Hits Movies
+#EXTINF: -1 tvg-id="HitsMovies.sg" group-title="m3u" tvg-shift="+1.5",Hits Movies
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142774
-#EXTINF: -1 tvg-id="HGTVAsia.us" group-title="m3u" tvg-logo="",hgtv
+#EXTINF: -1 tvg-id="HGTVAsia.us" group-title="m3u",hgtv
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142775
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",rock extreme
+#EXTINF: -1 tvg-id="RockExtreme.sg" group-title="m3u",rock extreme
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142784
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",rock extreme
+#EXTINF: -1 tvg-id="RockEntertainment.sg" group-title="m3u",Rock Entertainment
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142785
-#EXTINF: -1 tvg-id="Kix.hk" group-title="m3u" tvg-logo="",KIX
+#EXTINF: -1 tvg-id="Kix.hk" group-title="m3u",KIX
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142786
-#EXTINF: -1 tvg-id="KPlus.sg" group-title="m3u" tvg-logo="",k+
+#EXTINF: -1 tvg-id="KPlus.sg" group-title="m3u",k+
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",no video
+#EXTINF: -1 tvg-id="" group-title="m3u",no video
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142791
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",no video
+#EXTINF: -1 tvg-id="" group-title="m3u",no video
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142792
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",transtv
+#EXTINF: -1 tvg-id="" group-title="m3u",transtv
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142797
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",trans 7
+#EXTINF: -1 tvg-id="" group-title="m3u",trans 7
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142798
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",antv
+#EXTINF: -1 tvg-id="" group-title="m3u",antv
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142806
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",transtv indo
+#EXTINF: -1 tvg-id="" group-title="m3u",transtv indo
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142809
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",cn indon
+#EXTINF: -1 tvg-id="" group-title="m3u",cn indon
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142810
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",trans 7
+#EXTINF: -1 tvg-id="" group-title="m3u",trans 7
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142811
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",metro indon
+#EXTINF: -1 tvg-id="" group-title="m3u",metro indon
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142812
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",tvri
+#EXTINF: -1 tvg-id="" group-title="m3u",tvri
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142813
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",indonsiar
+#EXTINF: -1 tvg-id="" group-title="m3u",indonsiar
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142883
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",sctv
+#EXTINF: -1 tvg-id="" group-title="m3u",sctv
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142884
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",no video
+#EXTINF: -1 tvg-id="" group-title="m3u",no video
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142901
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",redbull
+#EXTINF: -1 tvg-id="" group-title="m3u",redbull
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142910
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",sos kids
+#EXTINF: -1 tvg-id="" group-title="m3u",sos kids
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142977
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",me kids
+#EXTINF: -1 tvg-id="" group-title="m3u",me kids
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142978
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",australia news
+#EXTINF: -1 tvg-id="" group-title="m3u",australia news
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142979
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",australia 90
+#EXTINF: -1 tvg-id="" group-title="m3u",australia 90
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142980
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",Australia ivion
+#EXTINF: -1 tvg-id="" group-title="m3u",Australia ivion
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142981
