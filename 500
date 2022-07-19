@@ -206,25 +206,25 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142791
 #EXTINF: -1 tvg-id="" group-title="m3u",no video
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142792
-#EXTINF: -1 tvg-id="" group-title="m3u",transtv
+#EXTINF: -1 tvg-id="TransTV.id" group-title="m3u",TransTV HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142797
-#EXTINF: -1 tvg-id="" group-title="m3u",trans 7
+#EXTINF: -1 tvg-id="Trans7.id" group-title="m3u",Trans7 HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142798
 #EXTINF: -1 tvg-id="" group-title="m3u",antv
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142806
-#EXTINF: -1 tvg-id="" group-title="m3u",transtv indo
+#EXTINF: -1 tvg-id="TransTV.id" group-title="m3u",TransTV HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142809
-#EXTINF: -1 tvg-id="" group-title="m3u",cn indon
+#EXTINF: -1 tvg-id="CNNIndonesia.id" group-title="m3u",CNN Indonesia HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142810
-#EXTINF: -1 tvg-id="" group-title="m3u",trans 7
+#EXTINF: -1 tvg-id="Trans7.id" group-title="m3u",trans 7
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142811
-#EXTINF: -1 tvg-id="" group-title="m3u",metro indon
+#EXTINF: -1 tvg-id="MetroTV.id" group-title="m3u",Metro TV
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142812
-#EXTINF: -1 tvg-id="" group-title="m3u",tvri
+#EXTINF: -1 tvg-id="TVRINasional.id" group-title="m3u",tvri
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142813
-#EXTINF: -1 tvg-id="" group-title="m3u",indonsiar
+#EXTINF: -1 tvg-id="Indosiar.id" group-title="m3u",indonsiar
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142883
-#EXTINF: -1 tvg-id="" group-title="m3u",sctv
+#EXTINF: -1 tvg-id="SCTV.id" group-title="m3u",sctv
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142884
 #EXTINF: -1 tvg-id="" group-title="m3u",no video
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142901
@@ -232,11 +232,32 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142901
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142910
 #EXTINF: -1 tvg-id="" group-title="m3u",sos kids
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142977
-#EXTINF: -1 tvg-id="" group-title="m3u",me kids
+#EXTINF: -1 tvg-id="abcme" group-title="m3u",abc me
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142978
-#EXTINF: -1 tvg-id="" group-title="m3u",australia news
+#EXTINF: -1 tvg-id="" group-title="m3u",abc news
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142979
-#EXTINF: -1 tvg-id="" group-title="m3u",australia 90
+#EXTINF: -1 tvg-id="abc90" group-title="m3u",abc 90
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142980
 #EXTINF: -1 tvg-id="" group-title="m3u",Australia ivion
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142981
+
+#EXTINF: -1 tvg-id="" group-title="m3u",
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142981
+
+#EXTINF: -1 tvg-id="" group-title="m3u",
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/49414
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
