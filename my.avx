@@ -487,19 +487,19 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #Movies
 #EXTINF:-1 tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="FILMS", UK SKY CINEMA ACTION
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53956
-#EXTINF:-1 tvg-logo="https://thelogofinder.com/wp-content/uploads/edd/2021/11/Sky-Cinema-Blockbusters-HD-Dark.svg.png" group-title="FILMS", UK SKY CINEMA BLOCKBUSTERS
+#EXTINF:-1 tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="FILMS", UK SKY CINEMA BLOCKBUSTERS
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53958
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sky_Cinema_Drama_-_Logo_2019.svg/1280px-Sky_Cinema_Drama_-_Logo_2019.svg.png" group-title="FILMS", UK SKY CINEMA DRAMA
+#EXTINF:-1 tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="FILMS", UK SKY CINEMA DRAMA
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53961
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-FAMILY-June-2020.png" group-title="FILMS", UK SKY CINEMA FAMILY
+#EXTINF:-1 tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="FILMS", UK SKY CINEMA FAMILY
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53962
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sky_Cinema_Greats?file=Sky_Cinema_Greats.png" group-title="FILMS", UK SKY CINEMA GREATS
+#EXTINF:-1 tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="FILMS", UK SKY CINEMA GREATS
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53963
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Sky_Cinema_Hits_-_Logo_2018.svg.png" group-title="FILMS", UK SKY CINEMA HITS
+#EXTINF:-1 tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="FILMS", UK SKY CINEMA HITS
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53964
-#EXTINF:-1 tvg-logo="https://www.sky.at/static/img/senderlogos_light/sky_logo_sky-cinema-premieren_w.png" group-title="FILMS", UK SKY CINEMA PREMIERE
+#EXTINF:-1 tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="FILMS", UK SKY CINEMA PREMIERE
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53965
-#EXTINF:-1 tvg-logo="https://logosfake.fandom.com/wiki/Sky_Cinema_Sci-Fi_Horror_(Anglosaw)?file=Sky_Cinema_Sci-Fi_2017.svg.png" group-title="FILMS", UK SKY CINEMA SCI-FI
+#EXTINF:-1 tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="FILMS", UK SKY CINEMA SCI-FI
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53966
 
 #EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : TNT
