@@ -11,7 +11,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142509
 #EXTINF: -1 tvg-id="NTV7.my" group-title="m3u" tvg-logo="",NTV 7
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142511
-#EXTINF: -1 tvg-id="TV8.my" group-title="m3u" tvg-logo="",TV 8
+#EXTINF: -1 tvg-id="8TV.my" group-title="m3u" tvg-logo="",8tv
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142512
 #EXTINF: -1 tvg-id="TV9.my" group-title="m3u" tvg-logo="",TV 9
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142513
@@ -51,7 +51,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142676
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142677
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",cn
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142679
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",HBO
+#EXTINF: -1 tvg-id="HBOMalaysia.my" group-title="m3u" tvg-logo="",HBO
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142680	
 #EXTINF: -1 tvg-id="iQIYI.cn" group-title="m3u" tvg-logo="",IQIYI
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142682
@@ -95,7 +95,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142702
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142704		
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",cn
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142705		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",bollyone
+#EXTINF: -1 tvg-id="AstroBollyOneHD.my" group-title="m3u" tvg-logo="",Astro BollyOne HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142706				
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",zee cinema
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142708		
@@ -135,19 +135,19 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142726
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142727		
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",golf
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142728		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",hbo
+#EXTINF: -1 tvg-id="HBOMalaysia.my" group-title="m3u" tvg-logo="",hbo
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142737
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",hbo
+#EXTINF: -1 tvg-id="HBOMalaysia.my" group-title="m3u" tvg-logo="",hbo
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142738
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",hbo
+#EXTINF: -1 tvg-id="HBOMalaysia.my" group-title="m3u" tvg-logo="",hbo
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142739		
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",hbo sig
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142740		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",hbo family
+#EXTINF: -1 tvg-id="HBOFamilyAsia.sg" group-title="m3u" tvg-logo="",HBO Family
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142741		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",hbo hits
+#EXTINF: -1 tvg-id="HBOHitsAsia.sg" group-title="m3u" tvg-logo="",HBO Hits
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142742		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",hbo hits
+#EXTINF: -1 tvg-id="HBOHitsAsia.sg" group-title="m3u" tvg-logo="",HBO Hits
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142743		
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",star movies
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142744		
@@ -159,9 +159,9 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142748
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142749
 #EXTINF: -1 tvg-id="CinemaxMalaysia.my" group-title="m3u" tvg-logo="",Cinemax
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142750
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",axn
+#EXTINF: -1 tvg-id="AXNMalaysia.my" group-title="m3u" tvg-logo="",axn
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142755
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",axn
+#EXTINF: -1 tvg-id="AXNMalaysia.my" group-title="m3u" tvg-logo="",axn
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142756
 #EXTINF: -1 tvg-id="CelestialMoviesMalaysia.my" group-title="m3u" tvg-logo="",Celestrial Movies
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142757
@@ -175,8 +175,8 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142760
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142762		sci
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",Dis
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142763		dis
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",Crime
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142764		crime
+#EXTINF: -1 tvg-id="CrimePlusInvestigationAsia.us" group-title="m3u" tvg-logo="",Crime + Investigation
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142764
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",TVi
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142765		tvi
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",BCC
@@ -184,13 +184,13 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142766		bbc
 #EXTINF: -1 tvg-id="BBCWorldNewsAsiaPacific.uk" group-title="m3u" tvg-logo="",BBC World News
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142767
 #EXTINF: -1 tvg-id="TLCSoutheastAsia.us" group-title="m3u" tvg-logo="",TLC
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142770		tlc
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142770
 #EXTINF: -1 tvg-id="NationalGeographicMalaysia.my" group-title="m3u" tvg-logo="",National Geographic
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142771		ng	
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142771
 #EXTINF: -1 tvg-id="NationalGeographicWildMalaysia.my" group-title="m3u" tvg-logo="",National Geographic Wild
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142773
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",hits movies
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142774		hits movies
+#EXTINF: -1 tvg-id="HitsMovies.sg" group-title="m3u" tvg-logo="",Hits Movies
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142774
 #EXTINF: -1 tvg-id="HGTVAsia.us" group-title="m3u" tvg-logo="",hgtv
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142775
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",rock extreme
