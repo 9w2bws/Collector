@@ -1,26 +1,26 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTINF: -1 tvg-id="RTMTV1.my" group-title="m3u" tvg-logo="",TV1
+#EXTINF: -1 tvg-id="RTMTV1.my" group-title="m3u" tvg-logo="",RTM TV 1
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142504
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",TV2
+#EXTINF: -1 tvg-id="RTMTV2.my" group-title="m3u" tvg-logo="",RTM TV 2
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142505
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",TV3
+#EXTINF: -1 tvg-id="TV3.my" group-title="m3u" tvg-logo="",TV 3
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142506
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",TV3
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507		tv 3	
+#EXTINF: -1 tvg-id="TV3.my" group-title="m3u" tvg-logo="",TV 3
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",Drama Sangat
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142509		drama sangat	
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",NTV7
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142511		ntv7
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",TV8
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142512		tv8
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",TV 9
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142513		tv9	
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",Awani
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142515		awani
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142509
+#EXTINF: -1 tvg-id="NTV7.my" group-title="m3u" tvg-logo="",NTV 7
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142511
+#EXTINF: -1 tvg-id="TV8.my" group-title="m3u" tvg-logo="",TV 8
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142512
+#EXTINF: -1 tvg-id="TV9.my" group-title="m3u" tvg-logo="",TV 9
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142513
+#EXTINF: -1 tvg-id="AstroAwani.my" group-title="m3u" tvg-logo="",Astro Awani
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142515
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",Ikim
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142516		ikim		
-#EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",TVS
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142518		tvs
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142516
+#EXTINF: -1 tvg-id="TVS.my" group-title="m3u" tvg-logo="",TVS
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142518
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",Shop Go
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142519		shop go		
 #EXTINF: -1 tvg-id="" group-title="m3u" tvg-logo="",
