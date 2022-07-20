@@ -78,7 +78,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png",RTB (Brunei) 
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#ASTRO#
 #EXTINF:3 group-title="GO Shop" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 
