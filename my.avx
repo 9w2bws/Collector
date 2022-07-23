@@ -208,25 +208,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroArena2.my" tvg-name="Astro Arena 2" group-title="Sports",Astro Arena 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
-#EXTINF: -1 tvg-id="AstroArena.my" group-title="m3u",  Astro Arena>
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142710		
-#EXTINF: -1 tvg-id="AstroArena2.my" group-title="m3u",  Astro Arena 2>
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711		
-#EXTINF: -1 tvg-id="AstroSuperSport.my" group-title="m3u",  Astro SuperSport>
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712		
-#EXTINF: -1 tvg-id="AstroSuperSport2.my" group-title="m3u",  Astro SuperSport 2>
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713		
-#EXTINF: -1 tvg-id="AstroSuperSport3.my" group-title="m3u",  Astro SuperSport 3>
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714		
-#EXTINF: -1 tvg-id="AstroSuperSport4.my" group-title="m3u",  Astro SuperSport 4>
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142715		
-#EXTINF: -1 tvg-id="AstroSuperSport5.my" group-title="m3u",  Astro SuperSport 5>
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716		
-#EXTINF: -1 tvg-id="WWENetwork.us" group-title="m3u",  WWE Network>
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142717
-#EXTINF: -1 tvg-id="eGGNetwork.my" group-title="m3u",  Egg Network>
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142718
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" group-title="Sports",Astro SuperSport
