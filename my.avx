@@ -865,7 +865,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:3 tvg-id="TimeLineAustralia.us" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/J8qVUjM.png" group-title="Australia",Time Line Australia 
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:3 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="NEWS",TRT World  
+#EXTINF:3 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="NEWS",
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
